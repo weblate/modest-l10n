@@ -959,3 +959,14 @@ msgstr "Actualizando"
 
 msgid "mcen_va_serviceprovider_other"
 msgstr "Otros"
+
+#: ../src/widgets/modest-default-global-settings-dialog.c:281
+#: ../src/hildon2/modest-hildon2-global-settings-dialog.c:283
+msgid "mcen_fi_options_tree_view"
+msgstr "Modo de vista por carpetas"
+
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "Enable offline IMAP support for this account"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

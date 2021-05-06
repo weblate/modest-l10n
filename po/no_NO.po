@@ -117,8 +117,8 @@ msgstr ""
 
 msgid "emev_ni_ui_smtp_userid_invalid"
 msgstr ""
-"SMTP-brukernavn er ikke definert. Rediger alternativer for e-postkontoen "
-"%1$s, og skriv inn passord for serveren %2$s."
+"SMTP-brukernavn er ikke definert. Rediger alternativer for e-postkontoen %1"
+"$s, og skriv inn passord for serveren %2$s."
 
 msgid "emev_ui_imap_inbox_select_error"
 msgstr "Kan ikke velge serverinnboks. Start programmet på nytt, og prøv igjen."
@@ -945,3 +945,12 @@ msgstr "Oppdaterer"
 
 msgid "mcen_va_serviceprovider_other"
 msgstr "Annet"
+
+msgid "mcen_fi_options_tree_view"
+msgstr "Tree view mode"
+
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "Enable offline IMAP support for this account"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

@@ -123,8 +123,8 @@ msgstr ""
 
 msgid "emev_ni_ui_smtp_userid_invalid"
 msgstr ""
-"Nom d'utilisateur SMTP non défini. Modifier les options du compte e-"
-"mail %1$s et entrer le mot de passe d'accès au serveur %2$s."
+"Nom d'utilisateur SMTP non défini. Modifier les options du compte e-mail %1"
+"$s et entrer le mot de passe d'accès au serveur %2$s."
 
 msgid "emev_ui_imap_inbox_select_error"
 msgstr ""
@@ -970,3 +970,12 @@ msgstr "Rafraîchissement"
 
 msgid "mcen_va_serviceprovider_other"
 msgstr "Autres"
+
+msgid "mcen_fi_options_tree_view"
+msgstr "Affichage en arborescence"
+
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "Activer le support hors-connexion de l'IMAP"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

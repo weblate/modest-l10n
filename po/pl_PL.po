@@ -962,3 +962,12 @@ msgstr "Odświeżanie"
 
 msgid "mcen_va_serviceprovider_other"
 msgstr "Inne"
+
+msgid "mcen_fi_options_tree_view"
+msgstr "Tryb widoku drzewa"
+
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "Włącz wsparcie IMAP w trybie offline dla tego konta"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

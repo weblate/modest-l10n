@@ -959,3 +959,12 @@ msgstr "Bezig met vernieuwen"
 
 msgid "mcen_va_serviceprovider_other"
 msgstr "Overige"
+
+msgid "mcen_fi_options_tree_view"
+msgstr "Tree view mode"
+
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "Enable offline IMAP support for this account"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"
