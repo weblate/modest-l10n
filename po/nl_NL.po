@@ -1,0 +1,961 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Bewerking niet ondersteund door IMAP-server"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Kan berichttekst niet ophalen"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Kan naam niet wijzigen.\n"
+"Ongeldige naam."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Kan e-mailaccount niet openen. Deze wordt mogelijk gebruikt door een andere "
+"toepassing."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP-verzendbewerking is mislukt. Probeer het later opnieuw."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Kan geen verbinding maken met de SMTP-server %s. Controleer of het netwerk "
+"toegang tot de server heeft."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Bijlage verwijderen uit bericht?\n"
+"%s"
+msgstr[1] "Geselecteerde bijlagen verwijderen uit bericht?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Door deze e-mailaccount te verwijderen, worden alle lokale berichten die "
+"zijn opgehaald naar de Inbox van deze account verwijderd. Toch verwijderen?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Door deze e-mailaccount te verwijderen, worden alle lokale berichten die "
+"zijn opgehaald naar de mappen Inbox en IMAP van deze account verwijderd. "
+"Toch verwijderen?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Bericht(en) verwijderen?\n"
+"%s"
+msgstr[1] "Berichten verwijderen?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"Door de e-mailaccount online te bewerken, wordt de verbinding verbroken en "
+"worden alle huidige bewerkingen geannuleerd. Toch doorgaan?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"Huidige opmaak wordt verwijderd.\n"
+"Toch doorgaan?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "E-mailaccount in gebruik"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "E-mailaccount niet beschikbaar"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Kan item niet verplaatsen"
+msgstr[1] "Kan %d items niet verplaatsen"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Controleren op ondersteunde verificatiemethoden"
+
+msgid "emev_ni_internal_error"
+msgstr "Fout opgetreden"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr ""
+"Kan geen verbinding met %s maken. De servernaam of het poortnummer is "
+"mogelijk onjuist."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "%s-bericht niet beschikbaar op server."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"Kan geen verbinding met %s maken. De servernaam of het poortnummer is "
+"mogelijk onjuist."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Verbinding beëindigd door e-mailserver.\n"
+"Ophalen van bericht geannuleerd. Probeer nogmaals verbinding te maken."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Fout bij het verwerken van bericht.\n"
+"Bericht mogelijk niet aanwezig op server."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"SMTP-verificatie is mislukt. Controleer uw gebruikersnaam en wachtwoord of "
+"uw toegangsrecht tot %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"SMTP-wachtwoord niet gedefinieerd. Bewerk de e-mailaccountopties voor de %s-"
+"account en voer het wachtwoord in voor de %s-server."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"SMTP-gebruikersnaam niet gedefinieerd. Bewerk de e-mailaccountopties voor de "
+"%1$s-account en voer het wachtwoord in voor de %2$s-server."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Kan Inbox van server niet selecteren. Start de toepassing en probeer het "
+"opnieuw."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Fout in socket-bewerking. Als via SSL gecodeerde e-mail wordt gebruikt, "
+"schakel SSL dan uit en probeer het opnieuw."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Alle wijzigingen in de instellingen gaan zo verloren.\n"
+"Toch doorgaan?"
+
+msgid "mail_bd_external_images"
+msgstr "Externe afb. downloaden"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Uitnodiging"
+
+msgid "mail_fi_password"
+msgstr "Wachtwoord"
+
+msgid "mail_fi_username"
+msgstr "Gebruikersnaam"
+
+msgid "mail_ia_password_info"
+msgstr "Voer een wachtwoord in voor de %s-server"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Titel van e-mailaccount wordt al gebruikt"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"Kan geen verbinding maken met de server %s of deze bestaat niet. Server is "
+"momenteel mogelijk niet beschikbaar. Controleer of het netwerk toegang tot "
+"de server heeft."
+
+msgid "mail_ib_checking_names"
+msgstr "Namen controleren"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Kan geen contactinformatie ophalen"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Bestand te groot om toe te voegen."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Bestandsfout"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"IMAP-synchronisatiefout bij het verwerken van berichten.\n"
+"Verzenden-ontvangen-bewerking wordt uitgevoerd voor e-mailaccount van %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Niets om te vinden"
+
+msgid "mail_ib_setting_failed"
+msgstr "Kan instellingen niet opslaan"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Kan bijlagen niet verwijderen"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Kan geen map maken"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Kan geen map maken. Externe geheugenkaart is vol."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Kan map niet verwijderen"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Kan niet verplaatsen naar huidige locatie"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Kan item niet opslaan in de map Concepten. Geheugen vol.\n"
+"Verwijder lokale e-mailberichten om geheugen vrij te maken."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"%d nieuwe berichten op de server maar de ophaallimiet is %d.\n"
+"Alle berichten ophalen of alleen de nieuwste totdat de limiet is bereikt?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Beveiligde verbinding is mislukt"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Bestandsfout"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Kan berichtkop niet ophalen"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Kan bericht niet ophalen"
+
+msgid "mail_ti_password_protected"
+msgstr "Met wachtwoord beveiligd"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Ontvanger niet gevonden op server"
+
+msgid "mail_va_attachment"
+msgstr "Bijlage"
+
+msgid "mail_va_attachments"
+msgstr "Bijlagen"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "Van"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Nieuw bericht"
+
+msgid "mail_va_no_subject"
+msgstr "(geen onderwerp)"
+
+msgid "mail_va_no_to"
+msgstr "(geen ontvanger)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Opgeslagen in %s"
+
+msgid "mail_va_subject"
+msgstr "Onderwerp"
+
+msgid "mail_va_to"
+msgstr "Naar"
+
+msgid "mcen_ap_name"
+msgstr "E-mail"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-mail"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "SMTP-servers bewerken"
+
+msgid "mcen_bd_email_signature"
+msgstr "Handtekening"
+
+msgid "mcen_bd_get_all"
+msgstr "Alle"
+
+msgid "mcen_bd_newest_only"
+msgstr "Nieuwste"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Werkbalk weergeven"
+
+msgid "mcen_cn_availability_check"
+msgstr ""
+"Bezig met verbinden met Nokia-servers om de beschikbaarheid van de service "
+"te controleren"
+
+msgid "mcen_fi_account_title"
+msgstr "Accounttitel"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-mail"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Geavanceerde instellingen"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Verbindingsspecif. SMTP-servers gebruiken"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Berichten op server laten staan"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Geen"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normaal (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Aanmelden"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Geen"
+
+msgid "mcen_fi_country"
+msgstr "Regio"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Handtekening gebruiken"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Iedere"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "E-mailmappen"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Van"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Poort"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Servernaam"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Naar"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Mapnaam"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Aantal berichten"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Grootte"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Gemaakt: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Van "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Ontvangen "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Verzonden "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Grootte "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Onderwerp "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Naar "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Automatisch toevoegen aan Contactpersonen"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Automatisch bijwerken"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Bijwerken indien verbonden via"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Binnenkomende meldingen"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Nieuwe berichtindeling"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Tijdsinterval voor bijwerken"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Serviceprovider"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Selecteer in onderstaande lijst uw land/regio en serviceprovider"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Naam"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Tik op 'Voltooien' om de instellingen op te slaan of buiten de wizard om de "
+"instellingen te negeren.\n"
+"Tik op 'Geavanceerde instellingen' om de geavanceerde accountinstellingen te "
+"wijzigen."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Tik op 'Voltooien' om de instellingen op te slaan of buiten de wizard om de "
+"instellingen te negeren. U kunt deze instellingen in het menu bewerken via "
+"'Accounts bewerken'."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Bijlage> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Oorspronkelijk bericht -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Handtekening voor %s-account"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr ""
+"Let op: u kunt accounttypen niet bewerken nadat het instellen is voltooid"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Account"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Met de wizard Account instellen kunt u e-mailaccounts definiëren voor "
+"gebruik op uw apparaat.\n"
+"Tik op 'Volgende' om door te gaan."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Het instellen van de account is voltooid."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(geen accounts)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(geen berichten)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(geen ongelezen berichten)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(geen verbindingen)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Niet gedefinieerd"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Selecteer een verbinding en bewerk de SMTP-server die moet worden gebruikt "
+"wanneer de verbinding actief is"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Uw operator en landcode worden naar Nokia verstuurd om de beschikbaardheid "
+"te controleren. Nokia zal uw persoonlijke informatie niet zonder uw "
+"toestemming gebruiken of bewaren. Raadpleeg het privacybeleid van Nokia op "
+"www.nokia.nl."
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Inline-afbeelding selecteren"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Tik om berichten weer te geven)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Instellingen opgeslagen"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Wijzigingen genegeerd"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Ongeldig e-mailadres"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Ongeldige servernaam of IP-adres"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Bericht verzonden"
+msgstr[1] "Berichten verzonden"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Bericht is naar Outbox verplaatst en wacht op verzending"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Kan ondersteunde beveiligde verificatiemethoden niet vinden"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Niet-ondersteunde link"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Gebruikersnaam of wachtwoord onjuist"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "E-mailadres"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Naam"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Beveiligde verificatie"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Beveiligde verbinding"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Binnenkomende server"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Uitgaande server"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Accounttype"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Mislukt"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Bezig met verzenden"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Uitgesteld"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Bezig met wachten"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Bijlage"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Datum (recentste eerst)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Datum (oudste eerst)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Prioriteit"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Van/Aan (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Van/Aan (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Grootte (grootste eerst)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Grootte (kleinste eerst)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Onderwerp (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Onderwerp (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Map verwijderen"
+
+msgid "mcen_me_delete_messages"
+msgstr "Berichten verwijderen"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Account bewerken"
+msgstr[1] "Accounts bewerken"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Bijlage toevoegen"
+
+msgid "mcen_me_editor_align"
+msgstr "Uitlijning"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Gecentreerd"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Links"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Rechts"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Afbeelding invoegen"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Namen controleren"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Opgemaakte tekst"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "BCC verbergen"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "CC verbergen"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Prioriteit"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Onbewerkte tekst"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Hoog"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Laag"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normaal"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "BCC weergeven"
+
+msgid "mcen_me_editor_showcc"
+msgstr "CC weergeven"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-mail"
+
+msgid "mcen_me_folder_archive"
+msgstr "Archief"
+
+msgid "mcen_me_folder_details"
+msgstr "Details van map"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Concepten"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Inbox"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Outbox"
+
+msgid "mcen_me_folder_sent"
+msgstr "Verzonden"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Doorsturen"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP-servers"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Markeren als gelezen"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Markeren als ongelezen"
+
+msgid "mcen_me_inbox_options"
+msgstr "Instellingen"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Bijlagen verwijderen"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Allen beantwoorden"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Verzenden en ontvangen"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Ongedaan maken"
+
+msgid "mcen_me_message_settings"
+msgstr "Berichtinstellingen"
+
+msgid "mcen_me_move_folder"
+msgstr "Map verplaatsen"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Bericht verplaatsen"
+msgstr[1] "Berichten verplaatsen"
+
+msgid "mcen_me_new_account"
+msgstr "Nieuwe account"
+
+msgid "mcen_me_new_folder"
+msgstr "Nieuwe map"
+
+msgid "mcen_me_new_message"
+msgstr "Nieuw bericht"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Verzenden stoppen"
+
+msgid "mcen_me_rename_folder"
+msgstr "Naam wijzigen"
+
+msgid "mcen_me_sort"
+msgstr "Sorteren"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Aan Contacten toevoegen"
+
+msgid "mcen_me_viewer_find"
+msgstr "Zoeken in bericht"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Bijlagen opslaan"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Map met inhoud verwijderen?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Geen e-mailadres gedefinieerd voor contactpersoon %s.\n"
+"Nu één definiëren?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Inhoud van bericht moet eerst worden opgehaald. Nu ophalen?"
+msgstr[1] "Inhoud van berichten moet eerst worden opgehaald. Nu ophalen?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Geen overeenkomende contactpersonen gevonden"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] ""
+"Hierdoor wordt bijlage %s verwijderd uit het bericht. Toch doorgaan?"
+msgstr[1] ""
+"Hierdoor worden %d bijlagen verwijderd uit het bericht. Toch doorgaan?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Poging tot het maken van een veilige verbinding met server %s met een "
+"onbekend certificaat.\n"
+"Verbindingen toestaan?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync-service niet beschikbaar. Start het apparaat opnieuw op."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Geen programma gevonden om dit bestandstype te openen"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"Kan geen verbinding met %s maken. De servernaam of het poortnummer is "
+"mogelijk onjuist."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Onbekend certificaat:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s-accountinstellingen voor %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Accountdetails"
+
+msgid "mcen_ti_add_email_title"
+msgstr "E-mailadres aan contactpersoon toevoegen"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Verbindingsspecifieke SMTP-server: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Standaardaccount"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Te verwijderen items kiezen"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Te verwijderen map selecteren"
+
+msgid "mcen_ti_edit_move"
+msgstr "Te verplaatsen berichten kiezen"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Te verplaatsen map selecteren"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Te hernoemen map selecteren"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "E-mailhandtekening"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Account instellen"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "E-mailaccounts"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Volledig"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Binnenkomende details"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Uitgaande details"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Gebruikersdetails"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Welkom"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Details van map"
+
+msgid "mcen_ti_font_face"
+msgstr "Lettertype selecteren"
+
+msgid "mcen_ti_font_size"
+msgstr "Tekengrootte selecteren"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Accountinstellingen voor Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Laatste update"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d bericht"
+msgstr[1] "%d berichten"
+
+msgid "mcen_ti_message_properties"
+msgstr "Details van bericht"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Verplaatsen naar"
+
+msgid "mcen_ti_new_message"
+msgstr "Nieuw bericht"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Verbindingsspecifieke SMTP-servers"
+
+msgid "mcen_ti_options"
+msgstr "Instellingen"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Bijlage selecteren"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Bijlagen selecteren"
+
+msgid "mcen_ti_select_email_title"
+msgstr "E-mailadres selecteren"
+
+msgid "mcen_ti_updating"
+msgstr "Bezig met bijwerken van IMAP- en POP-accounts"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Verzonden vanaf mijn Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "voornaam.achternaam@voorbeeld.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Meer weergeven"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Nooit"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d nieuw bericht"
+msgstr[1] "%d nieuwe berichten"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Elke verbinding"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN en WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Opgemaakte tekst (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Onbewerkte tekst"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minuten"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minuten"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 uur"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 uur"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 uur"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minuten"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 uur"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minuten"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 uur"
+
+msgid "mcen_va_refreshing"
+msgstr "Bezig met vernieuwen"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Overige"

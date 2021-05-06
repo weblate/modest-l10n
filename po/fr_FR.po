@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Opération non prise en charge par le serveur IMAP"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Impossible de récupérer le corps du message"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Impossible de renommer.\n"
+"Nom incorrect."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Impossible d'accéder au compte e-mail. Une autre application l'utilise peut-"
+"être."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Échec de l'opération d'envoi SMTP. Veuillez réessayer."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Impossible d'établir une connexion avec le serveur SMTP %s. Vérifier que "
+"votre réseau a accès au serveur."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Supprimer la pièce jointe du message ?\n"
+"%s"
+msgstr[1] "Supprimer les pièces jointes sélectionnées du message ?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"La suppression de ce compte e-mail va entraîner la suppression de toutes les "
+"copies locales des messages récupérés dans la boîte de réception de ce "
+"compte. Supprimer ?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"La suppression de ce compte e-mail va entraîner la suppression de toutes les "
+"copies des messages récupérés dans la boîte de réception et des dossiers "
+"IMAP de ce compte. Supprimer ?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Supprimer le message ?\n"
+"%s"
+msgstr[1] "Supprimer les messages ?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"La modification en ligne du compte e-mail entraîne sa déconnexion et annule "
+"toutes les opérations en cours. Continuer ?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"La mise en forme actuelle va être perdue.\n"
+"Continuer ?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Compte e-mail en cours d'utilisation"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Compte e-mail non disponible"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Impossible de déplacer l'élément"
+msgstr[1] "Impossible de déplacer %d éléments"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Vérification des méthodes d'authentification prises en charge"
+
+msgid "emev_ni_internal_error"
+msgstr "Erreur"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr ""
+"Impossible d'établir une connexion à %s. Le nom du serveur ou le numéro de "
+"port est peut-être incorrect."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Message %s non disponible sur le serveur"
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"Impossible d'établir une connexion à %s. Le nom du serveur ou le numéro de "
+"port est peut-être incorrect."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Connexion interrompue par le serveur e-mail.\n"
+"Récupération de message annulée. Établir une nouvelle connexion."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Erreur lors du traitement du message\n"
+"Le message n'existe peut-être pas sur le serveur."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"Échec de l'authentification SMTP. Vérifier le nom d'utilisateur, le mot de "
+"passe ou l'accès à %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"Mot de passe SMTP non défini. Modifier les options du compte e-mail %s et "
+"entrer le mot de passe d'accès au serveur %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"Nom d'utilisateur SMTP non défini. Modifier les options du compte e-"
+"mail %1$s et entrer le mot de passe d'accès au serveur %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Impossible de sélectionner la Boîte de réception du serveur. Relancer "
+"l'application et réessayer."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Erreur au niveau de la connexion. En cas d'utilisation de la méthode de "
+"cryptage SSL, désactiver SSL et réessayer."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Tous les changements apportés aux paramètres seront perdus.\n"
+"Continuer ?"
+
+msgid "mail_bd_external_images"
+msgstr "Télécharger des images externes"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Invitation"
+
+msgid "mail_fi_password"
+msgstr "Mot de passe"
+
+msgid "mail_fi_username"
+msgstr "Nom d'utilisateur"
+
+msgid "mail_ia_password_info"
+msgstr ""
+"Entrer le mot de passe d'accès au serveur : \n"
+"%s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Titre de compte e-mail déjà utilisé"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"Impossible d'établir une connexion avec le serveur %s ou celui-ci n'existe "
+"pas. Le serveur n'est peut-être pas disponible actuellement. Vérifier que "
+"votre réseau a accès au serveur."
+
+msgid "mail_ib_checking_names"
+msgstr "Vérification des noms"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Impossible d'accéder aux informations du contact"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Fichier trop volumineux pour être envoyé en pièce jointe."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Erreur du fichier"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"Erreur de synchronisation IMAP détectée lors du traitement des messages.\n"
+"Opération de type Envoi-Réception sur le compte e-mail %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Rien à rechercher"
+
+msgid "mail_ib_setting_failed"
+msgstr "Impossible d'enregistrer les paramètres"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Échec de la suppression des pièces jointes"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Impossible de créer le dossier"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Impossible de créer dossier. Carte mémoire pleine."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Impossible de supprimer le dossier"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Impossible de déplacer vers l'emplacement actuel"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Impossible d'enregistrer sous Brouillons. Mémoire saturée.\n"
+"Supprimer des e-mails locaux pour libérer de l'espace."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"%d nouveaux messages sur le serveur mais la limite de récupération est %d.\n"
+"Récupérer tous les messages ou seulement les plus récents jusqu'à la limite ?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Échec de la connexion sécurisée"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Erreur de fichier"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Impossible de récupérer l'en-tête du message"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Impossible de récupérer le message"
+
+msgid "mail_ti_password_protected"
+msgstr "Protection par mot de passe"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Destinataire introuvable sur le serveur"
+
+msgid "mail_va_attachment"
+msgstr "Pièce jointe"
+
+msgid "mail_va_attachments"
+msgstr "Pièces jointes "
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "De"
+
+msgid "mail_va_fw"
+msgstr "Tr"
+
+msgid "mail_va_hotfix1"
+msgstr "Cci"
+
+msgid "mail_va_new_email"
+msgstr "Nouveau message"
+
+msgid "mail_va_no_subject"
+msgstr "(aucun objet)"
+
+msgid "mail_va_no_to"
+msgstr "(aucun destinataire)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "En cours d'enregistrement dans %s"
+
+msgid "mail_va_subject"
+msgstr "Objet "
+
+msgid "mail_va_to"
+msgstr "À"
+
+msgid "mcen_ap_name"
+msgstr "E-mail"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-mail"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Modifier les serveurs SMTP"
+
+msgid "mcen_bd_email_signature"
+msgstr "Signature"
+
+msgid "mcen_bd_get_all"
+msgstr "Tous"
+
+msgid "mcen_bd_newest_only"
+msgstr "Plus récents"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Afficher barre d'outils"
+
+msgid "mcen_cn_availability_check"
+msgstr ""
+"Connexion aux serveurs Nokia en cours pour vérifier la disponibilité du "
+"service"
+
+msgid "mcen_fi_account_title"
+msgstr "Titre du compte"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-mail"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Paramètres avancés"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr ""
+"Utiliser des serveurs SMTP spécifiques\n"
+"à la connexion"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Laisser les messages sur le serveur"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Aucune"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normale (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Authentification"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Aucune"
+
+msgid "mcen_fi_country"
+msgstr "Région"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Utiliser la signature"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Tous les"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Dossiers d'e-mail"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "De"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Nom du serveur"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "À"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Nom du dossier"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Nombre de messages"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Taille"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Cci "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Créé le : "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "De "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Reçu "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Envoyé "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Taille "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Objet "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "À "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Ajouter automatiquement aux contacts"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Mise à jour automatique"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Mettre à jour lors de la connexion avec"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Notifications entrantes"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Format de nouveau message"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Intervalle de mise à jour"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Fournisseur de services"
+
+msgid "mcen_ia_accountdetails"
+msgstr ""
+"Sélectionnez votre pays/région et fournisseur de \n"
+"services dans la liste ci-dessous"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Nom"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Taper sur Terminer pour enregistrer, ou ignorer les paramètres en tapant en "
+"dehors de l'assistant.\n"
+"Taper sur Paramètres avancés pour modifier les paramètres de compte avancés."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Taper sur Terminer pour enregistrer les paramètres, ou taper en dehors de "
+"l'assistant pour les ignorer. Vous pourrez les modifier ultérieurement via "
+"l'option Modifier des comptes du menu."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Pièce jointe> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Message d'origine -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Signature du compte %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr ""
+"Remarque : impossible de modifier le type de compte une fois la "
+"configuration terminée"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Compte"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"L'assistant Configuration du compte e-mail permet de définir les comptes e-"
+"mail utilisés sur le terminal.\n"
+"Taper sur Suivant pour continuer."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "La configuration du compte est terminée."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(aucun compte)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(aucun message)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(aucun message non lu)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(aucune connexion)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Non défini"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Sélectionner la connexion et modifier le serveur SMTP à utiliser lorsque la "
+"connexion est active"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Votre opérateur et votre code pays sont envoyés à Nokia pour vérifier la "
+"disponibilité du service. Nokia ne pourra traiter ou, stocker aucune "
+"information personnelle identifiable sans votre autorisation. Consultez la "
+"politique de confidentialité de Nokia sur www.nokia.fr"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Sélectionner image à insérer"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Taper pour afficher les messages)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Paramètres enregistrés"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Modifications ignorées"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Adresse e-mail non valide"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Nom du serveur ou adresse IP non valide"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Message envoyé"
+msgstr[1] "Messages envoyés"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Message déplacé dans Boîte d'envoi en attente d'envoi"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr ""
+"Impossible de détecter des méthodes d'authentification sécurisée prises en "
+"charge"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Type de lien non pris en charge"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Nom d'utilisateur ou mot de passe incorrect"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Adresse e-mail"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Nom"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Authentification sécurisée"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Connexion sécurisée"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Serveur entrant"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Serveur sortant"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Type de compte"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Échec"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Envoi en cours"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Suspendu"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "En attente"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Pièce jointe"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Date (ordre décroissant)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Date (ordre croissant)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Priorité"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "De/À (A à Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "De/À (Z à A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Taille (ordre décroissant)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Taille (ordre croissant)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Objet (A à Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Objet (Z à A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Supprimer dossier"
+
+msgid "mcen_me_delete_messages"
+msgstr "Supprimer des messages"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Modifier le compte"
+msgstr[1] "Modifier comptes"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Ajouter une pièce jointe"
+
+msgid "mcen_me_editor_align"
+msgstr "Alignement"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Centré"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Gauche"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Droite"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Insérer image"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Vérifier les noms"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Texte mis en forme"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Masquer Cci"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Masquer Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Priorité"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Texte brut"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Élevée"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Faible"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normale"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Afficher Cci"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Afficher Cc"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-mail"
+
+msgid "mcen_me_folder_archive"
+msgstr "Archives"
+
+msgid "mcen_me_folder_details"
+msgstr "Détails du dossier"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Brouillons"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Boîte de réception"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Boîte d'envoi"
+
+msgid "mcen_me_folder_sent"
+msgstr "Messages envoyés"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Transférer"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "Serveurs SMTP"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Marquer comme lu"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Marquer comme non lu"
+
+msgid "mcen_me_inbox_options"
+msgstr "Paramètres"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Supprimer pièces jointes"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Répondre à tous"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Envoyer et recevoir"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Annuler"
+
+msgid "mcen_me_message_settings"
+msgstr "Paramètres de messages"
+
+msgid "mcen_me_move_folder"
+msgstr "Déplacer dossier"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Déplacer le message"
+msgstr[1] "Déplacer des messages"
+
+msgid "mcen_me_new_account"
+msgstr "Nouveau compte"
+
+msgid "mcen_me_new_folder"
+msgstr "Nouveau dossier"
+
+msgid "mcen_me_new_message"
+msgstr "Nouveau message"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Arrêter l'envoi"
+
+msgid "mcen_me_rename_folder"
+msgstr "Renommer dossier"
+
+msgid "mcen_me_sort"
+msgstr "Trier"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Ajouter aux contacts"
+
+msgid "mcen_me_viewer_find"
+msgstr "Rechercher dans message"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Enregistrer pièces jointes"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Supprimer ce dossier et son contenu ?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Aucune adresse e-mail pour le contact %s.\n"
+"En définir une maintenant ?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] ""
+"Le contenu du message doit d'abord être récupéré. Récupérer maintenant ?"
+msgstr[1] ""
+"Le contenu des messages doit d'abord être récupéré. Récupérer maintenant ?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Aucun contact correspondant n'a été trouvé"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "La pièce jointe %s sera supprimée du message. Continuer ?"
+msgstr[1] ""
+"Cette action entraîne la suppression de %d pièces jointes du message. "
+"Continuer ?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Tentative d'établir une connexion sécurisée au serveur %s avec un certificat "
+"inconnu.\n"
+"Autoriser les connexions ?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Service Intellisync non disponible. Essayer de redémarrer le terminal."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Aucun programme trouvé pour ouvrir ce type de fichier"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"Impossible d'établir une connexion à %s. Le nom du serveur ou le numéro de "
+"port sont peut-être incorrects."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Certificat inconnu :\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "Paramètres du compte %s pour %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Détails du compte"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Ajouter adresse e-mail"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Serveur SMTP spécifique de connexion : %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Compte par défaut"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Choisir les éléments à supprimer"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Sélectionner le dossier à supprimer"
+
+msgid "mcen_ti_edit_move"
+msgstr "Choisir les messages à déplacer"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Sélectionner le dossier à déplacer"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Sélectionner le dossier à renommer"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Signature de l'e-mail"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Configuration du compte"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Comptes e-mail"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Terminée"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Détails entrants"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Détails sortants"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Détails de l'utilisateur"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Bienvenue"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Détails du dossier"
+
+msgid "mcen_ti_font_face"
+msgstr "Sélectionner le type de police"
+
+msgid "mcen_ti_font_size"
+msgstr "Sélectionner la taille de la police"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Paramètres de comptes pour Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Dernière mise à jour"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d message"
+msgstr[1] "%d messages"
+
+msgid "mcen_ti_message_properties"
+msgstr "Détails du message"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Déplacer dans le dossier"
+
+msgid "mcen_ti_new_message"
+msgstr "Nouveau message"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Serveurs SMTP de connexion"
+
+msgid "mcen_ti_options"
+msgstr "Paramètres"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Sélectionner une pièce jointe"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Sélectionner des pièces jointes"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Sélectionner adresse e-mail"
+
+msgid "mcen_ti_updating"
+msgstr "Mise à jour des comptes IMAP et POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Envoyé depuis mon Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "prénom.nom@exemple.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Afficher autres"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Jamais"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d nouveau message"
+msgstr[1] "%d nouveaux messages"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "N'importe quelle connexion"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Réseau local sans fil"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN and WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Texte mis en forme (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Texte brut"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minutes"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minutes"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 heure"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 heures"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 heures"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minutes"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 heures"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minutes"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 heures"
+
+msgid "mcen_va_refreshing"
+msgstr "Rafraîchissement"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Autres"

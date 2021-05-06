@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "IMAP-palvelin ei tue toimintoa"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Viestin tekstiä ei voi hakea"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Ei voi nimetä uudelleen.\n"
+"Virheellinen nimi."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Sähköpostitiliä ei voi käyttää. Se saattaa olla toisen sovelluksen käytössä."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP-lähetystoiminto epäonnistui. Yritä myöhemmin uudelleen."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Ei voi yhdistää SMTP-palvelimelle %s. Tarkista, että verkkoyhteys "
+"palvelimelle toimii."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Poistetaanko liite viestistä?\n"
+"%s"
+msgstr[1] "Poistetaanko valitut liitteet viestistä?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Tämän sähköpostitilin poistaminen poistaa tilin kaikki haetut kopiot tilin "
+"Saapuneet-kansiosta. Poistetaanko silti?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Kun sähköpostitili poistetaan, kaikki tilin Saapuneet-kansioon ja IMAP-"
+"kansioon haettujen viestien paikalliset kopiot poistetaan. Poistetaanko "
+"silti?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Poistetaanko viesti?\n"
+"%s"
+msgstr[1] "Poistetaanko viestit?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"Sähköpostitilin online-muokkaus katkaisee yhteyden ja peruuttaa kaikki "
+"nykyiset toiminnot. Jatketaanko silti?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"Kaikki nykyiset muotoilut poistetaan.\n"
+"Jatketaanko silti?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Käytössä oleva sähköpostitili"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Sähköpostitili ei ole käytettävissä"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Kohdetta ei voi siirtää"
+msgstr[1] "Ei voi siirtää %d kohdetta"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Tarkistetaan tuettuja todennustapoja"
+
+msgid "emev_ni_internal_error"
+msgstr "Virhe"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr ""
+"Ei voi muodostaa yhteyttä kohteeseen %s. Palvelimen nimi tai portin numero "
+"voi olla virheellinen."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Viesti %s ei ole käytettävissä palvelimella."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"Ei voi muodostaa yhteyttä kohteeseen %s. Palvelimen nimi tai portin numero "
+"voi olla virheellinen."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Sähköpostipalvelin katkaisi yhteyden.\n"
+"Viestin hakeminen peruutettiin. Muodosta yhteys myöhemmin uudelleen."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Virhe viestin käsittelyssä.\n"
+"Viestiä ei ehkä ole palvelimella."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"SMTP-todennus epäonnistui. Tarkista käyttäjänimi, salasana ja käyttöoikeus "
+"palvelimelle %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"SMTP-salasanaa ei ole määritetty. Muokkaa sähköpostitilin %s asetuksia ja "
+"kirjoita palvelimen %s salasana."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"SMTP-käyttäjänimeä ei ole määritetty. Muokkaa tilin %1$s sähköpostiasetuksia "
+"ja anna palvelimen %2$s salasana."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Palvelimen Saapuneet-kansiota ei voi valita. Käynnistä sovellus uudelleen ja "
+"yritä uudelleen."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Virhe yhteyskäytännössä. Jos käytät SSL-salattua s-postia, ota SSL pois "
+"käytöstä ja yritä uudelleen."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Asetuksiin tehdyt muutokset häviävät.\n"
+"Jatketaanko silti?"
+
+msgid "mail_bd_external_images"
+msgstr "Lataa ulkoiset kuvat"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Kutsu"
+
+msgid "mail_fi_password"
+msgstr "Salasana"
+
+msgid "mail_fi_username"
+msgstr "Käyttäjänimi"
+
+msgid "mail_ia_password_info"
+msgstr "Kirjoita palvelimen %s salasana"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Sähköpostitilin nimi on jo käytössä"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"Ei voi yhdistää palvelimelle %s tai palvelinta ei ole. Palvelin ei ehkä ole "
+"käytettävissä. Tarkista, että verkkoyhteys palvelimelle toimii."
+
+msgid "mail_ib_checking_names"
+msgstr "Tarkistetaan nimiä"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Yhteystietoja ei voi käyttää"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Liitetiedosto on liian suuri."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Tiedostovirhe"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"IMAP-synkronointivirhe viestejä käsiteltäessä.\n"
+"Suoritetaan Lähetä-vastaanota-toiminto tilille %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Ei löydettävää"
+
+msgid "mail_ib_setting_failed"
+msgstr "Asetuksia ei voi tallentaa"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Liitteitä ei voi poistaa"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Ei voi luoda kansiota"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Kansiota ei voi luoda. Ulkoinen muistikortti täynnä."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Kansiota ei voi poistaa"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Ei voi siirtää nykyiseen sijaintiin"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Ei voi tallentaa Luonnoksiin. Muisti täynnä.\n"
+"Vapauta muistia poistamalla paikalliset sähköpostit."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"Palvelimella on %d uutta viestiä. Hakuraja on %d.\n"
+"Haetaanko kaikki viestit vai uusimmat rajaan saakka?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Suojatun yhteyden muodostaminen epäonnistui"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Tiedostovirhe"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Viestin otsikkoa ei voi hakea"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Viestiä ei voi hakea"
+
+msgid "mail_ti_password_protected"
+msgstr "Salasanasuojaus"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Vastaanottajaa ei löydy palvelimelta"
+
+msgid "mail_va_attachment"
+msgstr "Liitetiedosto"
+
+msgid "mail_va_attachments"
+msgstr "Liitetiedostot"
+
+msgid "mail_va_cc"
+msgstr "Kopio"
+
+msgid "mail_va_from"
+msgstr "Lähettäjä"
+
+msgid "mail_va_fw"
+msgstr "VL"
+
+msgid "mail_va_hotfix1"
+msgstr "Piilokopio"
+
+msgid "mail_va_new_email"
+msgstr "Uusi viesti"
+
+msgid "mail_va_no_subject"
+msgstr "(ei aihetta)"
+
+msgid "mail_va_no_to"
+msgstr "(ei vastaanottajaa)"
+
+msgid "mail_va_re"
+msgstr "VS"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Tallennetaan kohteeseen %s"
+
+msgid "mail_va_subject"
+msgstr "Aihe"
+
+msgid "mail_va_to"
+msgstr "Vast.ottaja"
+
+msgid "mcen_ap_name"
+msgstr "Sähköposti"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "Sähköposti"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Muokkaa SMTP-palvelimia"
+
+msgid "mcen_bd_email_signature"
+msgstr "Allekirjoitus"
+
+msgid "mcen_bd_get_all"
+msgstr "Kaikki"
+
+msgid "mcen_bd_newest_only"
+msgstr "Vain uusim."
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Näytä työkalurivi"
+
+msgid "mcen_cn_availability_check"
+msgstr "Tarkistetaan palvelun tila yhdistämällä Nokia-palvelimiin."
+
+msgid "mcen_fi_account_title"
+msgstr "Tilin nimi"
+
+msgid "mcen_fi_add_email_name"
+msgstr "Sähköposti"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Lisäasetukset"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Käytä SMTP-palvelimia yhteyden mukaan"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Jätä viestit palvelimelle"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Ei mitään"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Tavallinen (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Kirjautuminen"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Ei mitään"
+
+msgid "mcen_fi_country"
+msgstr "Alue"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Käytä allekirjoitusta"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Joka"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Sähköpostikansiot"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Alkaa:"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Portti"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Palvelimen nimi"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Päättyy:"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Kansion nimi"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Viestien määrä"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Koko"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Piilokopio "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Kopio "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Luotu: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Lähettäjä "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Vast.otettu "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Lähetetty "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Koko "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Aihe "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Vastaanottaja "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Lisää automaattisesti Yhteystietoihin"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Päivitä automaattisesti"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Päivitä, kun käytössä on"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Saapuvat ilmoitukset"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Uuden viestin muoto"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Päivitysväli"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Palveluntarjoaja"
+
+msgid "mcen_ia_accountdetails"
+msgstr ""
+"Valitse maa tai alue ja palveluntarjoaja\n"
+"seuraavasta luettelosta"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Nimi"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Tallenna valitsemalla Valmis tai hylkää asetukset napauttamalla näyttöä "
+"ohjatun toiminnon ulkopuolella. Muokkaa tilin lisäasetuksia valitsemalla "
+"Lisäasetukset."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Tallenna valitsemalla Valmis tai hylkää asetukset napauttamalla näyttöä "
+"ohjatun toiminnon ulkopuolella. Voit muokata asetuksia valitsemalla "
+"valikossa Muokkaa tilejä."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Liitetiedosto> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Alkuperäinen viesti -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Allekirjoitus tilille %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr ""
+"Huomautus: postilaatikon tyyppiä ei voi muuttaa, kun asetukset määritetty"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Tili"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Tämän ohjatun toiminnon avulla voit määrittää laitteessa käytettävät "
+"sähköpostitilit.\n"
+"Jatka valitsemalla Seuraava."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Tilin asetusten määritys on valmis."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(ei tilejä)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(ei viestejä)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(ei lukemattomia viestejä)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(ei yhteyksiä)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Ei määritetty"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Valitse yhteys ja muokkaa yhteyden käyttämää SMTP-palvelinta"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Tiedot operaattoristasi ja maakoodistasi lähetetään Nokialle palvelun "
+"saatavuuden tarkistamiseksi. Nokia ei käytä tai tallenna yksilöiviä "
+"henkilötietoja ilman lupaasi. Tutustu henkilötietojen suojaperiaatteisiin "
+"osoitteessa www.nokia.fi."
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Valitse tekstiin sitoutuva kuva"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Saat viestit näkyviin koskettamalla)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Asetukset tallennettu"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Muutokset hylätty"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Virheellinen sähköpostiosoite"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Virheellinen palvelimen nimi tai IP-osoite"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Viesti lähetetty"
+msgstr[1] "Lähetettyjä viestejä"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Viesti siirretty Lähtevät-kansioon odottamaan lähettämistä"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Tuettuja suojattuja todennustapoja ei löytynyt"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Linkkityyppiä ei tueta"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Virheellinen käyttäjänimi tai salasana"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "S-postiosoite"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Nimi"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Suojattu todennus"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Suojattu yhteys"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Vastaanottava palvelin"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Lähettävä palvelin"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Tilin tyyppi"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Epäonnistui"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Lähetetään"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Keskeytetty"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Odottaa"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Liitetiedosto"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Päivämäärä (uusin ensin)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Päivämäärä (vanhin ensin)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Prioriteetti"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Lähettäjä/Vastaanottaja (A-Ö)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Lähettäjä/Vastaanottaja (Ö-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Koko (suurin ensin)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Koko (pienin ensin)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Aihe (A-Ö)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Aihe (Ö-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Poista kansio"
+
+msgid "mcen_me_delete_messages"
+msgstr "Poista viestejä"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Muokkaa tiliä"
+msgstr[1] "Muokkaa tilejä"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Lisää liite"
+
+msgid "mcen_me_editor_align"
+msgstr "Tasaus"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Keskitetty"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Vasen"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Oikea"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Lisää kuva"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Tarkista nimet"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Muotoiltu teksti"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Piilota piilokopio"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Piilota kopio"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Prioriteetti"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Vain teksti"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Korkea"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Matala"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normaali"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Näytä piilokopio"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Näytä kopio"
+
+msgid "mcen_me_email_home_applet"
+msgstr "Sähköposti"
+
+msgid "mcen_me_folder_archive"
+msgstr "Arkisto"
+
+msgid "mcen_me_folder_details"
+msgstr "Kansion tiedot"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Luonnokset"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Saapuneet"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Lähtevät"
+
+msgid "mcen_me_folder_sent"
+msgstr "Lähetetyt"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Lähetä eteenpäin"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP-palvelimet"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Merkitse luetuksi"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Merkitse lukemattomaksi"
+
+msgid "mcen_me_inbox_options"
+msgstr "Asetukset"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Poista liitteet"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Vastaa kaikille"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Lähetä ja vastaanota"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Kumoa"
+
+msgid "mcen_me_message_settings"
+msgstr "Viestiasetukset"
+
+msgid "mcen_me_move_folder"
+msgstr "Siirrä kansio"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Siirrä viesti"
+msgstr[1] "Siirrä viestejä"
+
+msgid "mcen_me_new_account"
+msgstr "Uusi tili"
+
+msgid "mcen_me_new_folder"
+msgstr "Uusi kansio"
+
+msgid "mcen_me_new_message"
+msgstr "Uusi viesti"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Lopeta lähetys"
+
+msgid "mcen_me_rename_folder"
+msgstr "Nimeä kansio uudelleen"
+
+msgid "mcen_me_sort"
+msgstr "Järjestä"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Lisää yhteystietoihin"
+
+msgid "mcen_me_viewer_find"
+msgstr "Etsi viestistä"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Tallenna liitteet"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Poistetaanko kansio ja sen sisältö?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Nimelle %s ei ole määritetty sähköpostiosoitetta.\n"
+"Määritetäänkö se nyt?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Viestin sisältö on haettava ensin. Haetaanko se nyt?"
+msgstr[1] "Viestien sisältö on haettava ensin. Haetaanko se nyt?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Vastaavia yhteystietoja ei löydy"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Tämä toiminto poistaa viestistä liitteen %s. Jatketaanko silti?"
+msgstr[1] "Tämä toiminto poistaa viestistä %d liitettä. Jatketaanko silti?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Yritetään muodostaa suojattua yhteyttä palvelimeen %s, jolla on tuntematon "
+"varmenne.\n"
+"Sallitaanko yhteys?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr ""
+"Intellisync-palvelu ei ole saatavana. Yritä käynnistää laite uudelleen."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Tiedostotyypille ei löytynyt katseluohjelmaa"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"Ei voi muodostaa yhteyttä kohteeseen %s. Palvelimen nimi tai portin numero "
+"voi olla virheellinen."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Tuntematon varmenne:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "Tilin %s asetukset kohteelle %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Tilitiedot"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Lisää osoite"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Yhteyden mukainen SMTP-palvelin: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Oletustili"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Valitse poistettavat kohteet"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Valitse poistettava kansio"
+
+msgid "mcen_ti_edit_move"
+msgstr "Valitse siirrettävät viestit"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Valitse siirrettävä kansio"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Valitse uudelleen nimettävä kansio"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Allekirjoitus"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Tilin asetusten määrittäminen"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Sähköpostitilit"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Valmis"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Saapuvien tiedot"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Lähtevien tiedot"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Käyttäjän tiedot"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Tervetuloa"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Kansion tiedot"
+
+msgid "mcen_ti_font_face"
+msgstr "Valitse fontin tyyppi"
+
+msgid "mcen_ti_font_size"
+msgstr "Valitse fontin koko"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Intellisync-tilin asetukset"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Päivitetty viimeksi"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d viesti"
+msgstr[1] "%d viestiä"
+
+msgid "mcen_ti_message_properties"
+msgstr "Viestin tiedot"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Siirrä kansioon"
+
+msgid "mcen_ti_new_message"
+msgstr "Uusi viesti"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Yhteyden mukaiset SMTP-palvelimet"
+
+msgid "mcen_ti_options"
+msgstr "Asetukset"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Valitse liite"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Valitse liitteet"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Valitse s-postiosoite"
+
+msgid "mcen_ti_updating"
+msgstr "IMAP- ja POP-tilien päivittäminen"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Lähetetty Nokia N900 -matkatietokoneesta"
+
+msgid "mcen_va_example_email_address"
+msgstr "etunimi.sukunimi@esimerkki.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Näytä lisää"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Ei koskaan"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d uusi viesti"
+msgstr[1] "%d uutta viestiä"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Mikä tahansa yhteys"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN-yhteys"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN ja WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Muotoiltu teksti (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Vain teksti"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minuuttia"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minuuttia"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 tunti"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 tuntia"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 tuntia"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minuuttia"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 tuntia"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minuuttia"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 tuntia"
+
+msgid "mcen_va_refreshing"
+msgstr "Päivitetään"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Muut"

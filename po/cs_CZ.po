@@ -1,0 +1,958 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Operace není serverem IMAP podporována"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Nelze načíst tělo zprávy"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Nelze přejmenovat.\n"
+"Neplatný název."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Nelze se připojit k e-mailovému účtu. Může být používán jinou aplikací."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Odeslání přes server SMTP se nezdařilo. Opakujte později."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Server SMTP „%s“ nebyl nalezen. Zkontrolujte, zda má vaše síť k serveru "
+"přístup."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Odstranit přílohu ze zprávy?\n"
+"%s"
+msgstr[1] "Odstranit vybrané přílohy ze zprávy?"
+msgstr[2] "Odstranit vybrané přílohy ze zprávy?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Odstranění tohoto e-mailového účtu odstraní také všechny lokální kopie zpráv "
+"načtených do složky Přijaté tohoto účtu. Odstranit?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Odstranění tohoto e-mailového účtu odstraní také všechny lokální kopie zpráv "
+"načtených do složek Přijaté a IMAP tohoto účtu. Odstranit?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Odstranit zprávu?\n"
+"%s"
+msgstr[1] "Odstranit zprávy?"
+msgstr[2] "Odstranit zprávy?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"Úpravy e-mailového účtu v režimu on-line povedou k odpojení a zruší veškeré "
+"aktuální operace. Přesto pokračovat?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"Veškeré aktuální formátování bude odstraněno.\n"
+"Pokračovat?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "E-mailový účet se používá"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "E-mailový účet není dostupný"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Nelze přesunout položku"
+msgstr[1] "Nelze přesunout %d položky"
+msgstr[2] "Nelze přesunout %d položek"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Zjišťování podporované metody zabezpečeného ověřování"
+
+msgid "emev_ni_internal_error"
+msgstr "Došlo k chybě"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Nelze se připojit k %s. Název serveru nebo port mohou být nesprávné."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Zpráva %s není na serveru dostupná."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"Nelze se připojit k %s. Název serveru nebo číslo portu mohou být nesprávné."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Spojení ukončeno e-mailovým serverem.\n"
+"Načítání zprávy zrušeno. Zkuste se připojit znovu."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Během zpracování zprávy došlo k chybě.\n"
+"Je možné, že zpráva na serveru neexistuje."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"Ověření serveru SMTP se nezdařilo. Zkontrolujte uživatelské jméno a heslo "
+"nebo přístup k %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"Heslo pro server SMTP není nastaveno. Upravte možnosti e-mailového účtu pro "
+"účet %s a vložte heslo pro server %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"Uživatelské jméno pro server SMTP není definováno. Upravte možnosti e-"
+"mailového účtu pro účet %1$s a vložte heslo pro server %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Nelze vybrat složku Přijaté na serveru. Restartujte aplikaci a opakujte akci."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Chyba v operaci na soketu. Používáte-li šifrování e-mailových zpráv SSL, "
+"vypněte SSL a opakujte akci."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Veškeré změny nastavení budou ztraceny.\n"
+"Pokračovat?"
+
+msgid "mail_bd_external_images"
+msgstr "Stáhnout externí obrázky"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Pozvání"
+
+msgid "mail_fi_password"
+msgstr "Heslo"
+
+msgid "mail_fi_username"
+msgstr "Uživatelské jméno"
+
+msgid "mail_ia_password_info"
+msgstr "Vložte heslo pro server %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Název e-mailového účtu se již používá"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"K serveru %s se nelze připojit nebo neexistuje. Server může být aktuálně "
+"nedostupný. Zkontrolujte, zda má vaše síť přístup k serveru."
+
+msgid "mail_ib_checking_names"
+msgstr "Kontrola názvů"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Nelze získat přístup k informacím kontaktu"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Soubor je pro připojení příliš velký."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Chyba souboru"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"Při zpracování zpráv došlo k chybě synchronizace serveru IMAP.\n"
+"Probíhá operace Odeslat-Přijmout pro e-mailový účet %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Není v čem hledat"
+
+msgid "mail_ib_setting_failed"
+msgstr "Nelze uložit nastavení"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Nelze vyprázdnit přílohy"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Nelze vytvořit složku"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Nelze vytvořit složku. Externí paměť je plná."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Nelze odstranit složku"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Nelze přesunout do současného umístění"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Nelze uložit do složky Koncepty. Paměť plná.\n"
+"Uvolněte paměť odstraněním místních e-mailových zpráv."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"%d nových zpráv na serveru. Limit pro načtení je %d.\n"
+"Načíst všechny zprávy či jen nejnovější až do limitu?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Bezpečné připojení selhalo"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Chyba souboru"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Nelze načíst hlavičku zprávy"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Nelze načíst zprávu"
+
+msgid "mail_ti_password_protected"
+msgstr "Ochrana heslem"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Příjemce na serveru nenalezen"
+
+msgid "mail_va_attachment"
+msgstr "Příloha"
+
+msgid "mail_va_attachments"
+msgstr "Přílohy"
+
+msgid "mail_va_cc"
+msgstr "Kopie"
+
+msgid "mail_va_from"
+msgstr "Od"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Skrytá kopie"
+
+msgid "mail_va_new_email"
+msgstr "Nová zpráva"
+
+msgid "mail_va_no_subject"
+msgstr "(žádný předmět)"
+
+msgid "mail_va_no_to"
+msgstr "(žádný příjemce)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Ukládání do složky %s"
+
+msgid "mail_va_subject"
+msgstr "Předmět"
+
+msgid "mail_va_to"
+msgstr "Komu"
+
+msgid "mcen_ap_name"
+msgstr "E-mail"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-mail"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Nastavit servery SMTP"
+
+msgid "mcen_bd_email_signature"
+msgstr "Podpis"
+
+msgid "mcen_bd_get_all"
+msgstr "Všechny"
+
+msgid "mcen_bd_newest_only"
+msgstr "Jen nejnovější"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Zobrazit panel nástrojů"
+
+msgid "mcen_cn_availability_check"
+msgstr ""
+"Připojování k serverům společnosti Nokia za účelem ověření dostupnosti služby"
+
+msgid "mcen_fi_account_title"
+msgstr "Název účtu"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-mail"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Pokročilé nastavení"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Servery SMTP specifické pro připojení"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Ponechat zprávy na serveru"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Žádné"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normální (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Přihlášení"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Žádné"
+
+msgid "mcen_fi_country"
+msgstr "Region"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Použít podpis"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Každý"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "E-mailové složky"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Od"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Název serveru"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Do"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Název složky"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Počet zpráv"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Velikost"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Skrytá kopie "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Kopie "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Vytvořeno: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Od "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Přijato "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Odesláno "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Velikost "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Předmět "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Komu "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Automaticky přidat do kontaktů"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Aktualizovat automaticky"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Při připojení aktualizovat přes"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Příchozí upozornění"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Nový formát zprávy"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Interval aktualizace"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Poskytovatel služeb"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Z níže uvedeného seznamu vyberte zemi/region a poskytovatele služeb"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Jméno"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Nastavení uložíte klepnutím na tlačítko „Dokončit“ nebo zrušíte klepnutím "
+"mimo průvodce.\n"
+"Klepnutím na možnost „Pokročilé nastavení“ lze upravit pokročilé nastavení "
+"účtu."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Nastavení uložíte klepnutím na možnost„Dokončit“ nebo zrušíte klepnutím mimo "
+"průvodce. Nastavení můžete později upravit pomocí možnosti „Nastavení účtů“ "
+"v nabídce."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Příloha> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Původní zpráva -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Podpis pro účet %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Poznámka: Po dokončení nastavení nelze měnit typ účtu"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Účet"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Průvodce nastavením účtu vám umožní nastavit e-mailové účty ve vašem "
+"přístroji.\n"
+"Pokračujte klepnutím na tlačítko „Další“."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Nastavení účtu dokončeno."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(žádné účty)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(žádné zprávy)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(žádné nepřečtené zprávy)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(žádná připojení)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Nenastaveno"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Vyberte připojení a nastavte server SMTP, který má být použit, pokud je "
+"připojení aktivní."
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Váš operátor a kód vaší země byl odeslán společnosti Nokia za účelem ověření "
+"dostupnosti služby. Společnost Nokia nebude zpracovávat ani ukládat žádné "
+"osobní identifikovatelné informace bez vašeho souhlasu. Viz Důvěrnost "
+"informací společnosti Nokia na stránce www.nokia.cz"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Vyberte obrázek k vložení"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Klepnutím zprávy zobrazíte)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Nastavení uloženo"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Změny zrušeny"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Neplatná e-mailová adresa"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Neplatný název serveru nebo adresa IP"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Zpráva odeslána"
+msgstr[1] "Zprávy odeslány"
+msgstr[2] "Zprávy odeslány"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Zpráva přesunuta do složky K odeslání čeká na odeslání"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Nelze zjistit podporované metody zabezpečeného ověřování"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Nepodporovaný typ odkazu"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Nesprávné uživatelské jméno nebo heslo."
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "E-mailová adresa"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Jméno"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Zabezpečené ověřování"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Bezpečné připojení"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Server příchozí pošty"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Server odchozí pošty"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Typ účtu"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Neúspěšné"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Odesílání"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Odloženo"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Čekání"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Příloha"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Datum (první nejnovější)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Datum (první nejstarší)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Priorita"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Od/Komu (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Od/Komu (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Velikost (první největší)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Velikost (první nejmenší)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Předmět (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Předmět (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Odstranit složku"
+
+msgid "mcen_me_delete_messages"
+msgstr "Odstranit zprávy"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Upravit účet"
+msgstr[1] "Upravit účty"
+msgstr[2] "Upravit účty"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Připojit přílohu"
+
+msgid "mcen_me_editor_align"
+msgstr "Zarovnání"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Na střed"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Vlevo"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Vpravo"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Vložit obrázek"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Zkontrolovat jména"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Formátovaný text"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Skrýt skryté kopie"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Skrýt kopie"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Priorita"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Prostý text"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Vysoká"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Nízká"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normální"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Zobrazit skryté kopie"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Zobrazit kopie"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-mail"
+
+msgid "mcen_me_folder_archive"
+msgstr "Archiv"
+
+msgid "mcen_me_folder_details"
+msgstr "Podrobnosti složky"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Koncepty"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Přijaté"
+
+msgid "mcen_me_folder_outbox"
+msgstr "K odeslání"
+
+msgid "mcen_me_folder_sent"
+msgstr "Odeslané"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Přeposlat"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "Servery SMTP"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Označit jako přečtené"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Označit jako nepřečtené"
+
+msgid "mcen_me_inbox_options"
+msgstr "Nastavení"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Odstranit přílohy"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Odpovědět všem"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Odeslat a přijmout"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Zpět"
+
+msgid "mcen_me_message_settings"
+msgstr "Nastavení zpráv"
+
+msgid "mcen_me_move_folder"
+msgstr "Přesunout složku"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Přesunout zprávu"
+msgstr[1] "Přesunout zprávy"
+msgstr[2] "Přesunout zprávy"
+
+msgid "mcen_me_new_account"
+msgstr "Nový účet"
+
+msgid "mcen_me_new_folder"
+msgstr "Nová složka"
+
+msgid "mcen_me_new_message"
+msgstr "Nová zpráva"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Zastavit odesílání"
+
+msgid "mcen_me_rename_folder"
+msgstr "Přejmenovat složku"
+
+msgid "mcen_me_sort"
+msgstr "Třídit"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Přidat do kontaktů"
+
+msgid "mcen_me_viewer_find"
+msgstr "Hledat ve zprávě"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Uložit přílohy"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Odstranit složku a její obsah?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Pro kontakt %s není zadána žádná e-mailová adresa.\n"
+"Zadat nyní?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Obsah zprávy musí být nejprve načten. Načíst nyní?"
+msgstr[1] "Obsah zpráv musí být načten první. Načíst?"
+msgstr[2] "Obsah zpráv musí být načten první. Načíst?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Nenalezeny žádné odpovídající kontakty"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Ze zprávy bude odstraněna příloha %s. Pokračovat?"
+msgstr[1] "Ze zprávy budou odstraněny %d přílohy. Pokračovat?"
+msgstr[2] "Ze zprávy bude odstraněno %d příloh. Pokračovat?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Navazování bezpečného připojení k serveru %s s neznámým certifikátem.\n"
+"Povolit připojení?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Služba Intellisync nedostupná. Zkuste restartovat přístroj."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Nebyl nalezen prohlížeč pro tento typ souboru"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"Nelze se připojit k %s. Název serveru nebo číslo portu mohou být nesprávné."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Neznámý certifikát:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s nastavení účtu %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Podrobnosti účtu"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Přidat e-mailovou adresu ke kontaktu"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Server SMTP specifický pro připojení: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Výchozí účet"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Vyberte položky pro odstranění"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Vyberte složku pro odstranění"
+
+msgid "mcen_ti_edit_move"
+msgstr "Vyberte zprávy pro přesunutí"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Vyberte složku pro přesunutí"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Vyberte složku pro přejmenování"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Podpis e-mailu"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Nastavení účtu"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "E-mailové účty"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Dokončit"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Podrobnosti příchozí pošty"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Podrobnosti odchozí pošty"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Podrobnosti uživatele"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Vítejte"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Podrobnosti složky"
+
+msgid "mcen_ti_font_face"
+msgstr "Zvolte styl písma"
+
+msgid "mcen_ti_font_size"
+msgstr "Zvolte velikost písma"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Nastavení účtu pro službu Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Naposledy aktualizováno"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d zpráva"
+msgstr[1] "%d zprávy"
+msgstr[2] "%d zpráv"
+
+msgid "mcen_ti_message_properties"
+msgstr "Podrobnosti zprávy"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Přesunout do složky"
+
+msgid "mcen_ti_new_message"
+msgstr "Nová zpráva"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Servery SMTP specifické pro daná připojení"
+
+msgid "mcen_ti_options"
+msgstr "Nastavení"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Vyberte přílohu"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Vyberte přílohy"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Vyberte e-mailovou adresu"
+
+msgid "mcen_ti_updating"
+msgstr "Aktualizace účtů IMAP a POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Odesláno z mého telefonu Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "jméno.příjmení@příklad.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Zobrazit další"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Nikdy"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d nová zpráva"
+msgstr[1] "%d nové zprávy"
+msgstr[2] "%d nových zpráv"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Jakékoli připojení"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN a WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Formátovaný text (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Prostý text"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minut"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minut"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 hodina"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 hodin"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 hodiny"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minut"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 hodiny"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minut"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 hodin"
+
+msgid "mcen_va_refreshing"
+msgstr "Obnovování"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Ostatní"

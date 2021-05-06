@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Операция не поддерживается сервером IMAP"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Не удается получить тело сообщения"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Не удается переименовать.\n"
+"Неверное имя."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Не удается получить доступ к учетной записи электронной почты. Возможно, "
+"используется другим приложением."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Сбой отправки на SMTP. Повторите попытку позднее."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Не удается соединиться с SMTP-сервером %s. Проверьте доступ сети к серверу."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Удалить вложение из сообщения?\n"
+"%s"
+msgstr[1] "Удалить выбранные вложения из сообщения?"
+msgstr[2] "Удалить выбранные вложения из сообщения?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Удаление данной учетной записи эл. почты приведет к удалению всех местных "
+"копий сообщений, полученных в папке вход. почты данной учетной записи. "
+"Удалить?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Удаление данной учетной записи эл. почты приведет к удалению всех местных "
+"копий сообщений, полученных в папке вход. почты и в папках IMAP данной "
+"учетной записи. Удалить?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Удалить сообщение?\n"
+"%s"
+msgstr[1] "Удалить сообщения?"
+msgstr[2] "Удалить сообщения?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"Изменение учетной записи электронной почты во время сеанса приведет к "
+"разрыву подключения и отменит все текущие операции. Продолжить?"
+
+msgid "emev_nc_formatting_lost"
+msgstr "Все текущее форматирование будет удалено. Продолжить?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Учетная запись эл. почты"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Учетная запись электронной почты недоступна"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Не удается переместить объект"
+msgstr[1] "Не удается переместить %d объекта"
+msgstr[2] "Не удается переместить %d объектов"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Проверка поддерживаемых методов безоп. проверки подлинности"
+
+msgid "emev_ni_internal_error"
+msgstr "Ошибка"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr ""
+"Не удается соединиться с %s. Возможно, неверно указаны имя сервера или номер "
+"порта."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Сообщение %s недоступно на сервере."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"Не удается соединиться с %s. Возможно, неверно указаны имя сервера или номер "
+"порта."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Соединение прекращено сервером электронной почты.\n"
+"Получение сообщения отменено. Повторите попытку соединения."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"При обработке сообщения произошла ошибка.\n"
+"Возможно, сообщение отсутствует на сервере."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"Ошибка проверки подлинности SMTP. Проверьте имя пользователя, пароль и права "
+"доступа к %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"Не задан пароль SMTP. Измените параметры учетной записи электронной почты "
+"для учетной записи %s и введите пароль для сервера %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"Не задано имя пользователя SMTP. Измените параметры учетной записи "
+"электронной почты для учетной записи %1$s и введите пароль для сервера %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Не удается выбрать Входящие сервера. Перезапустите приложение и повторите "
+"попытку."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Ошибка операции сокета. Если используются электронные письма с SSL-"
+"шифрованием отключите SSL и повторите попытку."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Все изменения, внесенные в настройки, будут утрачены.\n"
+"Продолжить?"
+
+msgid "mail_bd_external_images"
+msgstr "Загрузить внешние изобр."
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Приглашение"
+
+msgid "mail_fi_password"
+msgstr "Пароль"
+
+msgid "mail_fi_username"
+msgstr "Имя пользователя"
+
+msgid "mail_ia_password_info"
+msgstr "Введите пароль для сервера %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Этот заголовок учетной записи электронной почты уже используется"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"Сервер %s не соединяется или не существует. Возможно, сервер недоступен. "
+"Проверьте доступ сети к серверу."
+
+msgid "mail_ib_checking_names"
+msgstr "Проверка имен"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Невозможно получить доступ к контактной информации"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Файл слишком большой для вложения."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Ошибка файла"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"При обработке сообщения произошла ошибка синхронизации IMAP.\n"
+"Выполняется операция отправки-получения для учетной записи электронной почты "
+"%s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Нечего искать"
+
+msgid "mail_ib_setting_failed"
+msgstr "Не удается сохранить параметры"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Не удается удалить вложения"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Не удается создать папку"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Не удается создать папку. Внешняя карта памяти заполнена."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Не удается удалить папку"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Не удается переместить в текущее расположение"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Не удается сохранить в Черновики. Память заполнена.\n"
+"Удалите загруженные эл. письма для высвобождения памяти."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"На сервере %d новых сообщений, но предел получения равен %d.\n"
+"Получить все сообщения или только самые последние вплоть до предела?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Сбой безопасного соединения"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Ошибка файла"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Не удается получить заголовок сообщения"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Не удается получить сообщение"
+
+msgid "mail_ti_password_protected"
+msgstr "Защита паролем"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Получатель не найден на сервере"
+
+msgid "mail_va_attachment"
+msgstr "Вложение"
+
+msgid "mail_va_attachments"
+msgstr "Вложения"
+
+msgid "mail_va_cc"
+msgstr "Копия"
+
+msgid "mail_va_from"
+msgstr "От"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Скр. копия"
+
+msgid "mail_va_new_email"
+msgstr "Новое сообщение"
+
+msgid "mail_va_no_subject"
+msgstr "(нет темы)"
+
+msgid "mail_va_no_to"
+msgstr "(нет получателей)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Сохранение в %s"
+
+msgid "mail_va_subject"
+msgstr "Тема"
+
+msgid "mail_va_to"
+msgstr "Кому"
+
+msgid "mcen_ap_name"
+msgstr "Электр.почта"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "Электр.почта"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Изм. параметры SMTP-серверов"
+
+msgid "mcen_bd_email_signature"
+msgstr "Подпись"
+
+msgid "mcen_bd_get_all"
+msgstr "Все"
+
+msgid "mcen_bd_newest_only"
+msgstr "Только последние"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Панель инструментов"
+
+msgid "mcen_cn_availability_check"
+msgstr "Соединение с серверами Nokia для проверки доступности сервиса"
+
+msgid "mcen_fi_account_title"
+msgstr "Заголовок уч. записи"
+
+msgid "mcen_fi_add_email_name"
+msgstr "Электр.почта"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Расширенные настройки"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Использовать SMTP-серверы"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Ост. сообщ.на сервере"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Нет"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Стандарт (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Регистрация"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Нет"
+
+msgid "mcen_fi_country"
+msgstr "Регион"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Использовать подпись"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Все"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Папки эл. почты"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "От"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Порт"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Имя сервера"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "До"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Имя папки"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Количество сообщений"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Размер"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Скрытая копия "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Копия "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Создано: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "От "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Получено "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Отправлено "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Размер "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Тема "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Кому "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Автоматически добавлять в контакты"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Обновлять автоматически"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Обновлять при соединении через"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Входящие уведомления"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Формат нового сообщения"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Интервал обновления"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Провайдер услуг"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Выберите страну/регион и провайдера услуг из списка"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Имя"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Выберите Готово для сохранения настроек или коснитесь экрана вне окна "
+"Мастера для их отмены.\n"
+"Выберите Расширенные настройки, чтобы изменить другие параметры учетной "
+"записи."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Выберите Готово для сохранения настроек или коснитесь экрана вне окна "
+"Мастера для их отмены. Настройки можно изменить с помощью пункта меню "
+"Изменить учетные записи."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Вложение> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Исходное сообщение -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Подпись для учетной записи %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Примечание. После настройки изменить тип учетной записи невозможно"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Учетная запись"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Мастер настройки учетной записи позволяет задать учетные записи для "
+"использования на вашем устройстве.\n"
+"Для продолжения нажмите \"Далее\"."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Настройка учетной записи завершена."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(нет учетных записей)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(нет сообщений)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(нет непрочитанных сообщений)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(нет соединений)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Не задано"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Выберите соединение и измените SMTP-сервер, используемый при активном "
+"соединении"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Для проверки доступности сервиса код вашего оператора и код страны "
+"передается в Nokia. Nokia не будет использовать или хранить личную "
+"информацию без вашего согласия. См. политику конфиденциальности Nokia на www."
+"nokia.ru"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Выберите встроенное изображение"
+
+msgid "mcen_ia_taptoread"
+msgstr "(коснитесь для просмотра сообщ.)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Параметры сохранены"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Изменения не сохранены"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Неверный адрес электронной почты"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Неверное имя сервера или IP-адрес"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Сообщение отправлено"
+msgstr[1] "Сообщения отправлены"
+msgstr[2] "Сообщений отправлены"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Сообщения, перенесенные в Исходящие, ожидают отправки"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr ""
+"Невозможно определить поддерживаемые методы безопасной проверки подлинности"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Неподдерживаемый тип ссылки"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Неверное имя пользователя или пароль"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Адрес эл. почты"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Имя"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Аутентификация"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Защита соединения"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Сервер вход.сообщений"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Сервер исх. сообщений"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Тип учетной записи"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Сбой"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Отправка"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Приостановлено"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Ожидание"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Вложение"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Дата (начиная с самых новых)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Дата (начиная с самых старых)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Приоритет"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "От/кому (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "От/кому (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Размер (начиная с самых больших)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Размер (начиная с самых маленьких)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Тема (А-Я)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Тема (Я-А)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Удалить папку"
+
+msgid "mcen_me_delete_messages"
+msgstr "Удалить сообщения"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Изменить учетную запись"
+msgstr[1] "Изменить учетные записи"
+msgstr[2] "Изменить учетные записи"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Добавить вложение"
+
+msgid "mcen_me_editor_align"
+msgstr "Выравнивание"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "По центру"
+
+msgid "mcen_me_editor_align_left"
+msgstr "По левому краю"
+
+msgid "mcen_me_editor_align_right"
+msgstr "По правому краю"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Вставить изображение"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Проверить имена"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Формат. текст"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Скрыть поле Скрытая копия"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Скрыть поле Копия"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Приоритет"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Обычный текст"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Высокий"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Низкий"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Обычный"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Поле Скрытая копия"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Поле Копия"
+
+msgid "mcen_me_email_home_applet"
+msgstr "Электронная почта"
+
+msgid "mcen_me_folder_archive"
+msgstr "Архив"
+
+msgid "mcen_me_folder_details"
+msgstr "Свойства папки"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Черновики"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Входящие"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Исходящие"
+
+msgid "mcen_me_folder_sent"
+msgstr "Отправленные"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Переслать"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP-серверы"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Отметить как прочитанное"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Отмет. как непрочитанное"
+
+msgid "mcen_me_inbox_options"
+msgstr "Параметры"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Удалить вложения"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Ответить всем"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Отправить и получить"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Отменить"
+
+msgid "mcen_me_message_settings"
+msgstr "Параметры сообщения"
+
+msgid "mcen_me_move_folder"
+msgstr "Переместить папку"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Переместить сообщение"
+msgstr[1] "Переместить сообщения"
+msgstr[2] "Переместить сообщения"
+
+msgid "mcen_me_new_account"
+msgstr "Новая учетная запись"
+
+msgid "mcen_me_new_folder"
+msgstr "Создать папку"
+
+msgid "mcen_me_new_message"
+msgstr "Новое сообщение"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Остановить отправку"
+
+msgid "mcen_me_rename_folder"
+msgstr "Переименовать"
+
+msgid "mcen_me_sort"
+msgstr "Сортировать"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Добавить в контакты"
+
+msgid "mcen_me_viewer_find"
+msgstr "Найти в сообщении"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Сохранить вложения"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Удалить папку и ее содержимое?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Не задан адрес электронной почты для контакта %s.\n"
+"Задать адрес?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Сначала нужно получить содержимое сообщения. Получить сейчас?"
+msgstr[1] "Сначала нужно получить содержимое сообщений. Получить сейчас?"
+msgstr[2] "Сначала нужно получить содержимое сообщений. Получить сейчас?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Нет подходящих контактов"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "%s вложение будет удалено из сообщения. Продолжить?"
+msgstr[1] "%d вложения будут удалены из сообщения. Продолжить?"
+msgstr[2] "%d вложений будут удалены из сообщения. Продолжить?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Устанавливается безопасное соединение с сервером %s с неизвестным "
+"сертификатом.\n"
+"Разрешить соединения?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr ""
+"Услуга Intellisync недоступна. Повторите попытку после перезапуска "
+"устройства."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Не обнаружено программ просмотра файлов данного типа"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"Не удается соединиться с %s. Возможно, неверно указаны имя сервера или номер "
+"порта."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Неизвестный сертификат:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "Параметры учетной записи %s для %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Свойства учетной записи"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Добавить в контакт адрес эл. почты"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "SMTP-серверы для данного соединения: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Учетная запись по умолчанию"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Выберите объекты для удаления"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Выберите папку для удаления"
+
+msgid "mcen_ti_edit_move"
+msgstr "Выберите сообщения для перемещения"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Выберите папку для перемещения"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Выберите папку для переименования"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Подпись сообщения"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Настройка учетной записи"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Учетные записи электронной почты"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Готово"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Входящая почта"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Исходящая почта"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Сведения о пользователе"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Приветствие"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Свойства папки"
+
+msgid "mcen_ti_font_face"
+msgstr "Выберите шрифт"
+
+msgid "mcen_ti_font_size"
+msgstr "Выберите размер шрифта"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Параметры учетной записи для Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Последнее обновление"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d сообщение"
+msgstr[1] "%d сообщения"
+msgstr[2] "%d сообщений"
+
+msgid "mcen_ti_message_properties"
+msgstr "Свойства сообщения"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Переместить в папку"
+
+msgid "mcen_ti_new_message"
+msgstr "Новое сообщение"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "SMTP-серверы для данного соединения"
+
+msgid "mcen_ti_options"
+msgstr "Параметры"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Выберите вложение"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Выберите вложения"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Выбрать адрес почты"
+
+msgid "mcen_ti_updating"
+msgstr "Обновление учетных записей IMAP и POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Отправлено с моего Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "first.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Показать еще"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Никогда"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d новое сообщение"
+msgstr[1] "%d новых сообщения"
+msgstr[2] "%d новых сообщений"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Любое соединение"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN и WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Формат. текст (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Обычный текст"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 минут"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 минут"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 час"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 часа"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 часа"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 минут"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 часа"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 минут"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 часов"
+
+msgid "mcen_va_refreshing"
+msgstr "Обновление"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Другие"

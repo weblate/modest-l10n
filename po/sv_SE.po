@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Åtgärden stöds inte av IMAP-servern"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Det gick inte att hämta meddelandetexten"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Det gick inte att ändra namn.\n"
+"Ogiltigt namn."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Det gick inte att komma åt e-postkontot. Det kan hända att det används av "
+"ett annat program."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP-skickandet misslyckades. Försök igen senare."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Det gick inte att ansluta till SMTP-servern %s. Kontrollera att ditt nätverk "
+"har åtkomst till servern."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Vill du ta bort bilagan från meddelandet?\n"
+"%s"
+msgstr[1] "Vill du ta bort valda bilagor från meddelandet?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Om du tar bort det här e-postkontot tas alla kopior av meddelanden som "
+"hämtats till kontots inkorg också bort. Vill du ta bort ändå?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Om du tar bort e-postkontot raderas alla lokala kopior av meddelanden som "
+"hämtats till kontots inkorg och IMAP-mappar. Vill du ta bort ändå?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Vill du ta bort meddelandet?\n"
+"%s"
+msgstr[1] "Vill du ta bort meddelandena?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"Om e-postkontot redigeras online kopplas det ned och alla aktuella åtgärder "
+"avbryts. Vill du fortsätta ändå?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"All nuvarande formatering tas bort.\n"
+"Vill du fortsätta ändå?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "E-postkontot används redan"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "E-postkontot ej tillgängligt"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Det gick inte att flytta objektet."
+msgstr[1] "Det gick inte att flytta %d objekt"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Söker efter autentiseringsmetoder som stöds"
+
+msgid "emev_ni_internal_error"
+msgstr "Ett fel uppstod"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr ""
+"Det gick inte att ansluta till %s. Servernamn eller portnummer kan vara "
+"inkorrekta."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Meddelandet %s är inte tillgängligt på servern."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"Det gick inte att ansluta till %s. Servernamn eller portnummer kan vara "
+"inkorrekta."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Anslutningen avslutades av e-postservern.\n"
+"Hämtningen av meddelanden avbröts. Försök att ansluta igen."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Ett fel uppstod när meddelandet bearbetades.\n"
+"Meddelandet kanske inte finns på servern."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"SMTP-autentiseringen misslyckades. Kontrollera användarnamn och lösenord "
+"samt att du har åtkomst till %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"SMTP-användarnamn ej angivet. Redigera alternativen för e-postkontot %s och "
+"ange lösenord för servern %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"SMTP-användarnamn ej angivet. Redigera alternativen för e-postkontot %1$s "
+"och ange lösenord för servern %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Det gick inte att välja serverns Inkorg. Starta om programmet och försök "
+"igen."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Fel vid sockelåtgärd. Om du använder SSL-krypterad e-post, stäng av SSL och "
+"försök igen."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Alla ändringar i inställningarna försvinner.\n"
+"Vill du fortsätta ändå?"
+
+msgid "mail_bd_external_images"
+msgstr "Hämta externa bilder"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Inbjudan"
+
+msgid "mail_fi_password"
+msgstr "Lösenord"
+
+msgid "mail_fi_username"
+msgstr "Användarnamn"
+
+msgid "mail_ia_password_info"
+msgstr "Ange lösenord för servern %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "E-postkontots titel används redan"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"Det gick inte att ansluta till servern %s, eller så existerar den inte. "
+"Servern kan vara otillgänglig för närvarande. Kontrollera att ditt nätverk "
+"har åtkomst till servern."
+
+msgid "mail_ib_checking_names"
+msgstr "Kontrollerar namn"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Det gick inte att komma åt kontaktinformationen"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Filen är för stor för att bifogas."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Filfel"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"Fel vid IMAP-synkronisering medan meddelandena bearbetades.\n"
+"Utför åtgärden Skicka och ta emot för e-postkontot %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Finns inget att hitta"
+
+msgid "mail_ib_setting_failed"
+msgstr "Det gick inte att spara inställningarna"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Det gick inte att tömma bilagor"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Det gick inte att skapa mappen"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Det gick inte att skapa mappen. Externt minneskort är fullt."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Det gick inte att ta bort mappen"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Det går inte att flytta till nuvarande plats"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Det gick inte att spara i Utkast. Minnet är fullt.\n"
+"Frigör minne genom att ta bort lokala e-postmeddelanden."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"%d nya meddelanden på servern, men hämtningsgränsen är %d.\n"
+"Hämta alla meddelanden eller nyaste upp till gränsen?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Säker anslutning misslyckades."
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Filfel"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Det gick inte att hämta meddelanderubriken"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Det gick inte att hämta meddelandet"
+
+msgid "mail_ti_password_protected"
+msgstr "Lösenordsskydd"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Mottagaren hittades inte på servern"
+
+msgid "mail_va_attachment"
+msgstr "Bilaga"
+
+msgid "mail_va_attachments"
+msgstr "Bifogade filer"
+
+msgid "mail_va_cc"
+msgstr "Kopia"
+
+msgid "mail_va_from"
+msgstr "Från"
+
+msgid "mail_va_fw"
+msgstr "Vbf"
+
+msgid "mail_va_hotfix1"
+msgstr "Hemlig"
+
+msgid "mail_va_new_email"
+msgstr "Nytt meddelande"
+
+msgid "mail_va_no_subject"
+msgstr "(inget ämne)"
+
+msgid "mail_va_no_to"
+msgstr "(ingen mottagare)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Sparar i %s"
+
+msgid "mail_va_subject"
+msgstr "Ämne"
+
+msgid "mail_va_to"
+msgstr "Till"
+
+msgid "mcen_ap_name"
+msgstr "E-post"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-post"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Redigera SMTP-servrar"
+
+msgid "mcen_bd_email_signature"
+msgstr "Signatur"
+
+msgid "mcen_bd_get_all"
+msgstr "Alla"
+
+msgid "mcen_bd_newest_only"
+msgstr "Endast nya"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Visa verktygsfält"
+
+msgid "mcen_cn_availability_check"
+msgstr ""
+"Ansluter till Nokia-servrar för kontroll av tillgänglighet för tjänsten"
+
+msgid "mcen_fi_account_title"
+msgstr "Kontotitel"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-post"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Avancerade inställningar"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Använd anslutningsspecifika SMTP-servrar"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Lämna meddelandena på servern"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Ingen"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normal (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Logga in"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Ingen"
+
+msgid "mcen_fi_country"
+msgstr "Region"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Använd signatur"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Varje"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "E-postmappar"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Från"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Servernamn"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Till"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Mappnamn"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Antal meddelanden"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Storlek"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Hemlig "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Kopia "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Skapad: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Från "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Mottaget "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Skickat "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Storlek "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Ämne "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Till "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Lägg till automatiskt i Kontakter"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Uppdatera automatiskt"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Uppdatera under pågående anslutning"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Inkommande meddelanden"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Nytt meddelandeformat"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Uppdateringsintervall"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Leverantör"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Välj land/region och leverantör från listan nedan"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Namn"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Peka på slutför för att spara, eller ångra inställningarna genom att peka "
+"utanför guiden. Peka på Avancerade inställningar för att ändra avancerade "
+"kontoinställningar."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Peka på slutför för att spara, eller ångra inställningarna genom att peka "
+"utanför guiden. Du kan redigera de här inställningarna via Redigera konton "
+"på menyn."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Bilaga> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Ursprungsmeddelande -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Signatur för kontot %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Obs! Kontotypen kan inte ändras när inställningarna är klara"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Konto"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Med guiden Inställning av e-postkonto kan du definiera de e-postkonton som "
+"ska användas på din enhet.\n"
+"Fortsätt genom att peka på Nästa."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Inställningen av kontot är klar."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(inga konton)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(inga meddelanden)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(inga olästa meddelanden)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(inga anslutningar)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Ej definierade"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Välj anslutning och redigera vilka SMTP-servrar som ska användas när "
+"anslutningen är aktiv"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Din operatörs- och landskodsinformation skickas till Nokia för att "
+"kontrollera tillgängligheten för tjänsterna. Nokia behandlar eller lagrar "
+"ingen personlig information utan ditt medgivande. Nokias sekretesspolicy "
+"hittar du på www.nokia.se"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Välj textbunden bild"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Tryck för att se meddelanden)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Inställningar sparade"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Ändringarna är annullerade"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Ogiltig e-postadress"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Ogiltigt servernamn eller IP-adress"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Meddelande skickat"
+msgstr[1] "Meddelanden skickade"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Meddelandet är flyttat till Utkorgen och väntar på att skickas"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Det gick inte att hitta säkra autentiseringsmetoder som stöds"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Länktypen kan inte användas"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Användarnamnet eller lösenordet är felaktigt"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "E-postadress"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Namn"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Säker autentisering"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Säker anslutning"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Inkommande server"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Utgående server"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Kontotyp"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Misslyckades"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Skickar"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "I vänteläge"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Väntar"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Bilaga"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Datum (senaste först)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Datum (tidigaste först)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Prioritet"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Från/till (A-Ö)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Från/till (Ö-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Storlek (största först)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Storlek (minsta först)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Ämne: (A-Ö)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Ämne: (Ö-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Ta bort mapp"
+
+msgid "mcen_me_delete_messages"
+msgstr "Ta bort meddelanden"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Redigera konto"
+msgstr[1] "Redigera konton"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Lägg till bilaga"
+
+msgid "mcen_me_editor_align"
+msgstr "Justering"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Centrerat"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Vänster"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Höger"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Infoga bild"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Kontrollera namn"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Formaterad text"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Dölj hemlig kopia"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Dölj kopia"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Prioritet"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Ren text"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Hög"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Låg"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normal"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Visa hemlig kopia"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Visa kopia"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-post"
+
+msgid "mcen_me_folder_archive"
+msgstr "Arkiv"
+
+msgid "mcen_me_folder_details"
+msgstr "Mappinformation"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Utkast"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Inkorgen"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Utkorgen"
+
+msgid "mcen_me_folder_sent"
+msgstr "Skickat"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Vidarebefordra"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP-servrar"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Markera som läst"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Markera som oläst"
+
+msgid "mcen_me_inbox_options"
+msgstr "Inställningar"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Ta bort bilagor"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Svara alla"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Skicka och ta emot"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Ångra"
+
+msgid "mcen_me_message_settings"
+msgstr "Meddelandeinställningar"
+
+msgid "mcen_me_move_folder"
+msgstr "Flytta mapp"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Flytta meddelande"
+msgstr[1] "Flytta meddelanden"
+
+msgid "mcen_me_new_account"
+msgstr "Nytt konto"
+
+msgid "mcen_me_new_folder"
+msgstr "Ny mapp"
+
+msgid "mcen_me_new_message"
+msgstr "Nytt meddelande"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Stoppa skickande"
+
+msgid "mcen_me_rename_folder"
+msgstr "Ändra namn på mapp"
+
+msgid "mcen_me_sort"
+msgstr "Sortera"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Lägg till i Kontakter"
+
+msgid "mcen_me_viewer_find"
+msgstr "Sök i meddelande"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Spara bilagor"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Vill du ta bort mappen med innehåll?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Ingen e-postadress är definierad för kontakten %s.\n"
+"Vill du definiera en nu?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Innehållet i meddelandet måste hämtas först. Vill du hämta nu?"
+msgstr[1] "Innehållet i meddelandena måste hämtas först. Vill du hämta nu?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Inga matchande kontakter hittades"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Bilagan %s tas bort från meddelandet. Vill du fortsätta ändå?"
+msgstr[1] "Bilagor %d tas bort från meddelandet. Vill du fortsätta ändå?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Försöker upprätta en säker anslutning till servern %s med ett okänt "
+"certifikat.\n"
+"Vill du tillåta anslutningarna?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync-tjänsten är inte tillgänglig. Prova att starta om enheten."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Inget visningsprogram hittades för den här filtypen"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"Det gick inte att ansluta till %s. Servernamn eller portnummer kan vara "
+"inkorrekta."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Okänt certifikat:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s kontoinställningar för %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Kontoinformation"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Lägg till adress"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Anslutningsspecifik SMTP-server: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Standardkonto"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Välj objekt som ska tas bort"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Välj mapp som ska tas bort"
+
+msgid "mcen_ti_edit_move"
+msgstr "Välj meddelanden som ska flyttas"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Välj mapp som ska flyttas"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Välj mapp som namnet ska ändras på"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "E-postsignatur"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Kontoinställningar"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "E-postkonton"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Klar"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Inkommande information"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Utgående information"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Användarinformation"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Välkommen"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Mappinformation"
+
+msgid "mcen_ti_font_face"
+msgstr "Välj teckensnitt"
+
+msgid "mcen_ti_font_size"
+msgstr "Välj teckenstorlek"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Kontoinställningar för Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Senast uppdaterad"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d meddelande"
+msgstr[1] "%d meddelanden"
+
+msgid "mcen_ti_message_properties"
+msgstr "Meddelandeinfo"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Flytta till mapp"
+
+msgid "mcen_ti_new_message"
+msgstr "Nytt meddelande"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Anslutningsspecifika SMTP-servrar"
+
+msgid "mcen_ti_options"
+msgstr "Inställningar"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Välj bilaga"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Välj bilagor"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Välj e-postadress"
+
+msgid "mcen_ti_updating"
+msgstr "Uppdaterar IMAP- och POP-konton"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Skickat från min Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "förnamn.efternamn@exempel.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Visa mer"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Aldrig"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d nytt meddelande"
+msgstr[1] "%d nya meddelanden"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Alla anslutningar"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN och WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Formaterad text (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Ren text"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minuter"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minuter"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 timme"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 timmar"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 timmar"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minuter"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 timmar"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minuter"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 timmar"
+
+msgid "mcen_va_refreshing"
+msgstr "Uppdaterar"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Övriga"

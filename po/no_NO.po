@@ -1,0 +1,947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20100208121229\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Operasjonen støttes ikke av IMAP-server"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Kan ikke hente meldingsteksten"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Kan ikke endre navn.\n"
+"Ugyldig navn."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"Får ikke tilgang til e-postkontoen. Det kan hende at den brukes av et annet "
+"program."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP-sendeoperasjonen mislyktes. Prøv igjen senere."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"Kan ikke koble til SMTP-serveren %s. Kontroller at nettverket har tilgang "
+"til serveren."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Fjerne vedlegg fra melding?\n"
+"%s"
+msgstr[1] "Fjerne valgte vedlegg fra melding?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Hvis du sletter denne e-postkontoen, fjernes alle lokale kopier av meldinger "
+"som er hentet til denne kontoens innboks. Slette likevel?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Hvis du sletter denne e-postkontoen, fjernes alle lokale kopier av meldinger "
+"som er hentet til denne kontoens innboks og IMAP-mapper. Slette likevel?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Slette melding?\n"
+"%s"
+msgstr[1] "Slette meldinger?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"Hvis du redigerer en e-postkonto på Internett, brytes tilkoblingen, og alle "
+"operasjoner avbrytes. Fortsette likevel?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"All gjeldende formatering fjernes.\n"
+"Fortsette likevel?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "E-postkonto er i bruk:"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "E-postkonto er ikke tilgjengelig"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Kan ikke flytte elementet"
+msgstr[1] "Kan ikke flytte %d elementer"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Ser etter godkjenningsmetoder som støttes"
+
+msgid "emev_ni_internal_error"
+msgstr "Det oppstod en feil"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Kan ikke koble til %s. Servernavnet eller portnummeret kan være feil."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Meldingen %s er ikke tilgjengelig på serveren."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "Kan ikke koble til %s. Servernavnet eller portnummeret kan være feil."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"Tilkoblingen ble avbrutt av e-postserveren.\n"
+"Meldingshenting ble avbrutt. Prøv å koble til igjen."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Det oppstod en feil under behandling av melding.\n"
+"Meldingen eksisterer kanskje ikke på serveren."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"SMTP-godkjenning mislyktes. Kontroller brukernavnet og passordet, eller "
+"kontroller at du har tilgang til %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr ""
+"SMTP-passord er ikke definert. Rediger alternativer for e-postkontoen %s, og "
+"skriv inn passord for serveren %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr ""
+"SMTP-brukernavn er ikke definert. Rediger alternativer for e-postkontoen "
+"%1$s, og skriv inn passord for serveren %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "Kan ikke velge serverinnboks. Start programmet på nytt, og prøv igjen."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"Kontaktfeil. Hvis du bruker SSL-kryptert e-post, deaktiverer du SSL og "
+"prøver igjen."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Alle endringer i innstillingene går tapt.\n"
+"Fortsette likevel?"
+
+msgid "mail_bd_external_images"
+msgstr "Last ned eksterne bilder"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Invitasjon"
+
+msgid "mail_fi_password"
+msgstr "Passord"
+
+msgid "mail_fi_username"
+msgstr "Brukernavn"
+
+msgid "mail_ia_password_info"
+msgstr "Skriv inn passord for server %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Tittelen på e-postkontoen er allerede i bruk"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"Kan ikke koble til serveren %s, eller den finnes ikke. Serveren kan være "
+"utilgjengelig for øyeblikket. Kontroller at nettverket har tilgang til "
+"serveren."
+
+msgid "mail_ib_checking_names"
+msgstr "Kontrollerer navn"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Får ikke tilgang til kontaktinformasjon"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Filen er for stor til at den kan legges ved."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Filfeil"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"Det oppstod en IMAP-synkroniseringsfeil under behandling av meldinger.\n"
+"Utfører send/hent-operasjon for e-postkonto %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Ingenting å finne"
+
+msgid "mail_ib_setting_failed"
+msgstr "Kan ikke lagre innstillinger"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Kan ikke fjerne vedlegg"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Kan ikke opprette mappe"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Kan ikke opprette mappe. Det eksterne minnekortet er fullt."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Kan ikke slette mappe"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Kan ikke flytte til gjeldende plassering"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Kan ikke lagre i Kladd. Minnet er fullt.\n"
+"Fjern lokale e-postmeldinger for å frigjøre minne."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"%d nye meldinger på serveren, men hentegrensen er %d.\n"
+"Hente alle meldingene eller bare de nyeste opptil grensen?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Sikker tilkobling mislyktes"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Filfeil"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Kan ikke hente meldingsoverskrift"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Kan ikke hente melding"
+
+msgid "mail_ti_password_protected"
+msgstr "Passordbeskyttet"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Finner ikke mottaker på server"
+
+msgid "mail_va_attachment"
+msgstr "Vedlegg"
+
+msgid "mail_va_attachments"
+msgstr "Vedlegg"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "Fra"
+
+msgid "mail_va_fw"
+msgstr "Vs"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Ny melding"
+
+msgid "mail_va_no_subject"
+msgstr "(ikke noe emne)"
+
+msgid "mail_va_no_to"
+msgstr "(ingen mottaker)"
+
+msgid "mail_va_re"
+msgstr "Sv"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Lagrer til %s"
+
+msgid "mail_va_subject"
+msgstr "Emne"
+
+msgid "mail_va_to"
+msgstr "Til"
+
+msgid "mcen_ap_name"
+msgstr "E-post"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-post"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Rediger SMTP-servere"
+
+msgid "mcen_bd_email_signature"
+msgstr "Signatur"
+
+msgid "mcen_bd_get_all"
+msgstr "Alle"
+
+msgid "mcen_bd_newest_only"
+msgstr "Bare nyeste"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Vis verktøylinje"
+
+msgid "mcen_cn_availability_check"
+msgstr ""
+"Kobler til Nokia-servere for å kontrollere tilgjengeligheten av tjenesten"
+
+msgid "mcen_fi_account_title"
+msgstr "Kontotittel"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-post"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Avanserte innstillinger"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Bruk tilkoblingsspesifikke SMTP-servere"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "La meldingene bli på server"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Ingen"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normal (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Logg på"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Ingen"
+
+msgid "mcen_fi_country"
+msgstr "Område"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Bruk signatur"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Hver"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "E-postmapper"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Fra"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Servernavn"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Til"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Mappenavn"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Antall meldinger"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Størrelse"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Laget: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Fra "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Mottatt "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Sendt "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Størrelse "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Emne "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Til "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Legg automatisk til i Kontakter"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Oppdater automatisk"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Oppdater når tilkoblet via"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Innkommende varsler"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Nytt meldingsformat"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Oppdateringsintervall"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Tjenesteleverandør"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Velg land/område og tjenesteleverandør fra listen nedenfor"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Navn"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Trykk Fullfør for å lagre innstillingene, eller forkast innstillingene ved å "
+"trykke utenfor veiviseren.\n"
+"Trykk Avanserte innstillinger for å endre de avanserte kontoinnstillingene."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Trykk Fullfør for å lagre innstillingene, eller forkast innstillingene ved å "
+"trykke utenfor veiviseren. Du kan redigere disse innstillingene via Rediger "
+"kontoer på menyen."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Vedlegg> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Opprinnelig melding -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Signatur for konto %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Merk: Kontotypen kan ikke redigeres når oppsettet er fullført"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Konto"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Med veiviseren for oppsett av e-postkonto kan du definere e-postkontoene som "
+"skal brukes på enheten.\n"
+"Trykk Neste for å fortsette."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Kontooppsett er fullført."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(ingen kontoer)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(ingen meldinger)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(ingen uleste meldinger)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(ingen tilkoblinger)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Ikke definert"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Velg tilkobling, og rediger SMTP-serveren som skal brukes når tilkoblingen "
+"er aktiv"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"For å sjekke tjenestetilgjengeligheten vil din operatør- og "
+"landskodeinformasjon bli sendt til Nokia. Nokia behandler eller oppbevarer "
+"ikke personlig identifiserbar informasjon uten ditt samtykke. Se hvilke "
+"retningslinjer Nokia har for personvern på www.nokia.no"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Velg innebygd bilde"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Trykk for å se meldinger)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Innstillinger lagret"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Endringer forkastet"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Ugyldig e-postadresse"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Ugyldig servernavn eller IP-adresse"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Melding sendt"
+msgstr[1] "Meldinger sendt"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Melding er flyttet til Utboks og venter på å bli sendt"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Kan ikke oppdage sikre godkjenningsmetoder som støttes"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Koblingstypen støttes ikke"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Feil brukernavn eller passord"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "E-postadresse"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Navn"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Sikker godkjenning"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Sikker forbindelse"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Innkommende server"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Utgående server"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Kontotype"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Mislyktes"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Sender"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Innstilt"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Venter"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Vedlegg"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Dato (nyeste først)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Dato (eldste først)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Prioritet"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Fra/til (A–Å)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Fra/til (Å-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Størrelse (største først)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Størrelse (minste først)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Emne (A–Å)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Emne (Å–A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Slett mappe"
+
+msgid "mcen_me_delete_messages"
+msgstr "Slett meldinger"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Rediger konto"
+msgstr[1] "Rediger kontoer"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Legg til vedlegg"
+
+msgid "mcen_me_editor_align"
+msgstr "Justering"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Sentrert"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Venstre"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Høyre"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Sett inn bilde"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Kontroller navn"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Formatert tekst"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Skjul Bcc"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Skjul Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Prioritet"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Ren tekst"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Høy"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Lav"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normal"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Vis Bcc"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Vis Cc"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-post"
+
+msgid "mcen_me_folder_archive"
+msgstr "Arkiv"
+
+msgid "mcen_me_folder_details"
+msgstr "Mappedetaljer"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Kladd"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Innboks"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Utboks"
+
+msgid "mcen_me_folder_sent"
+msgstr "Sendt"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Videresend"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP-servere"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Marker som lest"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Marker som ulest"
+
+msgid "mcen_me_inbox_options"
+msgstr "Innstillinger"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Fjern vedlegg"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Svar til alle"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Send og motta"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Angre"
+
+msgid "mcen_me_message_settings"
+msgstr "Meldingsinnstillinger"
+
+msgid "mcen_me_move_folder"
+msgstr "Flytt mappe"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Flytt melding"
+msgstr[1] "Flytt meldinger"
+
+msgid "mcen_me_new_account"
+msgstr "Ny konto"
+
+msgid "mcen_me_new_folder"
+msgstr "Ny mappe"
+
+msgid "mcen_me_new_message"
+msgstr "Ny melding"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Stopp sending"
+
+msgid "mcen_me_rename_folder"
+msgstr "Endre navn"
+
+msgid "mcen_me_sort"
+msgstr "Sorter"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Legg til i Kontakter"
+
+msgid "mcen_me_viewer_find"
+msgstr "Søk i melding"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Lagre vedlegg"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Slette mappe og innhold?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Det er ikke definert en e-postadresse for kontakten %s.\n"
+"Definere en nå?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Innhold i melding må hentes først. Hente nå?"
+msgstr[1] "Innhold i meldingene må hentes først. Hente nå?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Finner ingen kontakter som samsvarer"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Vedlegget %s fjernes fra meldingen. Fortsette likevel?"
+msgstr[1] "%d vedlegg fjernes fra meldingen. Fortsette likevel?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Prøver å opprette en sikker tilkobling til serveren %s med et ukjent "
+"sertifikat.\n"
+"Tillate tilkoblinger?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync-tjenesten er ikke tilgjengelig. Start enheten på nytt."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Finner ikke visningsprogram for denne filtypen"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "Kan ikke koble til %s. Servernavnet eller portnummeret kan være feil."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Ukjent sertifikat:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s-kontoinnstillinger for %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Kontodetaljer"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Legg til e-postadresse i kontakt"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Tilkoblingsspesifikk SMTP-server: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Standardkonto"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Velg hvilke elementer som skal slettes"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Velg hvilken mappe som skal slettes"
+
+msgid "mcen_ti_edit_move"
+msgstr "Velg hvilke meldinger som skal flyttes"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Velg hvilken mappe som skal flyttes"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Velg hvilken mappe som skal få nytt navn"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "E-postsignatur"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Kontooppsett"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "E-postkontoer"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Fullført"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Innkommende detaljer"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Utgående detaljer"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Brukerdetaljer"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Velkommen"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Mappedetaljer"
+
+msgid "mcen_ti_font_face"
+msgstr "Velg skrifttype"
+
+msgid "mcen_ti_font_size"
+msgstr "Velg skriftstørrelse"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Kontoinnstillinger for Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Sist oppdatert"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d melding"
+msgstr[1] "%d meldinger"
+
+msgid "mcen_ti_message_properties"
+msgstr "Meldingsdetaljer"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Flytt til mappe"
+
+msgid "mcen_ti_new_message"
+msgstr "Ny melding"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Tilkoblingsspesifikke SMTP-servere"
+
+msgid "mcen_ti_options"
+msgstr "Innstillinger"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Velg vedlegg"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Velg vedlegg"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Velg e-postadresse"
+
+msgid "mcen_ti_updating"
+msgstr "Oppdaterer IMAP- og POP-kontoer"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Sendt fra min Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "første.siste@eksempel.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Vis flere"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Aldri"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d ny melding"
+msgstr[1] "%d nye meldinger"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Alle tilkoblinger"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN og WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Formatert tekst (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Ren tekst"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minutter"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minutter"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 time"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 timer"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 timer"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minutter"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 timer"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minutter"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 timer"
+
+msgid "mcen_va_refreshing"
+msgstr "Oppdaterer"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Annet"
