@@ -1,0 +1,1300 @@
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20091109114412\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-01-08 22:19+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgctxt "emev_ib_ui_imap_server_not_support_error"
+msgid "Operation not supported by IMAP server"
+msgstr ""
+
+msgctxt "emev_ib_ui_imap_uid_fetch_error"
+msgid "Unable to retrieve message body"
+msgstr ""
+
+msgctxt "emev_ib_ui_imap_unable_to_rename"
+msgid ""
+"Unable to rename.\n"
+"Invalid name."
+msgstr ""
+
+msgctxt "emev_ib_ui_pop3_msg_lock_error"
+msgid "Unable to access e-mail account. Another application may be using it."
+msgstr ""
+
+msgctxt "emev_ib_ui_smtp_send_error"
+msgid "SMTP send operation failed. Try again later."
+msgstr ""
+
+msgctxt "emev_ib_ui_smtp_server_invalid"
+msgid ""
+"Unable to connect to SMTP server %s. Check that your network has access to "
+"the server."
+msgstr ""
+
+# WTF? It will not wotk with 21 attachment.
+msgctxt "emev_nc_delete_attachment|emev_nc_delete_attachments"
+msgid ""
+"Remove attachment from message?\n"
+"%s"
+msgid_plural "Remove selected attachments from message?"
+msgstr[0] ""
+"Видалити вкладення з повідомлення?\n"
+"%s"
+msgstr[1] "Видалити вибрані вкладення з повідомлення?"
+msgstr[2] "Видалити вибрані вкладення з повідомлення?"
+
+msgctxt "emev_nc_delete_mailbox"
+msgid ""
+"Deleting this e-mail account will remove all local copies of messages "
+"retrieved to this account’s Inbox. Delete anyway?"
+msgstr ""
+
+msgctxt "emev_nc_delete_mailboximap"
+msgid ""
+"Deleting this e-mail account will remove all local copies of messages "
+"retrieved to this account's Inbox and IMAP folders. Delete anyway?"
+msgstr ""
+
+# WTF again?
+msgctxt "emev_nc_delete_message|emev_nc_delete_messages"
+msgid ""
+"Delete message?\n"
+"%s"
+msgid_plural "Delete messages?"
+msgstr[0] ""
+"Видалити повідомлення?\n"
+"%s"
+msgstr[1] "Видалити повідомлення?"
+msgstr[2] "Видалити повідомлення?"
+
+msgctxt "emev_nc_disconnect_account"
+msgid ""
+"Online editing of e-mail account will cause it to disconnect and will cancel "
+"any current operations. Continue anyway?"
+msgstr ""
+"Редагування облікового запису призведе до від'єднання з відміною всіх "
+"поточних операцій. Всеодно продовжувати?"
+
+msgctxt "emev_nc_formatting_lost"
+msgid ""
+"All current formatting will be removed.\n"
+"Continue anyway?"
+msgstr ""
+
+msgctxt "emev_nc_mailbox_inuse"
+msgid "E-mail account is in use"
+msgstr ""
+
+msgctxt "emev_nc_mailbox_notavailable"
+msgid "E-mail account not available"
+msgstr ""
+
+# WTF?
+msgctxt "emev_nc_unabletomove_item|emev_nc_unabletomove_items"
+msgid "Unable to move item"
+msgid_plural "Unable to move %d items"
+msgstr[0] "Неможливо перемістити елемент(и)"
+msgstr[1] "Неможливо перемістити %d елементи"
+msgstr[2] "Неможливо перемістити %d елементів"
+
+msgctxt "emev_ni_checking_supported_auth_methods"
+msgid "Checking for supported authentication methods"
+msgstr ""
+
+msgctxt "emev_ni_internal_error"
+msgid "Error occurred"
+msgstr "Виникла помилка"
+
+msgctxt "emev_ni_ui_imap_connect_server_error"
+msgid "Unable to connect to %s. Server name or port number may be incorrect."
+msgstr ""
+
+msgctxt "emev_ni_ui_imap_message_not_available_in_server"
+msgid "Message %s not available on server."
+msgstr ""
+
+msgctxt "emev_ni_ui_pop3_msg_connect_error"
+msgid "Unable to connect to %s. Server name or port number may be incorrect."
+msgstr ""
+
+msgctxt "emev_ni_ui_pop3_msg_eof"
+msgid ""
+"Connection terminated by e-mail server.\n"
+"Message retrieval canceled. Try connecting again."
+msgstr ""
+
+msgctxt "emev_ni_ui_pop3_msg_recv_error"
+msgid ""
+"Error occurred while processing message.\n"
+"Message may not exist on server."
+msgstr ""
+
+msgctxt "emev_ni_ui_smtp_authentication_fail_error"
+msgid ""
+"SMTP authentication failed. Check user name and password or that you have "
+"access to %s."
+msgstr ""
+
+msgctxt "emev_ni_ui_smtp_passwd_invalid"
+msgid ""
+"SMTP password not defined. Edit e-mail account options for account %s and "
+"enter password for server %s."
+msgstr ""
+
+msgctxt "emev_ni_ui_smtp_userid_invalid"
+msgid ""
+"SMTP user name not defined. Edit e-mail account options for account %1$s and "
+"enter password for server %2$s."
+msgstr ""
+
+msgctxt "emev_ui_imap_inbox_select_error"
+msgid "Unable to select server Inbox. Restart application and try again."
+msgstr ""
+
+msgctxt "emev_ui_pop3_msg_socket_error"
+msgid ""
+"Error in socket operation. If using SSL encrypted e-mail, disable SSL and try "
+"again."
+msgstr ""
+
+msgctxt "imum_nc_wizard_confirm_lose_changes"
+msgid ""
+"All changes made to the settings will be lost.\n"
+"Continue anyway?"
+msgstr ""
+"Всі зміни в налаштуваннях буде втрачено.\n"
+"Всеодно продовжувати?"
+
+msgctxt "mail_bd_external_images"
+msgid "Download external images"
+msgstr ""
+
+msgctxt "mail_fi_emailtype_imap"
+msgid "IMAP4"
+msgstr "IMAP4"
+
+msgctxt "mail_fi_emailtype_pop3"
+msgid "POP3"
+msgstr "POP3"
+
+msgctxt "mail_fi_invitation"
+msgid "Invitation"
+msgstr ""
+
+msgctxt "mail_fi_password"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "mail_fi_username"
+msgid "User name"
+msgstr "Ім'я користувача"
+
+msgctxt "mail_ia_password_info"
+msgid "Enter password for server %s"
+msgstr ""
+
+msgctxt "mail_ib_account_name_already_existing"
+msgid "E-mail account title already in use"
+msgstr ""
+
+msgctxt "mail_ib_backend_server_invalid"
+msgid ""
+"Unable to connect to %s server or it does not exist. Server may currently be "
+"unavailable. Check your network has access to server."
+msgstr ""
+
+msgctxt "mail_ib_checking_names"
+msgid "Checking names"
+msgstr ""
+
+msgctxt "mail_ib_contacts_file_access_permission"
+msgid "Unable to access contact information"
+msgstr ""
+
+msgctxt "mail_ib_error_attachment_size"
+msgid "File too large to be attached."
+msgstr ""
+
+msgctxt "mail_ib_file_operation_failed"
+msgid "File error"
+msgstr ""
+
+msgctxt "mail_ib_imap_server_sync_error"
+msgid ""
+"IMAP synchronization error occurred while processing messages.\n"
+"Performing Send-Receive operation for e-mail account %s."
+msgstr ""
+
+msgctxt "mail_ib_nothing_to_find"
+msgid "Nothing to find"
+msgstr ""
+
+msgctxt "mail_ib_setting_failed"
+msgid "Unable to save settings"
+msgstr ""
+
+msgctxt "mail_ib_unable_to_purge_attachments"
+msgid "Unable to purge attachments"
+msgstr ""
+
+msgctxt "mail_in_ui_folder_create_error"
+msgid "Unable to create folder"
+msgstr ""
+
+msgctxt "mail_in_ui_folder_create_error_memory"
+msgid "Unable to create folder. External memory card full."
+msgstr ""
+
+msgctxt "mail_in_ui_folder_delete_error"
+msgid "Unable to delete folder"
+msgstr ""
+
+msgctxt "mail_in_ui_folder_move_target_error"
+msgid "Unable to move to current location"
+msgstr ""
+
+msgctxt "mail_in_ui_save_error"
+msgid ""
+"Unable to save to Drafts. Memory full.\n"
+"Remove local e-mail messages to free memory."
+msgstr ""
+
+msgctxt "mail_nc_msg_count_limit_exceeded"
+msgid ""
+"%d new messages on server but retrieval limit is %d.\n"
+"Retrieve all messages or newest ones up to the limit?"
+msgstr ""
+
+msgctxt "mail_ni_ssl_certificate_error"
+msgid "Secure connection failed"
+msgstr ""
+
+msgctxt "mail_ni_ui_folder_file_error"
+msgid "File error"
+msgstr ""
+
+msgctxt "mail_ni_ui_folder_get_header_error"
+msgid "Unable to retrieve message header"
+msgstr ""
+
+msgctxt "mail_ni_ui_folder_get_msg_folder_error"
+msgid "Unable to retrieve message"
+msgstr ""
+
+msgctxt "mail_ti_password_protected"
+msgid "Password protected"
+msgstr ""
+
+msgctxt "mail_usr_not_available_on_server_dev"
+msgid "Recipient not found on server"
+msgstr ""
+
+msgctxt "mail_va_attachment"
+msgid "Attachment"
+msgstr "Вкладення"
+
+msgctxt "mail_va_attachments"
+msgid "Attachments"
+msgstr "Вкладення"
+
+msgctxt "mail_va_cc"
+msgid "Cc"
+msgstr "Копія"
+
+msgctxt "mail_va_from"
+msgid "From"
+msgstr "Від"
+
+msgctxt "mail_va_fw"
+msgid "Fw"
+msgstr ""
+
+msgctxt "mail_va_hotfix1"
+msgid "Bcc"
+msgstr ""
+
+msgctxt "mail_va_new_email"
+msgid "New message"
+msgstr "Нове повідомлення"
+
+msgctxt "mail_va_no_subject"
+msgid "(no subject)"
+msgstr "(без теми)"
+
+msgctxt "mail_va_no_to"
+msgid "(no recipient)"
+msgstr "(без отримувачів)"
+
+msgctxt "mail_va_re"
+msgid "Re"
+msgstr ""
+
+msgctxt "mail_va_saved_to_drafts"
+msgid "Saving to %s"
+msgstr ""
+
+msgctxt "mail_va_subject"
+msgid "Subject"
+msgstr "Тема"
+
+msgctxt "mail_va_to"
+msgid "To"
+msgstr "До"
+
+msgctxt "mcen_ap_name"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "mcen_ap_name_app_menu"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "mcen_bd_advsetup_optional_smtp"
+msgid "Edit SMTP servers"
+msgstr "Редагувати SMTP-сервери"
+
+msgctxt "mcen_bd_email_signature"
+msgid "Signature"
+msgstr "Підпис"
+
+msgctxt "mcen_bd_get_all"
+msgid "All"
+msgstr ""
+
+msgctxt "mcen_bd_newest_only"
+msgid "Newest only"
+msgstr ""
+
+msgctxt "mcen_bd_show_toolbar"
+msgid "Show toolbar"
+msgstr "Показати панель"
+
+msgctxt "mcen_cn_availability_check"
+msgid "Connecting Nokia servers to check service availability"
+msgstr ""
+
+msgctxt "mcen_fi_account_title"
+msgid "Account title"
+msgstr "Назва запису"
+
+msgctxt "mcen_fi_add_email_name"
+msgid "E-mail"
+msgstr ""
+
+msgctxt "mcen_fi_advanced_settings"
+msgid "Advanced settings"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_connection_smtp"
+msgid "Use connection-specific SMTP servers"
+msgstr "Залежний від з'єднання SMTP-сервер"
+
+msgctxt "mcen_fi_advsetup_leave_on_server"
+msgid "Leave messages on server"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_limit_retrieve"
+msgid "Retrieval limit"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_other_security_none"
+msgid "None"
+msgstr "Немає"
+
+msgctxt "mcen_fi_advsetup_other_security_normal"
+msgid "Normal (TLS)"
+msgstr "Нормальне (TLS)"
+
+msgctxt "mcen_fi_advsetup_other_security_secureimap4s"
+msgid "SSL (IMAP4S)"
+msgstr "SSL (IMAP4S)"
+
+msgctxt "mcen_fi_advsetup_other_security_securepop3s"
+msgid "SSL (POP3S)"
+msgstr "SSL (POP3S)"
+
+msgctxt "mcen_fi_advsetup_other_security_ssl"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "mcen_fi_advsetup_retrieve_100"
+msgid "Last 100 messages"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrieve_20"
+msgid "Last 20 messages"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrieve_200"
+msgid "Last 200 messages"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrieve_50"
+msgid "Last 50 messages"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrieve_nolimit"
+msgid "No limit"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrievetype"
+msgid "Retrieve"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrievetype_headers"
+msgid "Headers only"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrievetype_messages"
+msgid "Messages"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgid "Messages and attachments"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_sizelimit"
+msgid "Message size limit (kB)"
+msgstr ""
+
+msgctxt "mcen_fi_advsetup_smtp_cram_md5"
+msgid "CRAM-MD5"
+msgstr "CRAM-MD5"
+
+msgctxt "mcen_fi_advsetup_smtp_login"
+msgid "Login"
+msgstr "Лоґін"
+
+msgctxt "mcen_fi_advsetup_smtp_none"
+msgid "None"
+msgstr "Немає"
+
+msgctxt "mcen_fi_country"
+msgid "Region"
+msgstr ""
+
+msgctxt "mcen_fi_email_signatures_use_signature"
+msgid "Use signature"
+msgstr "Використовувати підпис"
+
+msgctxt "mcen_fi_emailsetup_every"
+msgid "Every"
+msgstr ""
+
+msgctxt "mcen_fi_emailsetup_folders"
+msgid "E-mail folders"
+msgstr ""
+
+msgctxt "mcen_fi_emailsetup_from"
+msgid "From"
+msgstr "Від"
+
+msgctxt "mcen_fi_emailsetup_port"
+msgid "Port"
+msgstr "Порт"
+
+msgctxt "mcen_fi_emailsetup_servername"
+msgid "Server name"
+msgstr ""
+
+msgctxt "mcen_fi_emailsetup_to"
+msgid "To"
+msgstr "До"
+
+msgctxt "mcen_fi_folder_properties_foldername"
+msgid "Folder name"
+msgstr "Назва теки"
+
+msgctxt "mcen_fi_folder_properties_messages"
+msgid "Number of messages"
+msgstr "Кількість повідомлень"
+
+msgctxt "mcen_fi_folder_properties_size"
+msgid "Size"
+msgstr "Розмір"
+
+msgctxt "mcen_fi_message_properties_bcc"
+msgid "Bcc: "
+msgstr ""
+
+msgctxt "mcen_fi_message_properties_cc"
+msgid "Cc: "
+msgstr "Копія: "
+
+msgctxt "mcen_fi_message_properties_created"
+msgid "Created: "
+msgstr "Строрено: "
+
+msgctxt "mcen_fi_message_properties_from"
+msgid "From: "
+msgstr "Від: "
+
+msgctxt "mcen_fi_message_properties_received"
+msgid "Received: "
+msgstr "Отримано: "
+
+msgctxt "mcen_fi_message_properties_sent"
+msgid "Sent: "
+msgstr "Відіслано: "
+
+msgctxt "mcen_fi_message_properties_size"
+msgid "Size: "
+msgstr "Розмір: "
+
+msgctxt "mcen_fi_message_properties_subject"
+msgid "Subject: "
+msgstr "Тема: "
+
+msgctxt "mcen_fi_message_properties_to"
+msgid "To: "
+msgstr "До: "
+
+msgctxt "mcen_fi_options_automatic_add"
+msgid "Automatically add to Contacts"
+msgstr "Автоматично додавати до Контактів"
+
+msgctxt "mcen_fi_options_autoupdate"
+msgid "Update automatically"
+msgstr "Оновлювати автоматично"
+
+msgctxt "mcen_fi_options_connectiontype"
+msgid "Update when connected via"
+msgstr "Оновлювати при з'єднання через"
+
+msgctxt "mcen_fi_options_incoming_notifications"
+msgid "Incoming notifications"
+msgstr "Повідомлення про нову пошту"
+
+msgctxt "mcen_fi_options_messageformat"
+msgid "New message format"
+msgstr "Формат нового повідомлення"
+
+msgctxt "mcen_fi_options_updateinterval"
+msgid "Update interval"
+msgstr "Інтервал оновлення"
+
+msgctxt "mcen_fi_serviceprovider"
+msgid "Service provider"
+msgstr ""
+
+msgctxt "mcen_ia_accountdetails"
+msgid "Select your country/region and service provider from the list below"
+msgstr ""
+
+msgctxt "mcen_ia_add_email_name"
+msgid "Name"
+msgstr "Ім'я"
+
+msgctxt "mcen_ia_customsetup_complete"
+msgid ""
+"Tap 'Finish' to save or discard the settings by tapping outside the wizard.\n"
+"Tap 'Advanced settings' to modify the advanced account settings."
+msgstr ""
+
+msgctxt "mcen_ia_easysetup_complete"
+msgid ""
+"Tap 'Finish' to save or discard settings by tapping outside the wizard. You "
+"can edit these settings via 'Edit accounts' in the menu."
+msgstr ""
+
+msgctxt "mcen_ia_editor_attach_filename"
+msgid "<Attachment> "
+msgstr "<Додаток> "
+
+msgctxt "mcen_ia_editor_original_message"
+msgid "----- Original message -----"
+msgstr "--- Оригінальне повідомлення ---"
+
+msgctxt "mcen_ia_email_signatures_edit_dlg_label"
+msgid "Signature for account %s"
+msgstr "Підпис для облікового запису %s"
+
+msgctxt "mcen_ia_emailsetup_account_type"
+msgid "Note: Unable to edit account type once setup is complete"
+msgstr ""
+
+msgctxt "mcen_ia_emailsetup_defaultname"
+msgid "Account"
+msgstr "Обліковий запис"
+
+msgctxt "mcen_ia_emailsetup_intro"
+msgid ""
+"Account setup wizard allows you to define e-mail accounts for use on your "
+"device.\n"
+"Tap 'Next' to continue."
+msgstr ""
+
+msgctxt "mcen_ia_emailsetup_setup_complete"
+msgid "Account setup is complete."
+msgstr ""
+
+msgctxt "mcen_ia_noaccounts"
+msgid "(no accounts)"
+msgstr "(немає облікових записів)"
+
+msgctxt "mcen_ia_nomessages"
+msgid "(no messages)"
+msgstr "(немає повідомлень)"
+
+msgctxt "mcen_ia_nounreadmessages"
+msgid "(no unread messages)"
+msgstr "(немає непрочитаних повідомлень)"
+
+msgctxt "mcen_ia_optionalsmtp_noconnection"
+msgid "(no connections)"
+msgstr "(немає з'єднань)"
+
+msgctxt "mcen_ia_optionalsmtp_notdefined"
+msgid "Not defined"
+msgstr "Невизначений"
+
+msgctxt "mcen_ia_optionalsmtp_note"
+msgid ""
+"Select connection and edit SMTP server to be used when connection is active"
+msgstr ""
+"Виберіть з'єднання і редагуйте сервер, який буде використовуватися при "
+"активуванні з'єднання."
+
+msgctxt "mcen_ia_privacy_notice"
+msgid ""
+"Your operator and country code information are sent to Nokia to check service "
+"availability. Nokia will not process or store any personal identifiable "
+"information without your consent. See Nokia Privacy Policy at www.nokia.com"
+msgstr ""
+
+msgctxt "mcen_ia_select_inline_image_title"
+msgid "Select inline image"
+msgstr "Виберіть зображення для вставки"
+
+msgctxt "mcen_ia_taptoread"
+msgid "(Tap to see messages)"
+msgstr ""
+
+msgctxt "mcen_ib_advsetup_settings_saved"
+msgid "Settings saved"
+msgstr ""
+
+msgctxt "mcen_ib_changes_discarded"
+msgid "Changes discarded"
+msgstr ""
+
+msgctxt "mcen_ib_invalid_email"
+msgid "Invalid e-mail address"
+msgstr ""
+
+msgctxt "mcen_ib_invalid_servername"
+msgid "Invalid server name or IP address"
+msgstr ""
+
+# Another WTF.
+msgctxt "mcen_ib_message_sent|mcen_ib_messages_sent"
+msgid "Message sent"
+msgid_plural "Messages sent"
+msgstr[0] "Повідомлення надіслане(-i)"
+msgstr[1] "Повідомлення надіслані"
+msgstr[2] "Повідомлення надіслані"
+
+msgctxt "mcen_ib_outbox_waiting_to_be_sent"
+msgid "Message moved to Outbox waiting to be sent"
+msgstr ""
+
+msgctxt "mcen_ib_unableto_discover_auth_methods"
+msgid "Unable to discover supported secure authentication methods"
+msgstr ""
+
+msgctxt "mcen_ib_unsupported_link"
+msgid "Unsupported link type"
+msgstr ""
+
+msgctxt "mcen_ib_username_pw_incorrect"
+msgid "User name or password incorrect"
+msgstr ""
+
+msgctxt "mcen_li_emailsetup_email_address"
+msgid "E-mail address"
+msgstr "Адреса E-mail"
+
+msgctxt "mcen_li_emailsetup_name"
+msgid "Name"
+msgstr ""
+
+msgctxt "mcen_li_emailsetup_secure_authentication"
+msgid "Secure authentication"
+msgstr "Безпечна автентифікація"
+
+msgctxt "mcen_li_emailsetup_secure_connection"
+msgid "Secure connection"
+msgstr "Безпечне з'єднання"
+
+msgctxt "mcen_li_emailsetup_servertype"
+msgid "Incoming server"
+msgstr "Вхідний сервер"
+
+msgctxt "mcen_li_emailsetup_smtp"
+msgid "Outgoing server"
+msgstr "Вихідний сервер"
+
+msgctxt "mcen_li_emailsetup_type"
+msgid "Account type"
+msgstr ""
+
+msgctxt "mcen_li_outbox_failed"
+msgid "Failed"
+msgstr ""
+
+msgctxt "mcen_li_outbox_sending"
+msgid "Sending"
+msgstr ""
+
+msgctxt "mcen_li_outbox_suspended"
+msgid "Suspended"
+msgstr ""
+
+msgctxt "mcen_li_outbox_waiting"
+msgid "Waiting"
+msgstr ""
+
+msgctxt "mcen_li_sort_attachment"
+msgid "Attachment"
+msgstr ""
+
+msgctxt "mcen_li_sort_date_newest"
+msgid "Date (most recent first)"
+msgstr ""
+
+msgctxt "mcen_li_sort_date_oldest"
+msgid "Date (oldest first)"
+msgstr ""
+
+msgctxt "mcen_li_sort_priority"
+msgid "Priority"
+msgstr ""
+
+msgctxt "mcen_li_sort_sender_recipient_az"
+msgid "From/To (A-Z)"
+msgstr ""
+
+msgctxt "mcen_li_sort_sender_recipient_za"
+msgid "From/To (Z-A)"
+msgstr ""
+
+msgctxt "mcen_li_sort_size_largest"
+msgid "Size (largest first)"
+msgstr ""
+
+msgctxt "mcen_li_sort_size_smallest"
+msgid "Size (smallest first)"
+msgstr ""
+
+msgctxt "mcen_li_sort_subject_az"
+msgid "Subject (A-Z)"
+msgstr ""
+
+msgctxt "mcen_li_sort_subject_za"
+msgid "Subject (Z-A)"
+msgstr ""
+
+msgctxt "mcen_me_delete_folder"
+msgid "Delete folder"
+msgstr "Видалити теку"
+
+msgctxt "mcen_me_delete_messages"
+msgid "Delete messages"
+msgstr "Видалити повідомлення"
+
+# And one more WTF  :/
+msgctxt "mcen_me_edit_account|mcen_me_edit_accounts"
+msgid "Edit account"
+msgid_plural "Edit accounts"
+msgstr[0] "Редагувати обліковий запис"
+msgstr[1] "Редагувати облікові записи"
+msgstr[2] "Редагувати облікові записи"
+
+msgctxt "mcen_me_editor_add_attachment"
+msgid "Add attachment"
+msgstr "Додати вкладення"
+
+msgctxt "mcen_me_editor_align"
+msgid "Alignment"
+msgstr "Вирівнювання"
+
+msgctxt "mcen_me_editor_align_centred"
+msgid "Centered"
+msgstr "По центру"
+
+msgctxt "mcen_me_editor_align_left"
+msgid "Left"
+msgstr "Зліва"
+
+msgctxt "mcen_me_editor_align_right"
+msgid "Right"
+msgstr "Справа"
+
+msgctxt "mcen_me_editor_attach_inlineimage"
+msgid "Insert image"
+msgstr "Вставити рисунок"
+
+msgctxt "mcen_me_editor_checknames"
+msgid "Check names"
+msgstr "Вибрати імена"
+
+msgctxt "mcen_me_editor_formatted_text"
+msgid "Formatted text"
+msgstr "Форматований текст"
+
+msgctxt "mcen_me_editor_hidebcc"
+msgid "Hide Bcc"
+msgstr "Сховати Bcc"
+
+msgctxt "mcen_me_editor_hidecc"
+msgid "Hide Cc"
+msgstr "Сховати Cc"
+
+msgctxt "mcen_me_editor_message_priority"
+msgid "Priority"
+msgstr "Пріоритет"
+
+msgctxt "mcen_me_editor_plain_text"
+msgid "Plain text"
+msgstr "Простий текст"
+
+msgctxt "mcen_me_editor_priority_high"
+msgid "High"
+msgstr "Високий"
+
+msgctxt "mcen_me_editor_priority_low"
+msgid "Low"
+msgstr "Низький"
+
+msgctxt "mcen_me_editor_priority_normal"
+msgid "Normal"
+msgstr "Нормальний"
+
+msgctxt "mcen_me_editor_showbcc"
+msgid "Show Bcc"
+msgstr "Показати Bcc"
+
+msgctxt "mcen_me_editor_showcc"
+msgid "Show Cc"
+msgstr "Показати Cc"
+
+msgctxt "mcen_me_email_home_applet"
+msgid "E-mail"
+msgstr "E-mail"
+
+msgctxt "mcen_me_folder_archive"
+msgid "Archive"
+msgstr "Архів"
+
+msgctxt "mcen_me_folder_details"
+msgid "Folder details"
+msgstr "Інформація про теку"
+
+msgctxt "mcen_me_folder_drafts"
+msgid "Drafts"
+msgstr "Чернетки"
+
+msgctxt "mcen_me_folder_inbox"
+msgid "Inbox"
+msgstr "Вхідні"
+
+msgctxt "mcen_me_folder_outbox"
+msgid "Outbox"
+msgstr "Вихідні"
+
+msgctxt "mcen_me_folder_sent"
+msgid "Sent"
+msgstr "Надіслані"
+
+msgctxt "mcen_me_inbox_forward"
+msgid "Forward"
+msgstr "Переслати"
+
+msgctxt "mcen_me_inbox_globalsmtpservers"
+msgid "SMTP servers"
+msgstr "SMTP-сервери"
+
+msgctxt "mcen_me_inbox_mark_as_read"
+msgid "Mark as read"
+msgstr "Позначити як прочитане"
+
+msgctxt "mcen_me_inbox_mark_as_unread"
+msgid "Mark as unread"
+msgstr "Позначити як непрочитане"
+
+msgctxt "mcen_me_inbox_options"
+msgid "Settings"
+msgstr "Налаштування"
+
+msgctxt "mcen_me_inbox_remove_attachments"
+msgid "Remove attachments"
+msgstr "Видалити вкладення"
+
+msgctxt "mcen_me_inbox_replytoall"
+msgid "Reply to all"
+msgstr "Відповісти всім"
+
+msgctxt "mcen_me_inbox_sendandreceive"
+msgid "Send & receive"
+msgstr "Послати і отримати"
+
+msgctxt "mcen_me_inbox_undo"
+msgid "Undo"
+msgstr "Відмінити"
+
+msgctxt "mcen_me_message_settings"
+msgid "Message settings"
+msgstr "Налаштування повідомлення"
+
+msgctxt "mcen_me_move_folder"
+msgid "Move folder"
+msgstr "Перемістити теку"
+
+msgctxt "mcen_me_move_message|mcen_me_move_messages"
+msgid "Move message"
+msgid_plural "Move messages"
+msgstr[0] "Перемістити повідомлення"
+msgstr[1] "Перемістити повідомлення"
+msgstr[2] "Перемістити повідомлення"
+
+msgctxt "mcen_me_new_account"
+msgid "New account"
+msgstr "Новий обліковий запис"
+
+msgctxt "mcen_me_new_folder"
+msgid "New folder"
+msgstr "Нова тека"
+
+msgctxt "mcen_me_new_message"
+msgid "New message"
+msgstr "Нове повідомлення"
+
+msgctxt "mcen_me_outbox_cancelsend"
+msgid "Stop sending"
+msgstr ""
+
+msgctxt "mcen_me_rename_folder"
+msgid "Rename folder"
+msgstr "Перейменувати теку"
+
+msgctxt "mcen_me_sort"
+msgid "Sort"
+msgstr ""
+
+msgctxt "mcen_me_viewer_addtocontacts"
+msgid "Add to Contacts"
+msgstr "Додати до контактів"
+
+msgctxt "mcen_me_viewer_find"
+msgid "Find in message"
+msgstr ""
+
+msgctxt "mcen_me_viewer_save_attachments"
+msgid "Save attachments"
+msgstr ""
+
+msgctxt "mcen_nc_delete_folder_text"
+msgid ""
+"Delete folder and its contents?\n"
+"%s"
+msgstr ""
+
+msgctxt "mcen_nc_email_address_not_defined"
+msgid ""
+"No e-mail address defined for contact %s.\n"
+"Define one now?"
+msgstr ""
+
+msgctxt "mcen_nc_get_msg|mcen_nc_get_msgs"
+msgid "Content of message must be retrieved first. Retrieve now?"
+msgid_plural "Content of messages must be retrieved first. Retrieve now?"
+msgstr[0] "Потрібно спочатку отримати вміст повідомлень. Отримати зараз?"
+msgstr[1] "Потрібно спочатку отримати вміст повідомлень. Отримати зараз?"
+msgstr[2] "Потрібно спочатку отримати вміст повідомлень. Отримати зараз?"
+
+msgctxt "mcen_nc_no_matching_contacts"
+msgid "No matching contacts found"
+msgstr ""
+
+# And now it is going to work with 21 attachments? Hopefully nobody will use so much of them...
+msgctxt "mcen_nc_purge_file_text|mcen_nc_purge_files_text"
+msgid "This will remove attachment %s from message. Continue anyway?"
+msgid_plural "This will remove %d attachments from message. Continue anyway?"
+msgstr[0] "З повідомлення буде видалене вкладення %s. Всеодно продовжувати?"
+msgstr[1] "З повідомлення буде видалене %d вкладення. Всеодно продовжувати?"
+msgstr[2] "З повідомлення буде видалене %d вкладень. Всеодно продовжувати?"
+
+msgctxt "mcen_nc_unknown_certificate"
+msgid ""
+"Trying to establish secure connection to server %s with an unknown "
+"certificate.\n"
+"Allow connections?"
+msgstr ""
+
+msgctxt "mcen_ni_intellisyncd_failed"
+msgid "Intellisync service unavailable. Try restarting device."
+msgstr ""
+
+msgctxt "mcen_ni_noregistered_viewer"
+msgid "No viewer found for this file type"
+msgstr ""
+
+msgctxt "mcen_ni_smtp_config_error"
+msgid "Unable to connect to %s. Server name or port number may be incorrect."
+msgstr ""
+
+msgctxt "mcen_ni_view_unknown_certificate"
+msgid ""
+"Unknown certificate:\n"
+"%s"
+msgstr ""
+
+msgctxt "mcen_ti_account_settings"
+msgid "%s account settings for %s"
+msgstr "Налатування облікового запису %s для %s"
+
+msgctxt "mcen_ti_accountdetails"
+msgid "Account details"
+msgstr ""
+
+msgctxt "mcen_ti_add_email_title"
+msgid "Add e-mail address to contact"
+msgstr ""
+
+msgctxt "mcen_ti_connection_connection_name"
+msgid "Connection-specific SMTP server: %s"
+msgstr "Залежний від з'єднання SMTP-сервер: %s"
+
+msgctxt "mcen_ti_default_account"
+msgid "Default account"
+msgstr "Обліковий запис за замовчанням"
+
+msgctxt "mcen_ti_edit_delete"
+msgid "Choose items to delete"
+msgstr "Виберіть елементи для видалення"
+
+msgctxt "mcen_ti_edit_folder_delete"
+msgid "Select folder to delete"
+msgstr "Виберіть теку для видалення"
+
+msgctxt "mcen_ti_edit_move"
+msgid "Choose messages to move"
+msgstr "Виберіть повідомлення для переміщення"
+
+msgctxt "mcen_ti_edit_move_folder"
+msgid "Select folder to move"
+msgstr "Виберіть теку для пересування"
+
+msgctxt "mcen_ti_edit_rename_folder"
+msgid "Select folder to rename"
+msgstr "Виберіть теку для перейменування"
+
+msgctxt "mcen_ti_email_signatures_edit_title"
+msgid "E-mail signature"
+msgstr "Підпис E-mail"
+
+msgctxt "mcen_ti_emailsetup"
+msgid "Account setup"
+msgstr ""
+
+msgctxt "mcen_ti_emailsetup_accounts"
+msgid "E-mail accounts"
+msgstr "Облікові записи E-mail"
+
+msgctxt "mcen_ti_emailsetup_complete"
+msgid "Complete"
+msgstr ""
+
+msgctxt "mcen_ti_emailsetup_incomingdetails"
+msgid "Incoming details"
+msgstr ""
+
+msgctxt "mcen_ti_emailsetup_outgoingdetails"
+msgid "Outgoing details"
+msgstr ""
+
+msgctxt "mcen_ti_emailsetup_userdetails"
+msgid "User details"
+msgstr ""
+
+msgctxt "mcen_ti_emailsetup_welcome"
+msgid "Welcome"
+msgstr ""
+
+msgctxt "mcen_ti_folder_properties"
+msgid "Folder details"
+msgstr ""
+
+msgctxt "mcen_ti_font_face"
+msgid "Select font face"
+msgstr "Виберіть шрифт"
+
+msgctxt "mcen_ti_font_size"
+msgid "Select font size"
+msgstr "Виберіть розмір шрифту"
+
+msgctxt "mcen_ti_intellisync_settings"
+msgid "Account settings for Intellisync"
+msgstr ""
+
+msgctxt "mcen_ti_lastupdated"
+msgid "Last updated"
+msgstr "Востаннє оновлено"
+
+# The only correct use of plural forms?
+msgctxt "mcen_ti_message|mcen_ti_messages"
+msgid "%d message"
+msgid_plural "%d messages"
+msgstr[0] "%d повідомлення"
+msgstr[1] "%d повідомлення"
+msgstr[2] "%d повідомлень"
+
+msgctxt "mcen_ti_message_properties"
+msgid "Message details"
+msgstr "Подробиці про повідомлення"
+
+msgctxt "mcen_ti_moveto_folders_title"
+msgid "Move to folder"
+msgstr "Перемістити в теку"
+
+msgctxt "mcen_ti_new_message"
+msgid "New message"
+msgstr "Нове повідомлення"
+
+msgctxt "mcen_ti_optionalsmtp_servers"
+msgid "Connection-specific SMTP servers"
+msgstr "Залежні від з'єднання SMTP-сервери"
+
+msgctxt "mcen_ti_options"
+msgid "Settings"
+msgstr "Налаштування"
+
+msgctxt "mcen_ti_select_attachment_title"
+msgid "Select attachment"
+msgstr ""
+
+msgctxt "mcen_ti_select_attachments_title"
+msgid "Select attachments"
+msgstr ""
+
+msgctxt "mcen_ti_select_email_title"
+msgid "Select e-mail address"
+msgstr ""
+
+msgctxt "mcen_ti_updating"
+msgid "Updating IMAP and POP accounts"
+msgstr "Оновлення облікових записів IMAP і POP"
+
+msgctxt "mcen_va_default_signature_tablet"
+msgid "Sent from my Nokia N900"
+msgstr "Надіслано з мого Nokia N900"
+
+msgctxt "mcen_va_example_email_address"
+msgid "first.last@example.com"
+msgstr "first.last@example.com"
+
+msgctxt "mcen_va_intellisync"
+msgid "Intellisync"
+msgstr ""
+
+msgctxt "mcen_va_message_properties_size_noinfo"
+msgid "–"
+msgstr "–"
+
+msgctxt "mcen_va_more"
+msgid "Show more"
+msgstr ""
+
+msgctxt "mcen_va_more_toview"
+msgid "%d/%d"
+msgstr "%d/%d"
+
+msgctxt "mcen_va_never"
+msgid "Never"
+msgstr ""
+
+msgctxt "mcen_va_new_message|mcen_va_new_messages"
+msgid "%d new message"
+msgid_plural "%d new messages"
+msgstr[0] "%d нове повідомлення"
+msgstr[1] "%d нові повідомлення"
+msgstr[2] "%d нових повідомлень"
+
+msgctxt "mcen_va_options_connectiontype_all"
+msgid "Any connection"
+msgstr "Будь-яке з'єднання"
+
+msgctxt "mcen_va_options_connectiontype_wlan"
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgctxt "mcen_va_options_connectiontype_wlan_wimax"
+msgid "Wi-Fi and WiMAX"
+msgstr "Wi-Fi і WiMAX"
+
+msgctxt "mcen_va_options_messageformat_html"
+msgid "Formatted text (HTML)"
+msgstr "Форматований текст (HTML)"
+
+msgctxt "mcen_va_options_messageformat_plain"
+msgid "Plain text"
+msgstr "Простий текст"
+
+msgctxt "mcen_va_options_updateinterval_10min"
+msgid "10 minutes"
+msgstr "10 хвилин"
+
+msgctxt "mcen_va_options_updateinterval_15min"
+msgid "15 minutes"
+msgstr "15 хвилин"
+
+msgctxt "mcen_va_options_updateinterval_1h"
+msgid "1 hour"
+msgstr "1 година"
+
+msgctxt "mcen_va_options_updateinterval_24h"
+msgid "24 hours"
+msgstr "24 години"
+
+msgctxt "mcen_va_options_updateinterval_2h"
+msgid "2 hours"
+msgstr "2 години"
+
+msgctxt "mcen_va_options_updateinterval_30min"
+msgid "30 minutes"
+msgstr "30 хвилин"
+
+msgctxt "mcen_va_options_updateinterval_4h"
+msgid "4 hours"
+msgstr "4 години"
+
+msgctxt "mcen_va_options_updateinterval_5min"
+msgid "5 minutes"
+msgstr "5 хвилин"
+
+msgctxt "mcen_va_options_updateinterval_8h"
+msgid "8 hours"
+msgstr "8 годин"
+
+msgctxt "mcen_va_refreshing"
+msgid "Refreshing"
+msgstr "Оновлення"
+
+msgctxt "mcen_va_serviceprovider_other"
+msgid "Other"
+msgstr ""
+
+
