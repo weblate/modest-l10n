@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20091109114412\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 17:05+0300\n"
+"PO-Revision-Date: 2010-05-29 18:54+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "IMAP sunucusu bu işlemi desteklemiyor"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Mesaj gövdesi alınamıyor"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Adlandırılamıyor.\n"
+"Geçersiz isim."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "E-posta hesabına erişilemiyor. Başka bir uygulama kullanıyor olabilir."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP gönderim işlemi başarısız. Sonra tekrar deneyin."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"%s SMTP sunucusuna bağlanılamadı. Ağınızın sunucuya erişimini "
+"kontrol edin."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Mesajdan ek silinsin mi?\n"
+"%s"
+msgstr[1] "Mesajdan seçilen ekler silinsin mi?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr ""
+"Bu e-posta hesabını silmek bu hesaba ait bütün yerel mesaj "
+"kopyalarını silinecektir. Silinsin mi?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"Bu e-posta hesabını silmek bu hesaba ait bütün yerel mesaj "
+"kopyalarını ve IMAP klasörlerini silinecektir. Silinsin mi?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Mesaj silinsin mi?\n"
+"%s"
+msgstr[1] "Mesajlar silinsin mi?"
+
+msgid "emev_nc_disconnect_account"
+msgstr ""
+"E-posta hesabının çevrimiçiyken düzenlenmesi bağlantının kesilmesi ve tüm işlemlerin iptal "
+"olmasını gerektirir. Devam edilsin mi?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"Bütün mevcut biçimleme kaybedilecek.\n"
+"Devam edilsin mi?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "E-posta hesabı kullanımda"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "E-posta hesabı uygun değil"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Öğe taşınamıyor"
+msgstr[1] "%d öğe taşınamıyor"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Desteklenen kimlik denetim yöntemleri kontrol ediliyor"
+
+msgid "emev_ni_internal_error"
+msgstr "Hata oluştu"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "%s sunucusuna bağlanılamadı. Sunucu adı veya port numarası geçersiz olabilir."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "%s mesajı sunucuda mevcut değil."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "%s sunucusuna bağlanılamadı. Sunucu adı veya port numarası yanlış olabilir."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"E-posta sunucusu bağlantıyı kesti.\n"
+"Mesaj alımı iptal edildi. Tekrar bağlanmayı deneyin."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Mesaj işlenirken hata oluştu.\n"
+"Mesaj sunucuda olmayabilir."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr ""
+"SMTP kimlik denetimi başarısız.%s için erişiminizi ve "
+"kullanıcı adı/parolanızı kontrol edin."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "SMTP parolası tanımlanmamış. %s için e-posta hesap ayarlarını düzenleyin ve "
+"%s sunucusu için parola girin."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "SMTP kullanıcı adı tanımlanmamış. %1$s için e-posta hesap ayarlarını düzeltin ve "
+"%2$s sunucusu için parola girin."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr ""
+"Sunucunun gelen kutusu seçilemedi. Uygulamayı yeniden başlatın ve "
+"tekrar deneyin."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Soket işleminde hata. SSL şifreli e-posta kullanıyorsanız, SSLi etkisizleştirip tekrar deneyin. "
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Bütün ayar değişiklikleri kaybedilecek.\n"
+"Devam edilsin mi?"
+
+msgid "mail_bd_external_images"
+msgstr "Harici resimleri indir"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Davetiye"
+
+msgid "mail_fi_password"
+msgstr "Parola"
+
+msgid "mail_fi_username"
+msgstr "Kullanıcı adı"
+
+msgid "mail_ia_password_info"
+msgstr "%s sunucusu için parola girin"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "E-posta hesabının başlığı zaten kullanımda"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr ""
+"%s sunucusuna bağlanılamıyor veya bu sunucu yok. Sunucu geçici sorunlar yaşıyor olabilir. "
+"Ağınızın sunucuya erişimini kontrol edin."
+
+msgid "mail_ib_checking_names"
+msgstr "İsimler kontrol ediliyor"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Kişi bilgisine erişilemedi"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Dosya eklenmek için çok büyük."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Dosya hatası"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"Mesajlar işlenirken IMAP senkronizasyon hatası oluştu.\n"
+"%s e-posta hesabı için Gönder-Al işlemi gerçekleştiriliyor."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Bulacak birşey yok"
+
+msgid "mail_ib_setting_failed"
+msgstr "Ayarlar kaydedilemiyor"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Ekler temizlenemiyor"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Klasör oluşturulamadı"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Klasör oluşturulamadı. Harici hafıza kartı dolu."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Klasör silinemiyor"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Mevcut konuma taşınamıyor"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Taslaklara kaydedilemedi. Hafıza dolu.\n"
+"Hafızayı temizlemek için yerel e-postaları silin."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"Sunucuda %d yeni mesaj var ama alım limiti %d.\n"
+"Hepsi mi yoksa limite kadar yeni olanlar mı alınsın?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Güvenli bağlantı başarısız"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Dosya hatası"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Mesaj başlığı alınamadı"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Mesaj alınamadı"
+
+msgid "mail_ti_password_protected"
+msgstr "Parola korumalı"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Alıcı sunucuda bulunamadı"
+
+msgid "mail_va_attachment"
+msgstr "Ek"
+
+msgid "mail_va_attachments"
+msgstr "Ekler"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "Kimden"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Yeni mesaj"
+
+msgid "mail_va_no_subject"
+msgstr "(Konu yok)"
+
+msgid "mail_va_no_to"
+msgstr "(Alıcı yok)"
+
+msgid "mail_va_re"
+msgstr "Ynt"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "%s konumuna kaydediliyor"
+
+msgid "mail_va_subject"
+msgstr "Konu"
+
+msgid "mail_va_to"
+msgstr "Kime"
+
+msgid "mcen_ap_name"
+msgstr "E-posta"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-posta"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "SMTP sunucularını düzenle"
+
+msgid "mcen_bd_email_signature"
+msgstr "İmza"
+
+msgid "mcen_bd_get_all"
+msgstr "Hepsi"
+
+msgid "mcen_bd_newest_only"
+msgstr "Sadece en yeni"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Araç çubuğunu göster"
+
+msgid "mcen_cn_availability_check"
+msgstr "Mevcut servisler için Nokia sunucusuna bağlanıyor"
+
+msgid "mcen_fi_account_title"
+msgstr "Hesap adı"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-posta"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Gelişmiş ayarlar"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Bağlantıya-özel SMTP sunucuları kullan"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Mesajları sunucuda bırak"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Alma limiti"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Hiçbiri"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normal (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Son 100 mesaj"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Son 20 mesaj"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Son 200 mesaj"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Son 50 mesaj"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Limitsiz"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Al"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Sadece başlıklar"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Mesajlar"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Mesajlar ve ekler"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Mesaj boyut limiti (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Giriş"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Hiç"
+
+msgid "mcen_fi_country"
+msgstr "Bölge"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "İmza kullan"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Her"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "E-posta klasörleri"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Kimden"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Sunucu adı"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Kime"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Klasör adı"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Mesaj adeti"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Boyut"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc: "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc:"
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Oluşturuldu: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Kimden:"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Alındı:"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Gönderildi: "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Boyut:"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Konu: "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Kime: "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Otomatik olarak Kişilere ekle"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Otomatik olarak güncelle"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Bu bağlantıdayken güncelle"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Gelen bildirimler"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Yeni mesaj formatı"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Güncelleme aralığı"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Servis sağlayıcı"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Alttaki listeden ülke/bölgenizi ve servis sağlayıcınızı seçin"
+
+msgid "mcen_ia_add_email_name"
+msgstr "İsim"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"'Tamamla' seçeneğiyle kaydedebilir, sihirbazın dışına dokunarak vazgeçebilirsiniz.\n"
+"'Gelişmiş ayarlar' seçeneğiyle gelişmiş ayarlara ulaşabilirsiniz."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"'Tamamla' seçeneğiyle kaydedebilir, sihirbazın dışına dokunarak vazgeçebilirsiniz. Menüdeki "
+"'Hesapları düzenle' seçeneğiyle bu ayarları düzenleyebilirsiniz."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Ek> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Asıl mesaj -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "%s hesabı için imza"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Not: Kurulum tamamlandıktan sonra hesap türü değiştirilemez"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Hesap"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"Hesap kurulum sihirbazı cihazınızda kullanmak için yeni e-posta adreslerini ekler.\n"
+"Devam etmek için Devam'ı tıklayın."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Hesap kurulumu tamamlandı."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(hesap yok)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(mesaj yok)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(okunmamış mesaj yok)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(bağlantı yok)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Tanımlanmamış"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr ""
+"Bağlantıyı seçin ve kullanacak SMTP sunucusunu girin"
+
+msgid "mcen_ia_privacy_notice"
+msgstr ""
+"Operatör ve ülke kod bilgileriniz mevcut servisleri kontrol etmek için Nokia'ya gönderilecek. "
+"Nokia kişisel bilgilerinizi izniniz olmadan işlemeyecek veya saklamayacaktır. "
+"Detaylı bilgi için www.nokia.co.uk adresinde Nokia Gizlilik Politikası'na bakın."
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Satıriçi resim seçin"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Mesajları görmek için dokunun)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Ayarlar kaydedildi"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Değişiklikler kaydedilmedi"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Geçersiz e-posta adresi"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Geçersiz sunucu adı veya IP adresi"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Mesaj gönderildi"
+msgstr[1] "Mesajlar gönderildi"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Mesaj gönderilmek için Giden Kutusuna taşındı"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Desteklenen güvenli kimlik denetim yöntemleri algılanamadı"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Desteklenmeyen bağlantı türü"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Kullanıcı adı veya parola geçersiz"
+
+msgid "mcen_in_yahoo_warning"
+msgstr "Yahoo! Mail erişimi özel ayarlar gerekebilir. Operatörünüz veya Yahoo! müşteri hizmetleriyle irtibata geçin"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "E-posta adresi"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "İsim"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Güvenli kimlik denetimi"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Güvenli bağlantı"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Gelen sunucusu"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Giden sunucusu"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Hesap türü"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Başarısız"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Gönderiliyor"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Askıda"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Bekliyor"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Ek"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Tarih (önce yeni)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Tarih (önce eski)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Öncelik"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Kimden/Kime (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Kimden/Kime (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Boyut (önce büyük)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Boyut (önce küçük)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Konu (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Konu (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Klasörü sil"
+
+msgid "mcen_me_delete_messages"
+msgstr "Mesajları sil"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Hesabı düzenle"
+msgstr[1] "Hesapları düzenle"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Ek ekle"
+
+msgid "mcen_me_editor_align"
+msgstr "Hizalama"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Ortala"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Sol"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Sağ"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Resim ekle"
+
+msgid "mcen_me_editor_checknames"
+msgstr "İsimleri kontrol et"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Biçimli metin"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Bcc gizle"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Cc gizle"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Öncelik"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Düz metin"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Yüksek"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Düşük"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Orta"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Bcc göster"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Cc göster"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-posta"
+
+msgid "mcen_me_folder_archive"
+msgstr "Arşiv"
+
+msgid "mcen_me_folder_details"
+msgstr "Klasör detayları"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Taslaklar"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Gelen kutusu"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Giden kutusu"
+
+msgid "mcen_me_folder_sent"
+msgstr "Gönderilenler"
+
+msgid "mcen_me_inbox_forward"
+msgstr "İlet"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP sunucuları"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Okunmuş işaretle"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Okunmamış işaretle"
+
+msgid "mcen_me_inbox_options"
+msgstr "Ayarlar"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Ekleri sil"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Hepsini cevapla"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Gönder & al"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Geri al"
+
+msgid "mcen_me_message_settings"
+msgstr "Mesaj ayarları"
+
+msgid "mcen_me_move_folder"
+msgstr "Klasör taşı"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Mesajı taşı"
+msgstr[1] "Mesajları taşı"
+
+msgid "mcen_me_new_account"
+msgstr "Yeni hesap"
+
+msgid "mcen_me_new_folder"
+msgstr "Yeni klasör"
+
+msgid "mcen_me_new_message"
+msgstr "Yeni mesaj"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Gönderimi durdur"
+
+msgid "mcen_me_rename_folder"
+msgstr "Klasörü adlandır"
+
+msgid "mcen_me_sort"
+msgstr "Sırala"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Kişilere ekle"
+
+msgid "mcen_me_viewer_find"
+msgstr "Mesajda bul"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Ekleri kaydet"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Klasörü ve içeriğini sil?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"%s kişisi için e-posta adresi tanımlanmadı.\n"
+"Şimdi tanımlansın?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Mesaj içeriği alınması gerekiyor. Şimdi alınsın mı?"
+msgstr[1] "Mesajların içerikleri alınmaları gerekiyor. Şimdi alınsın mı?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Eşleşen kişi bulunamadı"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Bu %s ekini mesajdan silecek. Devam edilsin mi?"
+msgstr[1] "Bu %s eki mesajdan silecek. Devam edilsin mi?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"%s sunucusuyla bilinmeyen sertifika ile güvenli bağlantı kurulmaya çalışılıyor.\n"
+"Bağlantıya izin verilsin mi?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync servisi mevcut değil. Cihazı yeniden başlatmayı deneyin."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Bu dosya türünü açacak uygulama bulunamadı"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "%s sunucusuna bağlanılamıyor. Sunucu adı veya port numarası geçersiz olabilir."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Bilinmeyen sertifika:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s hesap ayarları %s için"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Hesap detayları"
+
+msgid "mcen_ti_add_email_title"
+msgstr "E-posta adresini kişiye ekle"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Bağlantıya-özel SMTP sunucusu: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Varsayılan hesap"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Silinecek öğeleri seçin"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Silinecek klasörü seçin"
+
+msgid "mcen_ti_edit_move"
+msgstr "Taşınacak mesajları seçin"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Taşınacak klasörü seçin"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Adlandırılacak klasörü seçin"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "E-posta imzası"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Hesap kurulumu"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "E-posta hesapları"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Tamamlandı"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Gelen ayrıntıları"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Giden ayrıntıları"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Kullanıcı ayrıntıları"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Hoşgeldiniz"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Klasör ayrıntıları"
+
+msgid "mcen_ti_font_face"
+msgstr "Yazı tipi yüzünü seçin"
+
+msgid "mcen_ti_font_size"
+msgstr "Yaz tipi boyutunu seçin"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Intellisync için hesap ayarları"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Son güncelleme"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d mesaj"
+msgstr[1] "%d mesaj"
+
+msgid "mcen_ti_message_properties"
+msgstr "Mesaj ayrıntıları"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Klasöre taşı"
+
+msgid "mcen_ti_new_message"
+msgstr "Yeni mesaj"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Bağlantıya-özel SMTP sunucuları"
+
+msgid "mcen_ti_options"
+msgstr "Ayarlar"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Ek seçin"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Ekleri seçin"
+
+msgid "mcen_ti_select_email_title"
+msgstr "E-posta adresi seçin"
+
+msgid "mcen_ti_updating"
+msgstr "IMAP ve POP hesaplarını güncellemek"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Nokia N900'ümden gönderildi"
+
+msgid "mcen_va_example_email_address"
+msgstr "ilk.son@ornek.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Daha fazla"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Asla"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d yeni mesaj"
+msgstr[1] "%d yeni mesaj"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Herhangi bağlantı"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Wi-Fi"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "Wi-Fi ve WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Zengin biçimlendirme (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Düz metin"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 dakika"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 dakika"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 saat"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 saat"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 saat"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 dakika"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 saat"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 dakika"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 saat"
+
+msgid "mcen_va_refreshing"
+msgstr "Yenileniyor"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Diğer"
+
