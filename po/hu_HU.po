@@ -1,0 +1,935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20091109114412\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-05-04 09:29+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "A műveletet az IMAP kiszolgáló nem támogatja"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Az üzenet törzset nem kehet lekérni"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"Nem lehet átnevezni.\n"
+"A név érvénytelen."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "Az e-mail fiók nem hozzáférhető. Egy másik alkalmazás használja."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Az SMTP műveleti hibát küldött. Próbáld később."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "Nem lehet a(z) %s SMTP kiszolgálóhoz csatlakozni. Ellenőrizd, hogy hálózatod hozzáfér-e a kiszolgálóhoz."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"Eltávolítod a mellékletet az üzenetből?\n"
+"%s"
+msgstr[1] "Eltávolítod a mellékleteket az üzenetből?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "Az e-mail fiók törlésével minden - ebbe a postafiókba - letöltött bejövő üzenet helyi másolata is törlődni fog. Mégis folytatod?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "Az e-mail fiók törlésével minden - ebbe a postafiókba - letöltött bejövő üzenet helyi másolata és IMAP mappái is törlődni fognak. Mégis folytatod?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"Törlöd az üzenetet?\n"
+"%s"
+msgstr[1] "Törlöd az üzeneteket?"
+
+msgid "emev_nc_disconnect_account"
+msgstr "Kapcsolatban lévő e-mail fiók szerkesztése a kapcsolat bontásával és a jelenlegi feladat törlésével jár. Mégis folytatod?"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"Minden jelenlegi formázás el lesz távolítva.\n"
+"Mégis folytatod?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "E-mail fiók használatban van"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "E-mail fiók nem elérhető"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Az elem áthelyezése nem lehetséges"
+msgstr[1] "%d elem áthelyezése nem lehetséges"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "A támogatott azonosítási módok ellenőrzése"
+
+msgid "emev_ni_internal_error"
+msgstr "Hiba lépett fel"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Nem lehet csatlakozni ide: %s. A kiszolgáló neve vagy a port száma érvénytelen."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Az üzenet %s nincs a kiszolgálón."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "Nem lehet csatlakozni ide: %s. Kiszolgáló neve vagy a port száma érvénytelen."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"A kiszolgáló bontotta a kapcsolatot.\n"
+"Az üzenet fogadása leállítva. Próbáld később."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"Az üzenet feldolgozása közben hiba lépett fel.\n"
+"Elképzelhető, hogy az üzenet nincs a kiszolgálón."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "SMTP hitelesítés sikertelen. Ellenőrizd a felhasználónevet és a jelszót vagy hogy van-e hozzáférésed ide: %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "SMTP jelszó nincs megadva. Módosítsd az e-mail fiók opciókat a(z) %s fiókhoz és add meg a jelszót a(z) %s kiszolgálóhoz."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "SMTP felhasználónév nincs megadva. Módosítsd az e-mail fiók opciókat a(z) %1$s fiókhoz és add meg a jelszót a(z) %2$s kiszolgálóhoz."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "Nem lehet kijelölni a kiszolgáló Bejövő fiókját. Indítsd újra az alkalmazást és próbáld újra."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Hiba a csatlakozási műveletben. Ha SSL titkosított e-mail-t használsz, akkor tiltsd le az SSL-t és próbáld meg újra."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"Minden módosítás el fog veszni.\n"
+"Mégis folytatod?"
+
+msgid "mail_bd_external_images"
+msgstr "Külső képek letöltése"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_password"
+msgstr "Jelszó"
+
+msgid "mail_fi_username"
+msgstr "Felhasználónév"
+
+msgid "mail_ia_password_info"
+msgstr "Add meg a jelszót a(z) %s kiszolgálóhoz"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Az e-mail fiók neve már használatban van"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "Nem lehet a(z) %s kiszolgálóhoz csatlakozni vagy a kiszolgáló nem létezik. A kiszolgáló jelenleg nem elérhető. Ellenőrizd a hálózati hozzáférést a kiszolgálóhoz."
+
+msgid "mail_ib_checking_names"
+msgstr "Nevek ellenőrzése"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Kapcsolat információk nem elérhetőek"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "A fájl túl nagy a csatoláshoz."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Fájl hiba"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"IMAP szinkronizációs hiba lépett fel az üzenet feldolgozása közben.\n"
+"Küldés és Fogadás művelet végrehajtása a(z) %s fiókon."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Semmi sem található"
+
+msgid "mail_ib_setting_failed"
+msgstr "A beállítások nem menthetők"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "A mellékletek nem tisztíthatók meg."
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Nem lehet mappát létrehozni"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Nem lehet mappát létrehozni. A belső memóriakártya megtelt."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "A mappa nem törölhető"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "A mappa nem helyezhető át erre a helyre"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"Nem menthető a Piszkozatokba. A memória megtelt.\n"
+"Törölj helyi e-mail üzeneteket a memória felszabadításához."
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Biztonságos kapcsolat sikertelen"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Fájl hiba"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Az üzenetfejléc fogadása nem lehetséges"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Az üzenet fogadása nem lehetséges"
+
+msgid "mail_ti_password_protected"
+msgstr "Jelszóval védett"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Címzett nem található a kiszolgálón"
+
+msgid "mail_va_attachment"
+msgstr "Melléklet"
+
+msgid "mail_va_attachments"
+msgstr "Mellékletek"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "Feladó"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Új üzenet"
+
+msgid "mail_va_no_subject"
+msgstr "(nincs tárgy)"
+
+msgid "mail_va_no_to"
+msgstr "(nincs címzett)"
+
+msgid "mail_va_re"
+msgstr "Vá:"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Mentés ide: %s"
+
+msgid "mail_va_subject"
+msgstr "Tárgy"
+
+msgid "mail_va_to"
+msgstr "Címzett"
+
+msgid "mcen_ap_name"
+msgstr "E-mail"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-mail"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "SMTP kiszolgálók szerkesztése"
+
+msgid "mcen_bd_email_signature"
+msgstr "Aláírás"
+
+msgid "mcen_bd_get_all"
+msgstr "Összeset"
+
+msgid "mcen_bd_newest_only"
+msgstr "Csak a legújabbakat"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Eszköztár megjelenítése"
+
+msgid "mcen_cn_availability_check"
+msgstr "Csatlakozás a Nokia kiszolgálóhoz az elérhető szolgáltatásokért"
+
+msgid "mcen_fi_account_title"
+msgstr "Fiók neve"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-mail"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Haladó beállítások"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Kapcsolat-függő SMTP kiszolgálók"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Üzenet kiszolgálón hagyása"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Fogadási korlát"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Nincs"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normál (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Utolsó 100 üzenet"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Utolsó 20 üzenet"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Utolsó 200 üzenet"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Utolsó 50 üzenet"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Nincs korlát"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Fogadás"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Csak fejléc"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Üzenet"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Üzenetek és mellékletek"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Üzenet méret korlát (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Bejelentkezés"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Nincs"
+
+msgid "mcen_fi_country"
+msgstr "Régió"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Aláírás használata"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Mindegyik"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "E-mail mappák"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Feladó"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Kiszolgáló név"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Címzett"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Mappa neve"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Üzenetek száma"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Méret"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc: "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc: "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Létrehozva:"
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Feladó:"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Fogadva:"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Küldve:"
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Méret:"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Tárgy:"
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Címzett:"
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Automatikus Névjegy-felvétel"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Automatikus frissítés"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Frissítés, amikor csatlakoztatva van"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Értesítések új üzenet érkezésekor"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Új üzenet formátuma"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Frissítési időköz"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Szolgáltató"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Válaszd ki az országod/régiód és a szolgáltatód az alábbi listából"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Név"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"Kattints a 'Befejez'-re a mentéshez vagy a Varázslón kívülre a beállítások elvetéséhez.\n"
+"Kattints a 'Haladó beállítások'-ra a fiók haladó beállításainak módosításához."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr ""
+"Kattints a 'Befejez'-re a mentéshez vagy a Varázslón kívülre a beállítások elvetéséhez.\n"
+"Módosíthatod a beállításokat a menü 'Fiók szerkesztése' pontjában."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Attachment> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Eredeti üzenet -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Aláírás a(z) %s fiókhoz"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Megjegyzés: A fiók típusa a beállítás után nem módosítható"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Fiók"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"A fiók beállítás varázsló lehetőséget biztosít e-mail fiókok használatához a készülékeden.\n"
+"Kattints a 'Következő'-re a folytatáshoz."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Fiók beállítása befejezve"
+
+msgid "mcen_ia_noaccounts"
+msgstr "(nincs fiók)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(nincsenek üzenetek)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(nincsenek kapcsolatok)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Nem meghatározott"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Válaszd ki a kapcsolatot és állítsba azt az SMTP kiszolgálót, melyet ennél az aktív kapcsolatnál akarsz használni."
+
+msgid "mcen_ia_privacy_notice"
+msgstr "A szolgáltatód adatai és az ország kód információid elküldésre kerültek, hogy a Nokia ellenőrizhesse az elérhető szolgáltatásokat.A Nokia a beleegyezésed nélkül nem használja fel és nem tárolja személyes adataid. Lásd a Nokia Adatvédelmi nyilatkozatát a www.nokia.co.uk oldalon."
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Kép választása"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Beállítások elmentve"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Változások elvetve"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Érvénytelen e-mail cím"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Érvénytelen kiszolgálónév vagy IP cím"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Üzenet elküldve"
+msgstr[1] "Üzenetek elküldve"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Az üzenet a Kimenő fiókba került és küldésre vár"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Nem tlálható támogatott biztonságos hitelesítési mód"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Link típusa nem támogatott"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Hibás felhasználónév vagy jelszó"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "E-mail cím"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Név"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Biztonságos hitelesítés"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Biztonságos kapcsolat"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Bejövő kiszolgáló"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Kimenő kiszolgáló"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Fiók típusa"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Sikertelen"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Küldés"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Felfüggesztve"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Várakozás"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Melléklet"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Dátum (legújabbtól)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Dátum (régiek elől)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Prioritás"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Rendezés (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Rendezés (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Méret (legnagyobb elől)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Méret (legkisebb elől)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Tárgy (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Tárgy (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Mappa törlése"
+
+msgid "mcen_me_delete_messages"
+msgstr "Üzenetek törlése"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Fiók szerkesztése"
+msgstr[1] "Fiókok szerkesztése"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Melléklet hozzáadása"
+
+msgid "mcen_me_editor_align"
+msgstr "Igazítás"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Közép"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Bal"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Jobb"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Kép beillesztése"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Nevek ellenőrzése"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Formázott szöveg"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Rejtett Bcc"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Rejtett Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Prioritás"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Egyszerű szöveg"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Magas"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Alacsony"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normál"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Bcc mutatása"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Cc mutatása"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-mail"
+
+msgid "mcen_me_folder_archive"
+msgstr "Archívum"
+
+msgid "mcen_me_folder_details"
+msgstr "Mappa adatok"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Piszkozatok"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Bejövő"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Kimenő"
+
+msgid "mcen_me_folder_sent"
+msgstr "Elküldött"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Továbbított"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP kiszolgálók"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Megjelölés olvasottként"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Megjelölés mint olvasatlan"
+
+msgid "mcen_me_inbox_options"
+msgstr "Beállítások"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Mellékletek eltávolítása"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Válasz mindenkinek"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Küldés és fogadás"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Visszavon"
+
+msgid "mcen_me_message_settings"
+msgstr "Üzenet beállítások"
+
+msgid "mcen_me_move_folder"
+msgstr "Mappa áthelyezése"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Üzenet áthelyezése"
+msgstr[1] "Üzenetek áthelyezése"
+
+msgid "mcen_me_new_account"
+msgstr "Új fiók"
+
+msgid "mcen_me_new_folder"
+msgstr "Új mappa"
+
+msgid "mcen_me_new_message"
+msgstr "Új üzenet"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Küldés leállítása"
+
+msgid "mcen_me_rename_folder"
+msgstr "Mappa átnevezése"
+
+msgid "mcen_me_sort"
+msgstr "Rendezés"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Hozzáadás a Névjegyekhez"
+
+msgid "mcen_me_viewer_find"
+msgstr "Keresés üzenetben"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Mellékletek mentése"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"Törlöd a mappát és tartalmát?\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"Nincs e-mail cím ezen a névjegyen: %s.\n"
+"Megadsz egyet most?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Az üzenet tartalmát előbb le kell tölteni. Letöltöd most?"
+msgstr[1] "Az üzenetek tartalmát előbb le kell tölteni. Letöltöd most?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Nem találtam egyező névjegyet"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Ezzel eltávolítod a(z) %s mellékletet az üzenetből. Mégis folytatod?"
+msgstr[1] "Ezzel eltávolítod a(z) %d mellékletet az üzenetből. Mégis folytatod?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"Kísérlet biztonságos kapcsolat létrehozására a(z) %s kiszolgálóval, ami ismeretlen tanúsítvánnyal rendelkezik.\n"
+"Engedélyezed a kapcsolatot?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync szolgáltatás nem elérhető. Próbáld újra indítani a készüléket."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Ilyen típusú fájlhoz nincs megjelenítő"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "Nem lehet csatlakozni ide: %s. A kiszolgáló neve vagy a port száma hibás."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"Ismeretlen tanúsítvány:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s fiók beállítása ehhez: %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Fiók adatai"
+
+msgid "mcen_ti_add_email_title"
+msgstr "E-mail cím névjegyhez adása"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Kapcsolatfüggő SMTP kiszolgáló: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Alapértelmezett fiók"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Törlendő elem kiválasztása"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Törlendő mappa kiválasztása"
+
+msgid "mcen_ti_edit_move"
+msgstr "Áthelyezendő üzenetek kiválasztása"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Áthelyezendő mappa kiválasztása"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Átnevezendő mappa kiválasztása"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "E-mail aláírás"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Fiók beállítása"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "E-mail fiókok"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Kész"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Bejövő adatok"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Kimenő adatok"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Felhasználói adatok"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Üdvözlés"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Mappa adatai"
+
+msgid "mcen_ti_font_face"
+msgstr "Betűtípus beállítása"
+
+msgid "mcen_ti_font_size"
+msgstr "Betűméret beállítása"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Fiók beállítások Intellisync-hez"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Utoljára frissítve"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d üzenet"
+msgstr[1] "%d üzenet"
+
+msgid "mcen_ti_message_properties"
+msgstr "Üzenet adatai"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Áthelyezés mappába"
+
+msgid "mcen_ti_new_message"
+msgstr "Új üzenet"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Kapcsolatfüggő SMTP kiszolgálók"
+
+msgid "mcen_ti_options"
+msgstr "Beállítások"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Melléklet kijelölése"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Mellékletek kijelölése"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Email cím kijelölése"
+
+msgid "mcen_ti_updating"
+msgstr "IMAP és POP fiókok frissítése"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Ezt a levelet Nokia N900-ról küldtem."
+
+msgid "mcen_va_example_email_address"
+msgstr "kereszt.vezetek@peldaul.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Többet mutat"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Soha"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d új üzenet"
+msgstr[1] "%d új üzenet"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Bármelyik kapcsolat"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN és WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Formázott szöveg (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Egyszerű szöveg"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 perc"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 perc"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 óra"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 óra"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 perc"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 perc"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 óra"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 óra"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 óra"
+
+msgid "mcen_va_refreshing"
+msgstr "Frissítés"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Egyéb"
+
