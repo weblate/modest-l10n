@@ -1,0 +1,906 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: modest 20091109114412\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-04-27 18:54+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "IMAP العملية غير مدعومة من خادم "
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "غير قادر على إستلام الرسالة"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"غير قادر على إعادة التسمية.\n"
+"اسم غير صالح."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "قادر على الوصول إلى حساب البريد الإلكتروني. قد يكون مستخدم من قبل تطبيق آخر."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP فشلت عملية أرسال. أعد المحاولة لاحقا."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "Unable to connect to SMTP server %s. Check that your network has access to the server."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+"إزالة المرفقات من الرسالة?\n"
+"%s"
+msgstr[1] "إزالة المرفقات المحددة من الرسالة?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "حذف الحساب البريد الإلكتروني هذا سيؤدي لإزالة جميع الرسائل في الصندوق الوارد لهذا الحساب. هل أنت متأكد من الحذف?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "Deleting this e-mail account will remove all local copies of messages retrieved to this account's Inbox and IMAP folders. Delete anyway?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+"حذف الرسالة?\n"
+"%s"
+msgstr[1] "حذف الرسائل?"
+
+msgid "emev_nc_disconnect_account"
+msgstr "تعديل حساب البريد الإلكتروني على الشبكة سيؤدي لقطع إتصاله ووقف جميع العمليات الجارية. هل تريد المتابعة؟"
+
+msgid "emev_nc_formatting_lost"
+msgstr ""
+"سيتم إزالة كافة التنسيقات الحالية.\n"
+"هل تريد المتابعة؟"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "حساب البريد الإلكتروني هذا قيد الإستخدام حالياً"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "حساب البريد الإلكتروني هذا غير متوفر"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "غير قادل على نقل هذه البيانات"
+msgstr[1] "غير قادر على نقل هذه %d البيانات"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "جاري التحقق من وجود وسيلة مصادقة مدعومة"
+
+msgid "emev_ni_internal_error"
+msgstr "حدث خطأ"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "غير قادل على الإتصال مع %s. إسم الخادم أو رقم المنفذ غير صحيحين."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "الرسالة %s غير متوفرة على الخادم."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "غير قادر على الإتصال بـ %s. إسم الخادم أو رقم المنفذ غير صحيحين."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"تم نهاء الاتصال من قبل خادم البريد الإلكتروني.\n"
+"تم إلغاء تحميل الرسالة. حاول الإتصال مرة اخرى."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr ""
+"حدث خطأ أثناء معالجة رسالة.\n"
+"قد رسالة تكون غير موجودة على الخادم."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "SMTP authentication failed. Check user name and password or that you have access to %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "SMTP password not defined. Edit e-mail account options for account %s and enter password for server %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "SMTP user name not defined. Edit e-mail account options for account %1$s and enter password for server %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "غير قادر على تحديد خادم البريد الوارد. أعد تشغيل التطبيق وحاول مرة أخرى."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "خطأ في معزز المعملية. If using SSL encrypted e-mail, disable SSL and try again."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr ""
+"سيتم فقدان كافة التغييرات التي أجريت على إعدادات.\n"
+"هل تريد المتابعة?"
+
+msgid "mail_bd_external_images"
+msgstr "تحميل الصور الخارجية"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_password"
+msgstr "كلمة السر"
+
+msgid "mail_fi_username"
+msgstr "إسم المستخدم"
+
+msgid "mail_ia_password_info"
+msgstr "أدخل كلمة مرور الخادم %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "عنوان حساب البريد الإلكتروني مستخدم من قبل"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "غير قادر على الإتصال بـالخادم %s أو الخادم غير متوفر. قد يكون الخادم غير متوفر حالياً. تأكد من إمكانية الوصول للخادم من الشبكة لديك."
+
+msgid "mail_ib_checking_names"
+msgstr "جاري التحقق من الأسماء"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "غير قادر على الوصول لمعلومات جهات الإتصال"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "لا يمكن إرفاق الملف لكبر حجمه"
+
+msgid "mail_ib_file_operation_failed"
+msgstr "خطأ في الملف"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"IMAP synchronization error occurred while processing messages.\n"
+"Performing Send-Receive operation for e-mail account %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "لا شيء ليتم إيجاده"
+
+msgid "mail_ib_setting_failed"
+msgstr "غير قادر على حفظ الإعدادات"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "غير قادر على تنظيف المرفقات"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "غير قادر على إنشاء المجلد"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "غير قادر على إنشاء مجلد.الذاكرة الخارجية ممتلئة"
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "غير قادر على حذف المجلد"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "غير قادر على النقل للمسار الحالي"
+
+msgid "mail_in_ui_save_error"
+msgstr ""
+"غير قادر على الحفظ في المسودات.الذاكرة ممتلئة.\n"
+"إحذف بعد الرسائل الإلكترونية لتفريغ الذاكرة."
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "غير قادر على إنشاء إتصال آمن"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "خطأ في الملف"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "غير قادر على جلب مقدمة الرسالة"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "غير قادر على جلب الرسالة"
+
+msgid "mail_ti_password_protected"
+msgstr "محمي بكلمة سر"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "لم يتم العثور على المستلم على الخادم"
+
+msgid "mail_va_attachment"
+msgstr "المرفق"
+
+msgid "mail_va_attachments"
+msgstr "المرفقات"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr " من"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "رسالة جديدة"
+
+msgid "mail_va_no_subject"
+msgstr "(بدون عنوان)"
+
+msgid "mail_va_no_to"
+msgstr "(بدون مستلمين)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "جاري الحفظ في %s"
+
+msgid "mail_va_subject"
+msgstr "العنوان"
+
+msgid "mail_va_to"
+msgstr "إلى"
+
+msgid "mcen_ap_name"
+msgstr "البريد الإلكتروني"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "البريد الإلكتروني"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "SMTP تحرير خادم"
+
+msgid "mcen_bd_email_signature"
+msgstr "التوقيع"
+
+msgid "mcen_cn_availability_check"
+msgstr "جاري الإتصال بخادم نوكيا للتحقق من توافر الخدمة"
+
+msgid "mcen_fi_account_title"
+msgstr "عنوان الحساب"
+
+msgid "mcen_fi_add_email_name"
+msgstr "البريد الإلكتروني"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "خيارات متقدمة"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr " SMTP أستخدام أتصالات محدد عبر خادم"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "ترك الرسائل على الخادم"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "حد الإسترجاع"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "لا شيء"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "طبيعي (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "آخر 100 رسالة"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "آخر 20 رسالة"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "آخر 200 رسالة"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "آخر 50 رسالة"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "غير محدود"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "إسترداد"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "عنواين فقط"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "الرسائل"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "الرسائل والمرفقات"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "أقصى حد لحجم الرسائل (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "تسجيل الدخول"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "لا شيء"
+
+msgid "mcen_fi_country"
+msgstr "المنطقة"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "إستخدم توقيع"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "كل"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "مجلدات الرسائل الإلكترونية"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "من"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "المنفذ"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "إسم الخادم"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "إلى"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "إسم المجلد"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "عدد الرسائل"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "الحجم"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc: "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc: "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "إنشاء: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "من:"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "المستلمة:"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "المرسلة:"
+
+msgid "mcen_fi_message_properties_size"
+msgstr "الحجم:"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "الموضوع:"
+
+msgid "mcen_fi_message_properties_to"
+msgstr "إلى:"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "تحديث تلقائي"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "التحديث عند الإتصال بـ"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "صغة ملف جديد"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "مهلة التحديث"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "مزود الخدمة"
+
+msgid "mcen_ia_accountdetails"
+msgstr "حدد بلدك ومزود الخدمة من القائمة"
+
+msgid "mcen_ia_add_email_name"
+msgstr "الإسم"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr ""
+"إضغط 'إنهاء' للحفظ أو انقر خارج المعالج لتجاهل التغيرات.\n"
+"إضغط 'خيارات متقدمة' لتعديل الخيارات المتقدمة للحساب."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "إضغط 'إنهاء' للحفظ أو انقر خارج المعالج لتجاهل التغيرات. تستطيع تعديل هذه الخيارات عن طريق 'تعديل الحسابات' في القائمة."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<المرفق> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- الرسالة الأصلية -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "توقيع الحساب %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "ملاحظة : غير قادر على تعديل نوع الحساب بعد اكتمال الإعداد"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "الحساب"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr ""
+"معالج إعداد الحساب يتيح لك تحديد بريدك الإلكتروني للإستخدام على جهازك.\n"
+"إضغط 'التالي' للمتابعة."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "تم الإنتهاء من إعداد الحساب."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(لا يوجد حسابات)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(لا يوجد رسائل)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(لا يوجد وسيلة إتصال)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "غير معرف"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr " SMTP أختر الأتصال وسوف يتم تفعيل الخادم عن وجود الأتصال بعد تحرير "
+
+msgid "mcen_ia_privacy_notice"
+msgstr "تم إرسال معلومات الخدمة ورمز الدولة لنوكيا للتحقق من دعم دولتك. نوكيا لن تخزن أو تعالج أية معلومات من دون علمك. للمزيد من المعلومات راجع www.nokia.com"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "حدد صورة مضمنة"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "تم حفظ الإعدادات"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "تم تجاهل التغيرات"
+
+msgid "mcen_ib_invalid_email"
+msgstr "البريد الإلكتروني خاطئ"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "إسم الخادم أو عنوان بروتوكول الإنترنت غير صحيحين"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "تم إرسال الرسالة"
+msgstr[1] "تم إرسال الرسائل"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "تم نقل الرسالة إلى صندوق الصادر حتى يتم إرسالها"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "غير قادر على إيجاد وسائل مصادقة آمنة"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "نوع الرابط غير مدعوم"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "إسم المستخدم أو كملة المرور خطأ"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "البريد الإلكتروني"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "الإسم"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "المصادقة الآمنة"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "إتصال آمن"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "خادم الوارد"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "خادم الصادر"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "نوع الحساب"
+
+msgid "mcen_li_outbox_failed"
+msgstr "فشل"
+
+msgid "mcen_li_outbox_sending"
+msgstr "جاري الإرسال"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "تم الأيقاف"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "جاري الإنتظار"
+
+msgid "mcen_li_sort_attachment"
+msgstr "المرفق"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "التاريخ الأحدث أولاً"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "التاريخ الأقدم أولاً"
+
+msgid "mcen_li_sort_priority"
+msgstr "الأولوية"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "From/To (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "From/To (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "الحجم (الأكبر أولاً)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "الحجم (الإصغر أولاً)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Subject (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Subject (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "حذف المجلد"
+
+msgid "mcen_me_delete_messages"
+msgstr "حذف الرسائل"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "تعديل الحساب"
+msgstr[1] "تعديل الحسابات"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "أضافة مرفقات"
+
+msgid "mcen_me_editor_align"
+msgstr "المحاذاة"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "في الوسط"
+
+msgid "mcen_me_editor_align_left"
+msgstr "على اليسار"
+
+msgid "mcen_me_editor_align_right"
+msgstr "على اليمين"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "أدرج صورة"
+
+msgid "mcen_me_editor_checknames"
+msgstr "تحقق من الأسماء"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "صيغة النص"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Hide Bcc"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Hide Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "الأولوية"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "نص بسيط"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "مرتفع"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "منخفض"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "عادي"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Show Bcc"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Show Cc"
+
+msgid "mcen_me_folder_archive"
+msgstr "الأرشيف"
+
+msgid "mcen_me_folder_details"
+msgstr "تفاصيل المجلد"
+
+msgid "mcen_me_folder_drafts"
+msgstr "المسودات"
+
+msgid "mcen_me_folder_inbox"
+msgstr "صندوق الوارد"
+
+msgid "mcen_me_folder_outbox"
+msgstr "صندوق الصادر"
+
+msgid "mcen_me_folder_sent"
+msgstr "الرسائل المرسلة"
+
+msgid "mcen_me_inbox_forward"
+msgstr "إعادة توجيه"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP خادم"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "تعيين كمقروء"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "تعين كغير مقروء"
+
+msgid "mcen_me_inbox_options"
+msgstr "الإعدادات"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "إزالة المرفقات"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "الرد على الكل"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "تحديث البريد"
+
+msgid "mcen_me_inbox_undo"
+msgstr "تراجع"
+
+msgid "mcen_me_message_settings"
+msgstr "إعدادات الرسالة"
+
+msgid "mcen_me_move_folder"
+msgstr "نقل المجلد"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "نقل الرسالة"
+msgstr[1] "نقل الرسائل"
+
+msgid "mcen_me_new_account"
+msgstr "حساب جديد"
+
+msgid "mcen_me_new_folder"
+msgstr "مجلد جديد"
+
+msgid "mcen_me_new_message"
+msgstr "رسالة جديدة"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "أوقف الإرسال"
+
+msgid "mcen_me_rename_folder"
+msgstr "إعادة تسمية المجلد"
+
+msgid "mcen_me_sort"
+msgstr "الترتيب"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "الإضافة إلى جهات الإتصال"
+
+msgid "mcen_me_viewer_find"
+msgstr "البحث في الرسالة"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "حفظ المرفقات"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr ""
+"حذف المجلد ومحتوياته؟\n"
+"%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr ""
+"ليس هناك عنوان البريد الإلكتروني محدد لجهة الإتصال %s.\n"
+"التحديد الآن؟"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "يجب إستلام محتوى الرسالة أولاً. الإستلام الآن؟"
+msgstr[1] "يجب إستلام محتوى الرسائل أولاً. الإستلام الآن؟"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "لم يتم العثور على مطابقة في جهات الإتصال"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "سيؤدي هذا إلى إزالة المرفق %s من الرسالة. هل تريد المتابعة؟"
+msgstr[1] "سيؤدي هذا إلى إزالة %d من مرفقات الرسالة. هل تريد المتابعة؟"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr ""
+"جاري محاولة إجراء إتصال آمن مع الخادم %s ذو الشهادة الغير معرفة.\n"
+"السماح بالإتصال؟"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync الخادم غير موجود. حاول بأعادة تشغيل الجهاز."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "لم يتم العثور على دعم لهذا النوع من الملفات"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "غير قادر على الإتصال بـ %s. إسم الخادم ورقم المنفذ غير صحيحين."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr ""
+"شهادة غير معروفة:\n"
+"%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s إعدادات الحساب لـ %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "تفاصيل الحساب"
+
+msgid "mcen_ti_add_email_title"
+msgstr "إضافة بريد إلكتروني لجهة الإتصال"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "SMTP أتصالات محدد عبر خادم: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "الحساب الإفتراضي"
+
+msgid "mcen_ti_edit_delete"
+msgstr "إختر البيانات المراد حذفها"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "إختر المجلدات المراد حذفها"
+
+msgid "mcen_ti_edit_move"
+msgstr "أختر الرسائل المراد نقلها"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "إختر مجلد لنقله"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "أختر مجلد لإعادة تسميته"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "توقيع البريد الإلكتروني"
+
+msgid "mcen_ti_emailsetup"
+msgstr "إعدادات الحساب"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "حسابات البريد الإلكتروني"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "تم الإنتهاء"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "التفاصيل الواردة"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "التفاصيل الصادرة"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "تفاصيل المستخدم"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "مرحباً"
+
+msgid "mcen_ti_folder_properties"
+msgstr "تفاصيل المجلد"
+
+msgid "mcen_ti_font_face"
+msgstr "حدد نوع الخط"
+
+msgid "mcen_ti_font_size"
+msgstr "حدد حجم الخط"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr " Intellisyncإعدادات الحساب ل"
+
+msgid "mcen_ti_lastupdated"
+msgstr "آخر تحديث"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d الرسالة"
+msgstr[1] "%d الرسائل"
+
+msgid "mcen_ti_message_properties"
+msgstr "تفاصيل الرسالة"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "نقل إلى مجلد"
+
+msgid "mcen_ti_new_message"
+msgstr "رسالة جديدة"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "SMTP أتصالات محدد عبر خادم"
+
+msgid "mcen_ti_options"
+msgstr "الإعدادات"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "حدد المرفق"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "حدد المرفقات"
+
+msgid "mcen_ti_select_email_title"
+msgstr "حدد البريد الإلكتروني"
+
+msgid "mcen_ti_updating"
+msgstr " IMAP و POP تحديث حساب"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "N900 أرسلت بواسطة نوكيا "
+
+msgid "mcen_va_example_email_address"
+msgstr "first.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "أظهر المزيد"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "أبداً"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d رسالة جديدة"
+msgstr[1] "%d رسائل جديدة"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "أي إتصال"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Wi-Fi"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "Wi-Fi and WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "صيغة النص (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "نص بسيط"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 دقائق"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 دقيقة"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "ساعة"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "ساعتان"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 دقيقة"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 دقائق"
+
+msgid "mcen_va_refreshing"
+msgstr "جاري التحديث"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "آخر"
+
