@@ -1,0 +1,907 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2011-11-06 15:15+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "عملیات توسط سرور IMAP پشتیبانی نمی‌شود"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "ناتوان در بازیابی بدنه‌ی پیام"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "ناتوان در تعویض نام.\nنام معتبر نیست"
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "ناتوان در دسترسی به حساب پست الکتریکی  . ممکن است توسط برنامه‌ی دیگری در حال استفاده باشد."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "عملیات ارسال در SMTP ناموفق ماند. بعدا تلاش کنید."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "ناتوان در اتصال به سرور SMTP %s. چک کنید که شبکه شما به سرور دسترسی داشته باشد !"
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] ""
+
+msgid "emev_nc_delete_mailbox"
+msgstr "حذف این حساب ایمیل باعث می شود که تمام کپی‌های پیام‌های موجود در صندوق پیام‌های این حساب پاک شوند . مایل به حذف هستید ؟ "
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "حذف این حساب ایمیل باعث می شود که تمام کپی‌های پیام‌های موجود در صندوق پیام‌ها و پوشه‌های آیمپ این حساب  پاک شوند . مایل به حذف هستید ؟ "
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] ""
+
+msgid "emev_nc_disconnect_account"
+msgstr "ویرایش آنلاین حساب ایمیل باعث می شود که اتصال به اینترنت شما قطع شود و هر عملیات در حال اجرایی متوقف شود . ادامه می‌دهید ؟"
+
+msgid "emev_nc_formatting_lost"
+msgstr "تمام قالب بندی فعلی حذف خواهد شد.\nادامه می‌دهید؟"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "حساب ایمیل در حال استفاده است"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "حساب ایمیل وجود ندارد"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] ""
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "در حال بررسی روش های پشتیبانی شده‌ی تأیید هویت"
+
+msgid "emev_ni_internal_error"
+msgstr "خطایی رخ داد"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "ناتوان در اتصال به %s. نام سرور یا شماره‌ی پورت ممکن است نادرست باشد."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "پیام %s بر روی سرور در دسترس نیست."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "ناتوان در اتصال به %s. نام سرور یا شماره پورت ممکن است نادرست باشد."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "اتصال توسط سرور ایمیل فسخ شد.\nبازیابی پیام لغو شد.دوباره برای اتصال تلاش کنید."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "خطایی هنگام پردازش پیام رخ داد.\nممکن است پیام بر روی سرور وجود نداشته باشد."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "احراز هویت SMTP ناموفق بود. نام کاربری و کلمه عبور یا درگاهی را که شما به %s دسترسی دارید را چک کنید."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "رمز عبور SMTP معین است. ویژگی های حساب ایمیل را برای حساب %s ویرایش کنید و رمز عبور را برای سرور %s وارد کنید."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "نام کاربری SMTP معین نشده است. ویژگی حساب ایمیل را برای حساب %1$s ویرایش کنید و نام کاربری سرور %2$s را وارد کنید."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "ناتوان در انتخاب سرور صندوق پیام. نرم افزار را ریستارت کنید و دوباره تلاش کنید."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "اشکال در عملیات سوکت. اگر از ایمیل کدگذاری شده توسط ssl استفاده می کنید ssl را غیر فعال کنید و دوباره تلاش کنید."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "تمام تنظیمات تغییر یافته از بین می‌روند.\nادامه می‌دهید؟"
+
+msgid "mail_bd_external_images"
+msgstr "دانلود تصاویر خارجی"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "دعوت"
+
+msgid "mail_fi_password"
+msgstr "رمز عبور"
+
+msgid "mail_fi_username"
+msgstr "نام کاربری"
+
+msgid "mail_ia_password_info"
+msgstr "رمز عبور را برای سرور %s وارد کنید"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "عنوان حساب ایمیل هم اکنون در حال استفاده است"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "ناتوان در اتصال به سرور %s یا اینکه سرور %s وجود ندارد. ممکن است هم اکنون سرور در دسترس نباشد. بررسی کنید که شبکه‌ی شما به سرور دسترسی داشته باشد."
+
+msgid "mail_ib_checking_names"
+msgstr "در حال بررسی نام‌ها"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "ناتوان در دسترسی به اطلاعات تماس "
+
+msgid "mail_ib_error_attachment_size"
+msgstr "فایل برای ضمیمه کردن بیش از حد بزرگ است."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "ارور فایل"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "هماهنگ سازی IMAP در هنگام پردازش پیام ها با ارور مواجه شد./nدر حال مهیای شرایط ارسال/دریافت برای حساب ایمیلt %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "چیزی یافت نشد"
+
+msgid "mail_ib_setting_failed"
+msgstr "ناتوان در ذخیره سازی تنظیمات"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "ناتوان در پاک سازی ضمیمه ها"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "ناتوان در ساختن پوشه"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "ناتوان در ساختن پوشه. حافظه‌ی خارجی پر است."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "ناتوان در حذف پوشه"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "ناتوان در انتقال دادن به مکان کنونی"
+
+msgid "mail_in_ui_save_error"
+msgstr "ناتوان در ذخیره کردن در پیش نویس ها(درفت) حافظه‌ی خارجی پر است.\nپیغام‌های ایمیل را برای آزاد شدن حافظه پاک کنید."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "%d پیغام جدید بر روی سرور است اما محدودیت دریافت %d است.\nبازیابی تمام پیام ها و یا جدید ترین‌ها تا آخرین حد ممکن؟"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "ارتباط امن متوقف شد"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "خطا در فایل"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "ناتوان در بازیابی هدر پیغام"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "ناتوان در بازیابی پیام"
+
+msgid "mail_ti_password_protected"
+msgstr "محافظت شده توسط رمز عبور"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "دریافت کننده‌ای بر روی سرور یافت نشد"
+
+msgid "mail_va_attachment"
+msgstr "ضمیمه"
+
+msgid "mail_va_attachments"
+msgstr "ضمیمه‌ها"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "From"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "پیام جدید"
+
+msgid "mail_va_no_subject"
+msgstr "(بدون موضوع)"
+
+msgid "mail_va_no_to"
+msgstr "(بدون دریافت کننده)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "ذخیره در %s"
+
+msgid "mail_va_subject"
+msgstr "موضوع "
+
+msgid "mail_va_to"
+msgstr "به"
+
+msgid "mcen_ap_name"
+msgstr "پست الکترونیکی"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "پست الکترونیکی"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "ویرایش سرورهای SMTP"
+
+msgid "mcen_bd_email_signature"
+msgstr "امضا"
+
+msgid "mcen_bd_get_all"
+msgstr "همه"
+
+msgid "mcen_bd_newest_only"
+msgstr "فقط جدیدترین"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "نمایش نوار ابزار"
+
+msgid "mcen_cn_availability_check"
+msgstr "اتصال به سرور نوکیا برای بررسی در دسترس بودن خدمات"
+
+msgid "mcen_fi_account_title"
+msgstr "عنوان اکانت"
+
+msgid "mcen_fi_add_email_name"
+msgstr "پست الکترونیکی"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "تنظیمات پیشرفته"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "استفاده از اتصال خاص سرورهای SMTP"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "جاگذاشتن پیام بر روی سرور"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr ""
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "هیچ کدام"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Nortmal (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr ""
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr ""
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr ""
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "ورود"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "هیچ کدام"
+
+msgid "mcen_fi_country"
+msgstr "منطقه"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "استفاده از امضا"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "هر"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "پوشه های پست الکترونیکی"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "از"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "پورت"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "نام سرور"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "به"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "نام پوشه"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "تعداد پیام‌ها"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "سایز"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "ایجاد شده :"
+
+msgid "mcen_fi_message_properties_from"
+msgstr "از"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "دریافتی"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "ارسال"
+
+msgid "mcen_fi_message_properties_size"
+msgstr "سایز"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "موضوع"
+
+msgid "mcen_fi_message_properties_to"
+msgstr "به"
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "به طور خودکار به مخاطب‌ها اضافه شود"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "بروز رسانی به صورت خودکار"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "بروز رسانی شود زمانی که متصل است به واسطه‌ی"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "اطلاعیه‌های ورودی"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "فرمت پیام جدید"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "فواصل بروزرسانی"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "ارائه دهنده‌ی خدمات"
+
+msgid "mcen_ia_accountdetails"
+msgstr "کشور/منطقه و ارائه دهنده‌ی خدمات خود را از لیست زیر انتخاب کنید"
+
+msgid "mcen_ia_add_email_name"
+msgstr "نام"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "'پایان' را برای ذخیره کردن تنظیمات انتخاب کنید یا برای ترک کردن تنظیمات از مراحل ساخت خارج شوید.\n'تنظیمات پیشرفته' را برای تغییر تنظیمات پیشرفته حساب انتخاب کنید."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "'پایان' را برای ذخیره تغییرات انتخاب کنید یا برای رها کردن تغییرات جایی خارج از ویزارد را کلیک کنید. شما می توانید این تنظیمات را توسط 'ویرایش حساب' در منو تغییر دهید."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<فایل پیوست>"
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- پیام اصلی -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "امضا برای حساب کاربری %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "توجه : امکان ویرایش نوع اکانت هنگامی که مراحل تنظیم آن به اتمام رسید ، وجود ندارد."
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "حساب کاربری"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "فرآیند تنظیم حساب کاربری به شما اجازه می‌دهد که حساب ایمیل خود را برای استفاده بر روی دستگاه تعریف کنید.\n'ادامه' را برای ادامه انتخاب کنید"
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "راه اندازی حساب کامل شد."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(هیچ حسابی موجود نیست)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(پیامی موجود نیست)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(هیچ پیام خوانده نشده)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(هیچ اتصالی وجود ندارد)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "تعریف نشده"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "اتصال را انتخاب کنید و سرور SMTP را ویرایش کنید تا برای زمانی که اتصال فعال است مورد استفاده قرار گیرد"
+
+msgid "mcen_ia_privacy_notice"
+msgstr "نام اپراتور شما و اطلاعات کد کشور شما برای چک شدن سرویس های موجود به نوکیا فرستاده شدند. نوکیا اطلاعات شخصی شما را بدون اطلاع شما پردازش یا ذخیره نمی کند. Nokia Privacy Policy را در www.nokia.com ببینید."
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "تصویر داخلی را انتخاب کنید"
+
+msgid "mcen_ia_taptoread"
+msgstr "(برای دیدن پیام ، کلیک کنید)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "تنظیمات ذخیره شد"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "تغییرات ذخیره نشده ، لغو شدند"
+
+msgid "mcen_ib_invalid_email"
+msgstr "آدرس ایمیل نامعتبر"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "آدرس آیپی یا نام سرور نامعتبر است"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] ""
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "پیام به صندوق خروجی برای منتظر ماندن برای ارسال، فرستاده شد."
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "ناتوان در مشخص کردن متد احراز هویت امن پیشتیبانی شده"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "لینک پشتیبانی نشده"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "نام کاربری یا رمز عبور نادرست است"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "آدرس ایمیل"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "نام"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "احراز هویت امن"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "ارتباط امن"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "سرور ورودی"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "سرور خروجی"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "نوع حساب"
+
+msgid "mcen_li_outbox_failed"
+msgstr "ناموفق"
+
+msgid "mcen_li_outbox_sending"
+msgstr "در حال ارسال"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "معلق"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "در حال انتظار"
+
+msgid "mcen_li_sort_attachment"
+msgstr "ضمیمه"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "تاریخ (ترتیب از جدیدترین‌ها)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "تاریخ ( ترتیب از قدیمی ترین‌ها)"
+
+msgid "mcen_li_sort_priority"
+msgstr "اولویت"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "از/تا ، الف - ی"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "از/تا ، الف - ی"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "حجم (ترتیب از حجیم ترین)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "حجم (ترتیب از کمترین)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "موضوع (الف - ی)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "موضوع (الف - ی)"
+
+msgid "mcen_me_delete_folder"
+msgstr "پاک کردن پوشه"
+
+msgid "mcen_me_delete_messages"
+msgstr "پاک کردن پیام‌ها "
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] ""
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "اضافه کردن ضمیمه"
+
+msgid "mcen_me_editor_align"
+msgstr "هم ترازی"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "وسط چین"
+
+msgid "mcen_me_editor_align_left"
+msgstr "چپ چین"
+
+msgid "mcen_me_editor_align_right"
+msgstr "راست چین"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "درج تصویر"
+
+msgid "mcen_me_editor_checknames"
+msgstr "نام ها را چک کنید"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "متن فرم گرفته"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "مخفی کردن رونوشت پنهان"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "مخفی کردن رونوشت"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "اولویت"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "متن ساده"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "بالا"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "کم"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "عادی"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "نمایش رونوشت پنهان"
+
+msgid "mcen_me_editor_showcc"
+msgstr "نمایش رونوشت"
+
+msgid "mcen_me_email_home_applet"
+msgstr "ایمیل"
+
+msgid "mcen_me_folder_archive"
+msgstr "آرشیو"
+
+msgid "mcen_me_folder_details"
+msgstr "جزئیات پوشه"
+
+msgid "mcen_me_folder_drafts"
+msgstr "پیش نویس‌ها"
+
+msgid "mcen_me_folder_inbox"
+msgstr "صندوق دریافت"
+
+msgid "mcen_me_folder_outbox"
+msgstr "صندوق خروجی"
+
+msgid "mcen_me_folder_sent"
+msgstr "ارسال"
+
+msgid "mcen_me_inbox_forward"
+msgstr "منتقل کردن پیام"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "سرورهای SMTP"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "علامت گذاری به عنوان خوانده شده"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "علامت گذاری به عنوان خوانده نشده"
+
+msgid "mcen_me_inbox_options"
+msgstr "تنظیمات"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "پاک کردن ضمیمه‌ها"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "پاسخ به همه"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "ارسال و دریافت"
+
+msgid "mcen_me_inbox_undo"
+msgstr "بازگرداندن"
+
+msgid "mcen_me_message_settings"
+msgstr "تنظیمات پیام"
+
+msgid "mcen_me_move_folder"
+msgstr "انتقال پوشه"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] ""
+
+msgid "mcen_me_new_account"
+msgstr "حساب جدید"
+
+msgid "mcen_me_new_folder"
+msgstr "پوشه‌ی جدید"
+
+msgid "mcen_me_new_message"
+msgstr "پیام جدید"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "توقف ارسال"
+
+msgid "mcen_me_rename_folder"
+msgstr "تغییر نام پوشه"
+
+msgid "mcen_me_sort"
+msgstr "مرتب سازی"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "اضافه کردن به مخاطب‌ها"
+
+msgid "mcen_me_viewer_find"
+msgstr "جستجوی در پیام"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "ذخیره‌ی ضمیمه‌ها"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "آیا پوشه و محتویات آن حذف شود؟\n%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "هیچ آدرس ایمیلی برای مخاطب %s تعریف نشده است.\nهم اکنون یکی تعریف می‌کنید ؟"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] ""
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "مخاطب مورد نظر یافت نشد"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] ""
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "تلاش برای برقراری ارتباط امن با سرور %s با یک گواهی نامه‌ی ناشناخته.\nبرای برقراری ارتباط اجازه می‌دهید ؟"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "سرویس Intellisync در دسترس نمی‌باشد.\n دستگاه را ریستارت کنید."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "هیچ برنامه‌ای برای خواندن این پسوند فایل یافت نشد"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "ناتوان در اتصال به %s. نام سرور یا شماره‌ی پورت ممکن است نادرست باشد"
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "گواهینامه‌ی ناشناخته:\n%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s تنظیمات حساب برای %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "جزییات حساب"
+
+msgid "mcen_ti_add_email_title"
+msgstr "اضافه کردن آدرس ایمیل به مخاطب"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "اتصال خاص سرور SMTP : %s"
+
+msgid "mcen_ti_default_account"
+msgstr "حساب پیش فرض"
+
+msgid "mcen_ti_edit_delete"
+msgstr "آیتم ها را برای حذف انتخاب کنید"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "پوشه را برای حذف انتخاب کنید"
+
+msgid "mcen_ti_edit_move"
+msgstr "پیام‌ها را برای انتقال انتخاب کنید"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "پوشه را برای انتقال انتخاب کنید"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "پوشه را برای تغییر نام انتخاب کنید"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "امضای ایمیل"
+
+msgid "mcen_ti_emailsetup"
+msgstr "تنظیمات حساب"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "حساب‌های ایمیل"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "کامل شد"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "جزئیات ورودی"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "جزئیات خروجی"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "جزئیات کاربر"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "خوش آمدید"
+
+msgid "mcen_ti_folder_properties"
+msgstr "جزییات پوشه"
+
+msgid "mcen_ti_font_face"
+msgstr "انتخاب نوع فونت"
+
+msgid "mcen_ti_font_size"
+msgstr "انتخاب اندازه فونت"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "تنظیمات حساب کاربری برای Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "آخرین بروزرسانی"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] ""
+
+msgid "mcen_ti_message_properties"
+msgstr "جزییات پیام"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "انتقال به پوشه"
+
+msgid "mcen_ti_new_message"
+msgstr "پیام جدید"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "اتصال خاص سرور SMTP"
+
+msgid "mcen_ti_options"
+msgstr "تنظیمات"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "ضمیمه را انتخاب کنید"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "ضمیمه‌ها را انتخاب کنید"
+
+msgid "mcen_ti_select_email_title"
+msgstr "آدرس ایمیل را انتخاب کنید"
+
+msgid "mcen_ti_updating"
+msgstr " در حال بروزرسانی حساب‌های POP و IMAP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "از نوکیا n900 من فرستاده شد"
+
+msgid "mcen_va_example_email_address"
+msgstr "first.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "نمایش بیشتر"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "هرگز"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] ""
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "هر اتصالی"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "وایرلس"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "وایرلس و وایمکس"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "متن فرم داده شده (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "متن ساده"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "ده دقیقه"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "پانزده دقیقه"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "یک ساعت"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "بیست و چهار ساعت"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "دو ساعت"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "سی دقیقه"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "چهار ساعت"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "پنج دقیقه"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "هشت ساعت"
+
+msgid "mcen_va_refreshing"
+msgstr "در حال رفرش شدن"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "دیگر"
