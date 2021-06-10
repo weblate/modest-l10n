@@ -1,0 +1,907 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:34+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "IMAP 伺服器不支援操作"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "無法存取郵件本文."
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "無法重新命名.\n無效的名稱."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "無法存取電子郵件帳號 .也許正被其它應用程式佔用."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP 傳送操作失敗,請重試."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "SMTP 伺服器 %s 無法連線或不存在. 目前伺服器也許不可用. 請檢查網路是否能存取該伺服器."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] "從郵件中刪除附件?\r\n%s"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "刪除這個電子郵件帳號將會刪除全部郵件的本地內容.仍然刪除?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "刪除這個電子郵件帳號將會刪除全部的收件匣本地內容和 IMAP 資料夾.仍然刪除?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] "刪除郵件?\n%s"
+
+msgid "emev_nc_disconnect_account"
+msgstr "線上編輯電子郵件帳號將會中斷或取消目前的某些操作,仍然繼續?"
+
+msgid "emev_nc_formatting_lost"
+msgstr "目前所有的格式化設定將被刪除.\n仍然繼續?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "電子郵件帳號已被使用"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "電子郵件帳號無法使用"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "無法移動項目"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "正在檢查支援的驗證方法"
+
+msgid "emev_ni_internal_error"
+msgstr "發生錯誤"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "%s 無法連線. 請檢查伺服器名稱和連接埠."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "伺服器上 %s 郵件無法使用."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "無法連線到 %s . 請檢查伺服器名稱和連接埠."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "連接被電子郵件伺服器終止.\n郵件存取被取消, 請再試一次. "
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "處理郵件時發生錯誤.\n也許郵件已經不在伺服器上."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "SMTP 認證失敗. 請檢查 %s 的帳號和密碼是否正確."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "SMTP 密碼未定義. 編輯 %1$s 的郵件帳號選項並且為 %2$s 輸入密碼."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "SMTP 帳號名稱未定義. 編輯 %1$s 的郵件帳號選項並且為 %2$s 輸入密碼."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "無法選擇伺服器的收件匣. 重新啟動應用程式,然後再試一次."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "socket 操作錯誤. 如果使用SSL加密郵件，請停用 SSL 後再試一次."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "所有變更的設定都將會遺失.\n仍然繼續?"
+
+msgid "mail_bd_external_images"
+msgstr "下載外部圖片"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "邀請"
+
+msgid "mail_fi_password"
+msgstr "密碼"
+
+msgid "mail_fi_username"
+msgstr "帳號名稱"
+
+msgid "mail_ia_password_info"
+msgstr "請輸入伺服器 %s 的密碼"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "電子郵件帳號名稱已經被使用"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "無法連線到伺服器 %s 或它不存在。伺服器可能目前無法使用。請檢查您的網路連線。"
+
+msgid "mail_ib_checking_names"
+msgstr "正在檢查名稱"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "無法取得連絡人訊息"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "附件檔案過大"
+
+msgid "mail_ib_file_operation_failed"
+msgstr "檔案錯誤"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "IMAP 同步發生錯誤. 請執行帳號 %s 的傳送-接收作業."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "沒有找到"
+
+msgid "mail_ib_setting_failed"
+msgstr "無法儲存設定"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "無法清除附件"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "無法建立資料夾"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "無法建立資料夾.外部記憶卡已滿."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "無法刪除資料夾"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "無法移動到目前位置"
+
+msgid "mail_in_ui_save_error"
+msgstr "無法儲存草稿. 記憶體已滿.\n刪除本地電子郵件以釋放記憶體空間."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "伺服器有 %d 封新訊息但存取限制為  %d 封.\n 下載所有訊息或依限制數量下載最新的?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "安全連線失敗"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "檔案錯誤"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "無法存取郵件標題"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "無法存取郵件"
+
+msgid "mail_ti_password_protected"
+msgstr "密碼保護"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "伺服器上未找到收件者"
+
+msgid "mail_va_attachment"
+msgstr "附件"
+
+msgid "mail_va_attachments"
+msgstr "附件"
+
+msgid "mail_va_cc"
+msgstr "副本"
+
+msgid "mail_va_from"
+msgstr "寄件者"
+
+msgid "mail_va_fw"
+msgstr "轉寄"
+
+msgid "mail_va_hotfix1"
+msgstr "密件副本"
+
+msgid "mail_va_new_email"
+msgstr "新增郵件"
+
+msgid "mail_va_no_subject"
+msgstr "(沒有主旨)"
+
+msgid "mail_va_no_to"
+msgstr "(沒有收件者)"
+
+msgid "mail_va_re"
+msgstr "回覆"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "儲存到 %s"
+
+msgid "mail_va_subject"
+msgstr "主旨"
+
+msgid "mail_va_to"
+msgstr "收件者"
+
+msgid "mcen_ap_name"
+msgstr "電子郵件"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "電子郵件"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "編輯SMTP伺服器"
+
+msgid "mcen_bd_email_signature"
+msgstr "簽名檔"
+
+msgid "mcen_bd_get_all"
+msgstr "全部"
+
+msgid "mcen_bd_newest_only"
+msgstr "只有最新"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "顯示工具列"
+
+msgid "mcen_cn_availability_check"
+msgstr "連接諾基亞的伺服器檢查服務可用性"
+
+msgid "mcen_fi_account_title"
+msgstr "帳號標題"
+
+msgid "mcen_fi_add_email_name"
+msgstr "電子郵件"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "進階設定"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "使用連線特定的 SMTP 伺服器:"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "保存郵件於伺服器上"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "存取限制"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "無"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "一般 (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "最近 100 封郵件"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "最近 20 封郵件"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "最近 200 封郵件"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "最近 50 封郵件"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "無限制"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "存取"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "只限郵件標題"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "郵件"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "郵件和附件"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "郵件容量限制 (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "登入"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "無"
+
+msgid "mcen_fi_country"
+msgstr "地區"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "使用簽名檔"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "每次"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "郵件資料夾"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "寄件者"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "連接埠"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "伺服器名稱"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "收件者"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "資料夾名稱"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "郵件數量"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "容量"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "密件副本"
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "副本"
+
+msgid "mcen_fi_message_properties_created"
+msgstr "建立時間:"
+
+msgid "mcen_fi_message_properties_from"
+msgstr "寄件者"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "接收"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "傳送"
+
+msgid "mcen_fi_message_properties_size"
+msgstr "大小"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "主旨"
+
+msgid "mcen_fi_message_properties_to"
+msgstr "收件者"
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "自動加入通訊錄"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "自動更新"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "連線生效時開始更新"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "來信提示"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "預設郵件格式"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "更新間隔"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "服務供應商"
+
+msgid "mcen_ia_accountdetails"
+msgstr "選擇您的國家/地區和服務供應商"
+
+msgid "mcen_ia_add_email_name"
+msgstr "名稱"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "點擊'完成' 以儲存或點擊精靈外區域以取消設定. 點擊'進階設定' 以更改帳號進階設定."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "點擊'完成' 以儲存或點擊精靈外區域以取消設定.  您可以在從選單 編輯帳號' 中修改設定."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<附件:>"
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- 原始郵件 -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "帳號 %s 的簽名檔"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "注意: 設定完成之後不能修改帳號類型"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "帳號"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "帳號設定精靈將協助您設定電子郵件帳戶\n點擊'下一步'繼續."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "帳號設定完成."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(帳號不存在)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(沒有郵件)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(沒有未讀的郵件)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(無連接)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "未定義"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "當連線啟用時,選擇連線並且編輯需要用的 SMTP 伺服器"
+
+msgid "mcen_ia_privacy_notice"
+msgstr "您的電信業者和國家代碼等訊息會被發送到諾基亞以用來檢查服務是否可用。諾基亞將不會處理或儲存未經您同意的任何個人身份訊息。請參閱諾基亞網站www.nokia.com 上的隱私政策."
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "選擇圖片"
+
+msgid "mcen_ia_taptoread"
+msgstr "(點擊以閱讀訊息)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "設定已儲存"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "放棄修改"
+
+msgid "mcen_ib_invalid_email"
+msgstr "電子郵件地址錯誤"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "伺服器名稱或 IP 位址錯誤"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "傳送郵件"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "郵件已移動到寄件匣等待傳送"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "無法找到可支援的安全認證方式"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "不支援的連接類型"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "帳號或密碼錯誤"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "電子郵件地址"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "姓名"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "使用安全認證"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "安全連線"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "接收郵件伺服器"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "外寄郵件伺服器"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "帳號類型"
+
+msgid "mcen_li_outbox_failed"
+msgstr "失敗"
+
+msgid "mcen_li_outbox_sending"
+msgstr "正在傳送"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "暫停"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "等待"
+
+msgid "mcen_li_sort_attachment"
+msgstr "附件"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "日期 (最新郵件優先)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "日期 (最舊郵件優先)"
+
+msgid "mcen_li_sort_priority"
+msgstr "優先等級"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "從/到 (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "從/到 (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "尺寸(大檔案優先)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "尺寸 (小檔案優先)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "標題 (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "標題 (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "刪除資料夾"
+
+msgid "mcen_me_delete_messages"
+msgstr "刪除郵件"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "編輯帳號"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "新增附件"
+
+msgid "mcen_me_editor_align"
+msgstr "對齊"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "中間"
+
+msgid "mcen_me_editor_align_left"
+msgstr "靠左"
+
+msgid "mcen_me_editor_align_right"
+msgstr "靠右"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "插入圖片"
+
+msgid "mcen_me_editor_checknames"
+msgstr "檢查名稱"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "格式化文字"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "隱藏密件"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "隱藏副本"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "優先等級"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "純文字"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "高"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "低"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "一般"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "顯示密件"
+
+msgid "mcen_me_editor_showcc"
+msgstr "顯示副本"
+
+msgid "mcen_me_email_home_applet"
+msgstr "電子郵件"
+
+msgid "mcen_me_folder_archive"
+msgstr "存檔"
+
+msgid "mcen_me_folder_details"
+msgstr "資料夾詳情"
+
+msgid "mcen_me_folder_drafts"
+msgstr "草稿"
+
+msgid "mcen_me_folder_inbox"
+msgstr "收件匣"
+
+msgid "mcen_me_folder_outbox"
+msgstr "寄件匣"
+
+msgid "mcen_me_folder_sent"
+msgstr "寄件備份"
+
+msgid "mcen_me_inbox_forward"
+msgstr "轉寄"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP 伺服器"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "標記為已讀"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "標記為未讀"
+
+msgid "mcen_me_inbox_options"
+msgstr "設定"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "刪除附件"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "全部回覆"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "傳送和接收"
+
+msgid "mcen_me_inbox_undo"
+msgstr "復原"
+
+msgid "mcen_me_message_settings"
+msgstr "郵件設定"
+
+msgid "mcen_me_move_folder"
+msgstr "移動資料夾"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "移動郵件"
+
+msgid "mcen_me_new_account"
+msgstr "新增帳號"
+
+msgid "mcen_me_new_folder"
+msgstr "新增資料夾"
+
+msgid "mcen_me_new_message"
+msgstr "新增郵件"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "停止傳送"
+
+msgid "mcen_me_rename_folder"
+msgstr "重新命名資料夾"
+
+msgid "mcen_me_sort"
+msgstr "排序"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "新增連絡人"
+
+msgid "mcen_me_viewer_find"
+msgstr "在頁面中尋找"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "儲存附件"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "刪除資料夾及其內容?\n%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "未定義連絡人 %s電子郵件地址.\n 現在定義?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "必須先接收郵件內容,立刻接收?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "沒有找到符合的連絡人"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "將從郵件中刪除 %s 附件. 仍然繼續?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "使用未知的認證建立安全連線. \n允許連線?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync服務無法使用。請嘗試重新啟動裝置"
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "無法預覽, 沒有關聯的應用程式"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "無法連線至 %s. 伺服器名稱或連接埠號可能不正確."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "未知的認證:\n%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "帳號類型: %s 帳號名稱: %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "帳號詳情"
+
+msgid "mcen_ti_add_email_title"
+msgstr "新增電子郵件地址"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "連接特定的SMTP伺服器: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "預設帳號"
+
+msgid "mcen_ti_edit_delete"
+msgstr "選擇欲刪除項目"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "選擇欲刪除的資料夾"
+
+msgid "mcen_ti_edit_move"
+msgstr "選擇欲移動的郵件"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "選擇欲移動的資料夾"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "選擇資料夾重新命名"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "電子郵件簽名檔"
+
+msgid "mcen_ti_emailsetup"
+msgstr "帳號設定"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "電子郵件帳號"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "完成"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "接收詳情"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "傳送詳情"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "帳號詳情"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "歡迎"
+
+msgid "mcen_ti_folder_properties"
+msgstr "資料夾詳情"
+
+msgid "mcen_ti_font_face"
+msgstr "選擇字體樣式"
+
+msgid "mcen_ti_font_size"
+msgstr "選擇字體大小"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Intellisync 帳號設定"
+
+msgid "mcen_ti_lastupdated"
+msgstr "上次更新"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d 郵件"
+
+msgid "mcen_ti_message_properties"
+msgstr "郵件詳情"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "移動到資料夾"
+
+msgid "mcen_ti_new_message"
+msgstr "新郵件"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "連接特定的 SMTP 伺服器"
+
+msgid "mcen_ti_options"
+msgstr "設定"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "選擇附件"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "選擇附件"
+
+msgid "mcen_ti_select_email_title"
+msgstr "選擇電子郵件地址"
+
+msgid "mcen_ti_updating"
+msgstr "更新 IMAP 和 POP 帳號"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "使用 Nokia N900 傳送"
+
+msgid "mcen_va_example_email_address"
+msgstr "first.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "顯示更多"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "從不"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d 新郵件"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "所有連接"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Wi-Fi"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "Wi-Fi 和 WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "HTML"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "純文字"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 分鐘"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 分鐘"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 小時"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 小時"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 小時"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 分鐘"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 小時"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 分鐘"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 小時"
+
+msgid "mcen_va_refreshing"
+msgstr "正在更新"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "其他"
