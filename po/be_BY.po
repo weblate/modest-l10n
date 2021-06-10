@@ -1,0 +1,917 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-25 11:29+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Аперацыя не падтрымліваецца IMAP серверам"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Немагчыма атрымаць тэкст паведамлення"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "Немагчыма перайменаваць. \nНеправільнае імя."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "Немагчыма атрымаць доступ да ўліковага запісу электроннай пошты. Іншае прыкладанне можа выкарыстоўваць яго."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Пасыльная аперацыя SMTP не ўдалася. Паспрабуйце яшчэ раз пазней."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "Немагчыма падлучыцца да SMTP сервера %s. Пераканайцеся, што ваша сетка мае доступ да сервера."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] "Выдаліць файлавую ўкладку з паведамлення? %s"
+msgstr[1] "Выдаліць файлавыя ўкладкі з паведамлення?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "Выдаленне гэтага рахунку электроннай пошты знішчыць усе лакальныя копіі паведамленняў, атрыманых на Уваходную скрыню. Усё роўна выдаліць?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "Выдаленне гэтага рахунку электроннай пошты знішчыць усе лакальныя копіі паведамленняў, атрыманых на Уваходную скрыню і тэчку IMAP. Усё роўна выдаліць?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] "Выдаліць паведамленне? %s"
+msgstr[1] "Выдаліць паведамленні?"
+
+msgid "emev_nc_disconnect_account"
+msgstr "Анлайн рэдагаванне рахунку электроннай пошты прывядзе да яго адключэння і скасуе любыя бягучыя аперацыі. Працягнуць?"
+
+msgid "emev_nc_formatting_lost"
+msgstr "Уся бягучая раскладка будзе страчана. \nПрацягнуць?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Рахунак электроннай пошты выкарыстоўваецца"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Рахунак электроннай пошты недаступны."
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Немагчыма перамясціць элемент"
+msgstr[1] "Немагчыма перамясціць элементы %s"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Праверка падтрымоўваных метадаў аўтэнтыфікацыі"
+
+msgid "emev_ni_internal_error"
+msgstr "Унутраная памылка"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Немагчыма падлучыцца да %s. Імя сервера або нумар порта можа быць няправільным."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Паведамленне %s недаступнае на серверы."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "Немагчыма падлучыцца да %s. Імя сервера або нумар порта можа быць няправільным."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "Падлучэнне спынена серверам электроннай пошты.\nАтрыманне паведамленняў скасаванае. Паспрабуйце падлучыцца зноў."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "Адбылася памылка пры апрацоўцы паведамлення. \nПаведамленне можа не існаваць на серверы."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "SMTP аўтэнтыфікацыя не атрымалася. Праверце імя карыстальніка і пароль, ці наяўнасць доступу да %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "SMTP пароль не вызначаны. Змяніце налады рахунку электроннай пошты для рахунку %s і ўвядзіце пароль для сервера %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "SMTP імя карыстальніка не вызначана. Змяніце параметры рахунка электроннай пошты для рахунка %1$s і ўвядзіце пароль для сервера %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "Немагчыма выбраць сервер уваходзячых паведамленняў. Перазапусціце прыкладанне і паспрабуйце зноў."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Памылка аперацыі з гняздом. Пры выкарыстанні SSL шыфравання электроннай пошты, адключыце SSL і паспрабуйце зноў."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "Усе змены ў наладах могуць быць страчаныя. \nПрацягнуць?"
+
+msgid "mail_bd_external_images"
+msgstr "Запампаваць знешнія выявы"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "\tIMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "\tPOP3"
+
+msgid "mail_fi_invitation"
+msgstr "Запрашэнне"
+
+msgid "mail_fi_password"
+msgstr "Пароль"
+
+msgid "mail_fi_username"
+msgstr "Імя карыстальніка"
+
+msgid "mail_ia_password_info"
+msgstr "Увядзіце пароль для сервера %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Назва рахунку электроннай пошты ўжо выкарыстоўваецца"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "Немагчыма падлучыцца да сервера %s або ён не існуе. Сервер можа быць зараз недаступным. Праверце, ці мае вашая сетка доступ да сервера."
+
+msgid "mail_ib_checking_names"
+msgstr "Праверка імёнаў"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Немагчыма атрымаць доступ да кантактнай інфармацыі"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Файл занадта вялікі, каб быць укладзеным."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Памылка файла"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "Адбылася памылка IMAP сінхранізацыі пры апрацоўцы паведамлення. \nВікананне прыёма-перадаючай аперацыі для рахунку электроннай пошты %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Няма чаго шукаць"
+
+msgid "mail_ib_setting_failed"
+msgstr "Немагчыма захаваць налады"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Немагчыма ачысціць укладанні"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Немагчыма стварыць тэчку"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Немагчыма стварыць тэчку. Знешняя карта памяці запоўненая."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Немагчыма выдаліць тэчку"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Немагчыма перамясціць у бягучае змесціва"
+
+msgid "mail_in_ui_save_error"
+msgstr "Немагчыма захаваць у Чарнавіках. Памяць запоўненая. \nВыдаліце лакальныя паведамленні электроннай пошты каб вызваліць памяць."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "%d новых паведамленняў на серверы, але ліміт пошуку %d. \nАтрымаць усе паведамленні або самыя новыя да ліміту?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Памылка бяспечнага падлучэння"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Памылка файла"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Немагчыма атрымаць загаловак паведамлення"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Немагчыма атрымаць паведамленне"
+
+msgid "mail_ti_password_protected"
+msgstr "Абаронены пароль"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Атрымальнік не знойдзены на серверы"
+
+msgid "mail_va_attachment"
+msgstr "Укладанне"
+
+msgid "mail_va_attachments"
+msgstr "Укладанні"
+
+msgid "mail_va_cc"
+msgstr "\tCc"
+
+msgid "mail_va_from"
+msgstr "Ад"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Новае паведамленне"
+
+msgid "mail_va_no_subject"
+msgstr "(няма тэмы)"
+
+msgid "mail_va_no_to"
+msgstr "(няма атрымальніка)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Захаванне ў %s"
+
+msgid "mail_va_subject"
+msgstr "Тэма"
+
+msgid "mail_va_to"
+msgstr "Да"
+
+msgid "mcen_ap_name"
+msgstr "Э-пошта"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "Э-пошта"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Рэдагаваць SMTP серверы"
+
+msgid "mcen_bd_email_signature"
+msgstr "Подпіс"
+
+msgid "mcen_bd_get_all"
+msgstr "Усе"
+
+msgid "mcen_bd_newest_only"
+msgstr "Толькі новае"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Паказаць панэль інструментаў"
+
+msgid "mcen_cn_availability_check"
+msgstr "Падлучэнне да сервераў Nokia для праверкі даступнасці сэрвісу"
+
+msgid "mcen_fi_account_title"
+msgstr "Назва рахунку"
+
+msgid "mcen_fi_add_email_name"
+msgstr "Э-пошта"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Дадатковыя налады"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Выкарыстоўваць злучэнні вызначаных сервераў SMTP"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Пакінуць паведамленні на серверы"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Ліміт атрымання"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Няма"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Нармальны (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Апошнія 100 паведамленняў"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Апошнія 20 паведамленняў"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Апошнія 200 паведамленняў"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Апошнія 50 паведамленняў"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Без ліміту"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Атрымаць"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Толькі загалоўкі"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Паведамленні"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Паведамленні і ўкладанні"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Ліміт памеру паведамлення (КБ)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Імя карыстальніка"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Няма"
+
+msgid "mcen_fi_country"
+msgstr "Рэгіён"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Выкарыстоўваць подпіс"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Кожны"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Тэчкі электроннай пошты"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Ад"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Порт"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Імя сервера"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Да"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Назва тэчкі"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Колькасць паведамленняў"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Памер"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc:"
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc:"
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Створана:"
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Ад:"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Палучана:"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Даслана:"
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Памер:"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Тэма:"
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Да:"
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Аўтаматычна дадаць да Кантактаў"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Абнаўляць аўтаматычна"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Аднаўляць калі падлучано праз"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Уваходзячыя апавяшчэнні"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Новы фармат паведамленняў"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Інтэрвал абнаўлення"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Правайдар паслуг"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Абярыце страну/рэгіён і правайдар паслуг са спісу"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Назва"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "Націсніце 'Гатова', каб захаваць ці адмяніць налады, націснуўшы за межамі майстра. \nНацісніце 'Дадатковыя налады', каб змяніць дадатковыя налады ўліковага запісу."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "Націсніце 'Гатова', каб захаваць ці адмяніць налады, націснуўшы за межамі майстра. Вы можаце змяняць гэтыя параметры з дапамогай 'Рэдагаванне рахункаў' у меню."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Укладанне>"
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Першапачатковае паведамленне -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Подпіс для рахунку %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Заўвага: Калі ўсталёўка будзе завершана, будзе немагчыма змяніць тып рахунку"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Рахунак"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "Майстар налады ўліковага запісу дазваляе вызначыць рахункі электроннай пошты для выкарыстання на вашым дэвайсе. \nНацісніце 'Далей' для працягу."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Налада рахунку завершана."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(няма рахункаў)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(няма паведамленняў)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(няма непрачытаных паведамленняў)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(няма падлучэнняў)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Не вызначаны"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Абярыце злучэнне і адрэдагуйце SMTP сервер, які будзе выкарыстоўвацца пры актыўным злучэнні"
+
+msgid "mcen_ia_privacy_notice"
+msgstr "Інфармацыя аб вашым кодзе краіны і аператары дасланая да Nokia каб праверыць даступнасць сервісу. Nokia не будзе апрацоўваць і захоўваць асабістую інфармацыю без вашай згоды. Падрабязная інфармацыя аб Палітыцы Прыватнасці Nokia па адрасе www.nokia.com"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Абраць убудаваныя выявы"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Націсніце, каб убачыць паведамленні)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Налады захаваныя"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Змены адкінутыя"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Неправільны адрас электроннай пошты"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Неправілнае імя сервера ці IP адрас"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Паведамленне дасланае"
+msgstr[1] "Паведамленні дасланыя"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Паведамленне перамешчана ў Выходныя, гатовае да адпраўкі"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Не атрымалася выявіць падтрымоўваныя бяспечныя метады аўтэнтыфікацыі"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Непадтрымоўваны тып злучэння"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Неправільныя імя карыстальніка або пароль"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Адрас электроннай пошты"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Назва"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Бяспечная аўтэнтыфікацыя"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Бяспечнае падлучэнне"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Уваходзячы сервер"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Зыходзячы сервер"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Тып рахунку"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Памылка"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Дасыланне"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Спынена"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Чаканне"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Укладанне"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Дата (навей)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Дата (старэй)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Прыярытэт"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Ад/Да (А-Я)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Ад/Да (Я-А)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Памер (болей)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Памер (меней)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Ад/Да (А-Я)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Ад/Да (Я-А)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Выдаліць тэчку"
+
+msgid "mcen_me_delete_messages"
+msgstr "Выдаліць паведамленні"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Рахунак"
+msgstr[1] "Рахункі"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Дадаць ўкладанне"
+
+msgid "mcen_me_editor_align"
+msgstr "Выраўноўванне"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Па цэнтры"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Злева"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Зправа"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Уставіць выяву"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Праверыць імёны"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Фарматаваны тэкст"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Схаваць Bcc"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Схаваць Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Прыярытэт"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Толькі тэкст"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Высокі"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Нізкі"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Нармальны"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Паказаць Bcc"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Паказаць Cc"
+
+msgid "mcen_me_email_home_applet"
+msgstr "Э-пошта"
+
+msgid "mcen_me_folder_archive"
+msgstr "Архіў"
+
+msgid "mcen_me_folder_details"
+msgstr "Дэталі тэчкі"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Чарнавікі"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Уваходзячыя"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Зыходзячыя"
+
+msgid "mcen_me_folder_sent"
+msgstr "Дасланыя"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Наперад"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "Серверы SMTP"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Адзначыць як прачытанае"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Адзначыць як непрачытанае"
+
+msgid "mcen_me_inbox_options"
+msgstr "Налады"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Выдаліць укладанні"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Адказаць усім"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Дасыланне і атрыманне"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Скасаваць"
+
+msgid "mcen_me_message_settings"
+msgstr "Налады паведамлення"
+
+msgid "mcen_me_move_folder"
+msgstr "Перамясціць тэчку"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Перамясціць"
+msgstr[1] "Перамясціць паведамленні"
+
+msgid "mcen_me_new_account"
+msgstr "Новы рахунак"
+
+msgid "mcen_me_new_folder"
+msgstr "Новая тэчка"
+
+msgid "mcen_me_new_message"
+msgstr "Новае паведамленне"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Спыніць дасыланне"
+
+msgid "mcen_me_rename_folder"
+msgstr "Перайменаваць тэчку"
+
+msgid "mcen_me_sort"
+msgstr "Сартаваць"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Дадаць да Кантактаў"
+
+msgid "mcen_me_viewer_find"
+msgstr "Знайсці ў паведамленні"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Захаваць укладанні"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "Выдаліць тэчку і яе змесціва? \n%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "Няма адрасу электроннай пошты, вызначанага для кантакту %s.Вызначыць зараз?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Змест паведамлення павінен быць атрыманы ў першую чаргу. \nАтрымаць яе зараз?"
+msgstr[1] "Змест паведамленняў павінен быць атрыманы ў першую чаргу. \nАтрымаць яе зараз?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Не зноўдзена супадаючых кантактаў"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Гэта выдаліць укладанне з паведамлення %s. \nПрацягнуць?"
+msgstr[1] "Гэта выдаліць %d укладанняў з паведамлення. \nПрацягнуць?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "Спроба ўсталяваць бяспечнае злучэнне з серверам %s з невядомым сертыфікатам. \nДазволіць падлучэнне?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Паслуга Intellisync недаступная. Паспрабуйце перазапусціць дэвайс."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Прагляднік для гэтага тыпу файлаў не знойдзены"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "Немагчыма падлучыцца да %s. Імя сервера або нумар порта можа быць няправільным."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "Невядомы сертыфікат: \n%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s налады рахунку для %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Дэталі рахунку"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Дадаць адрас электроннай пошты да кантакту"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Спецыфічны для падлучэння SMTP сервер: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Рахунак па змаўчанні"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Абярыце элементы для выдалення"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Абярыце тэчку для выдалення"
+
+msgid "mcen_ti_edit_move"
+msgstr "Абярыце паведамленні для перамяшчэння"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Абярыце тэчку для перамяшчэння"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Абярыце тэчку для перайменавання"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Подпіс"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Налада рахунку"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Рахункі электроннай пошты"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Завершана"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Уваходныя дэталі"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Зыходныя дэталі"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Дэталі карыстальніка"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Сардэчна запрашаем"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Дэталі тэчкі"
+
+msgid "mcen_ti_font_face"
+msgstr "Выбраць шрыфт"
+
+msgid "mcen_ti_font_size"
+msgstr "Выбраць памер шрыфта"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Налады рахунку для Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Апошняе абнаўленне"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d паведамленне"
+msgstr[1] "%d паведамленні"
+
+msgid "mcen_ti_message_properties"
+msgstr "Дэталі паведамлення"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Перамясціць у тэчку"
+
+msgid "mcen_ti_new_message"
+msgstr "Новае паведамленне"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Спецыфічныя для падлучэння SMTP серверы"
+
+msgid "mcen_ti_options"
+msgstr "Налады"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Абраць укладанне"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Абраць укладанні"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Абраць адрас электроннай пошты"
+
+msgid "mcen_ti_updating"
+msgstr "Абнаўленне пратаколаў IMAP і POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Даслана з майго Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "\tfirst.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Паказаць болей"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Ніколі"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d новае паведамленне"
+msgstr[1] "%d новыя паведамленні"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Любое падлучэнне"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN "
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN і WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Фарматаваны тэкст (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Толькі тэкст"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 хвілін"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 хвілін"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 гадзіна"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 гадзіны"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 гадзіны"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 хвілін"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 гадзіны"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 хвілін"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 гадзін"
+
+msgid "mcen_va_refreshing"
+msgstr "Абнаўленне"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Іншае"
