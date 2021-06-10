@@ -1,0 +1,917 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Η λειτουργία δεν υποστηρίζεται από τον διακομιστή IMAP"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Αδυναμία ανάκτησης του μηνύματος "
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "Αδυναμία μετονομασίας.\nΆκυρο όνομα."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "Αδύνατη η πρόσβαση στο λογαριασμό email. Μια άλλη εφαρμογή μπορεί να το χρησιμοποιεί."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Η λειτουργία αποστολής SMTP απέτυχε. Δοκιμάστε ξανά αργότερα."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "Αδυναμία επικοινωνίας με τον διακομιστή SMTP %s. Ελέγξτε ότι το δίκτυο σας έχει πρόσβαση στον διακομιστή. "
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] "Να γίνει αφαίρεση του συνημμένου από το μήνυμα;\r\n%s"
+msgstr[1] "Να γίνει αφαίρεση των συνημμένων από το μήνυμα;"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "Η διαγραφή αυτού του λογαριασμού e-mail θα αφαιρέσει όλα τα τοπικά αντίγραφα των μηνυμάτων που υπάρχουν στα Εισερχόμενα αυτού του λογαριασμού. Να γίνει διαγραφή έτσι κι αλλιώς;"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "Η διαγραφή αυτού του λογαριασμού e-mail θα αφαιρέσει όλα τα τοπικά αντίγραφα των μηνυμάτων που υπάρχουν στα Εισερχόμενα και τους ΙMAP φακέλους αυτού του λογαριασμού. Να γίνει διαγραφή έτσι κι αλλιώς;"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] "Διαγραφή του μηνύματος;\r\n%s"
+msgstr[1] "Διαγραφή των μηνυμάτων;"
+
+msgid "emev_nc_disconnect_account"
+msgstr "Η επεξεργασία του λογαριασμού e-mail θα προκαλέσει την αποσύνδεση του και θα ακυρώσει όλες τις τρέχουσες εργασίες. Θέλετε να συνεχίσετε;"
+
+msgid "emev_nc_formatting_lost"
+msgstr "Όλες οι υπάρχουσες μορφοποιήσεις θα αφαιρεθούν.\nΘέλετε να συνεχίσετε έτσι και αλλιώς;"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Ο λογαριασμός e-mail είναι σε χρήση"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Ο λογαριασμός e-mail δεν είναι διαθέσιμος"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Αδυναμία μετακίνησης αντικειμένου"
+msgstr[1] "Αδυναμία μετακίνησης %d αντικειμένων"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Γίνεται έλεγχος για τις υποστηριζόμενες μεθόδους ελέγχου ταυτότητας"
+
+msgid "emev_ni_internal_error"
+msgstr "Παρουσιάστηκε σφάλμα"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Αδυναμία σύνδεσης στο %s. Το όνομα του διακομιστή ή ο αριθμός θύρας μπορεί να είναι εσφαλμένα."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Το μήνυμα %s δεν είναι διαθέσιμο από τον διακομιστή."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "Αδυναμία σύνδεσης στο %s. Το όνομα του διακομιστή ή ο αριθμός θύρας μπορεί να είναι εσφαλμένα."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "Η σύνδεση με τον διακομιστή e-mail διεκόπη.\nΗ ανάκτηση των μηνυμάτων ακυρώθηκε. Δοκιμάστε να συνδεθείτε ξανά."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "Δημιουργήθηκε σφάλμα κατά την επεξεργασία του μηνύματος.\nΤο μήνυμα μπορεί να μην υπάρχει στον διακομιστή."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "Η επαλήθευση του SMTP απέτυχε. Ελέγξτε το όνομα χρήστη και κωδικό πρόσβασης ή ότι έχετε πρόσβαση στο%s. "
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "Ο κωδικός πρόσβασης SMTP δεν ορίσθηκε. Διαλέξτε τις επιλογές του  λογαριασμού e-mail για το λογαριασμό %s και πληκτρολογήστε τον κωδικό πρόσβασης για το διακομιστή %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "Δεν έχει οριστεί όνομα SMTP. Επεξεργαστείτε το λογαριασμό email για το λογαριασμό %1$s και εισάγετε κωδικό για τον διακομιστή %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "Αδυναμία επιλογής των Εισερχόμενων του διακομιστή. Ξεκινήστε πάλι την εφαρμογή και προσπαθήστε ξανά."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Σφάλμα κατά την λειτουργία της υποδοχής. Αν χρησιμοποιείτε e-mail με κρυπτογράφηση SSL, απενεργοποιήστε το SSL και δοκιμάστε ξανά."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "Όλες οι αλλαγές που έγιναν στις ρυθμίσεις θα χαθούν.\nΣυνέχεια έτσι κι αλλιώς;"
+
+msgid "mail_bd_external_images"
+msgstr "Λήψη εξωτερικών εικόνων"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Πρόσκληση"
+
+msgid "mail_fi_password"
+msgstr "Κωδικός "
+
+msgid "mail_fi_username"
+msgstr "Όνομα χρήστη"
+
+msgid "mail_ia_password_info"
+msgstr "Εισάγετε το κωδικό για το διακομιστή %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Τίτλος λογαριασμού e-mail που χρησιμοποιείται ήδη"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "Αδυναμία σύνδεσης ή μη ύπαρξη του %s διακομιστή. Ο διακομιστής μπορεί να μην είναι διαθέσιμος. Ελέγξτε εάν το δίκτυό σας έχει πρόσβαση στο διακομιστή."
+
+msgid "mail_ib_checking_names"
+msgstr "Γίνεται έλεγχος ονομάτων"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Αδυναμία πρόσβασης στις πληροφορίες επαφής"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Πολύ μεγάλο αρχείο προς επισύναψη."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Σφάλμα αρχείου"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "Συνέβη IMAP σφάλμα συγχρονισμού κατά την διάρκεια επεξεργασίας μηνυμάτων. Πραγματοποιείται Αποστολή-Λήψη λειτουργίας για το λογαριασμό e-mail %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Τίποτα προς εύρεση"
+
+msgid "mail_ib_setting_failed"
+msgstr "Αδυναμία αποθήκευσης ρυθμίσεων"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Αδυναμία εκκαθάρισης συνημμένων"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Αδυναμία δημιουργίας φακέλου"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Αδυναμία δημιουργίας του φακέλου. Η εξωτερική μνήμη είναι γεμάτη."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Αδυναμία διαγραφής φακέλου"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Αδυναμία μετακίνησης στην τρέχουσα τοποθεσία"
+
+msgid "mail_in_ui_save_error"
+msgstr "Αδυναμία αποθήκευσης στα Πρόχειρα. Μνήμη πλήρης.\nΑφαιρέστε τοπικά μηνύματα e-mail για να ελευθερωθεί μνήμη."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "%d νέα μηνύματα στο διακομιστή, αλλά το όριο λήψης είναι %d.\nΑνάκτηση όλων των μηνυμάτων ή των νεοτέρων μέχρι το όριο;"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Ασφαλή σύνδεση απέτυχε"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Σφάλμα αρχείου"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Αδυναμία ανάκτησης της κεφαλίδας του μηνύματος"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Αδυναμία ανάκτησης του μηνύματος"
+
+msgid "mail_ti_password_protected"
+msgstr "Προστατευμένο με κωδικό"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Ο παραλήπτης δεν βρέθηκε στον διακομιστή"
+
+msgid "mail_va_attachment"
+msgstr "Επισύναψη"
+
+msgid "mail_va_attachments"
+msgstr "Επισυνάψεις"
+
+msgid "mail_va_cc"
+msgstr "CC"
+
+msgid "mail_va_from"
+msgstr "Από"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "BCC"
+
+msgid "mail_va_new_email"
+msgstr "Νέο μήνυμα"
+
+msgid "mail_va_no_subject"
+msgstr "(χωρίς θέμα)"
+
+msgid "mail_va_no_to"
+msgstr "(χωρίς παραλήπτη)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Αποθήκευση σε %s"
+
+msgid "mail_va_subject"
+msgstr "Θέμα"
+
+msgid "mail_va_to"
+msgstr "Προς"
+
+msgid "mcen_ap_name"
+msgstr "e-mail"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "e-mail"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Επεξεργασία διακομιστών SMTP"
+
+msgid "mcen_bd_email_signature"
+msgstr "Υπογραφή"
+
+msgid "mcen_bd_get_all"
+msgstr "Όλα"
+
+msgid "mcen_bd_newest_only"
+msgstr "Νεότερα μόνο"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Εμφάνιση γραμμής εργαλείων"
+
+msgid "mcen_cn_availability_check"
+msgstr "Γίνεται σύνδεση με τους διακομιστές της Nokia για να ελεγχθεί η διαθεσιμότητα της υπηρεσίας"
+
+msgid "mcen_fi_account_title"
+msgstr "Όνομα λογαριασμού"
+
+msgid "mcen_fi_add_email_name"
+msgstr "e-mail"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Προχωρημένες ρυθμίσεις"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Χρησιμοποίησε ξεχωριστούς ανά σύνδεση διακομιστές SMTP"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Άφησε τα μηνύματα στον διακομιστή"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Όριο ανάκτησης"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Καμία "
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Κανονική (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Τα 100 τελευταία μηνύματα "
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Τα 20 τελευταία μηνύματα "
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Τα 200 τελευταία μηνύματα "
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Τα 50 τελευταία μηνύματα "
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Χωρίς όριο"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Ανάκτηση"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Μόνο της επικεφαλίδες"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Μηνύματα"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Μηνύματα και επισυνάψεις "
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Όριο μεγέθους μηνύματος (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Είσοδος"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Κανένα"
+
+msgid "mcen_fi_country"
+msgstr "Χώρα"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Χρήση υπογραφής"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Κάθε"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Φάκελοι e-mail"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Από "
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Θύρα"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Όνομα διακομιστή"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "Προς"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Όνομα φακέλου"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Αριθμός μηνυμάτων"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Μέγεθος"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "BCC: "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "CC: "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Δημιουργήθηκε: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Από: "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Λήφθηκε: "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Στάλθηκε: "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Μέγεθος: "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Θέμα: "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "Προς: "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Αυτόματη προσθήκη στις Επαφές"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Αυτόματη ενημέρωση"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Ενημέρωση όταν υπάρχει σύνδεση μέσω"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Εισερχόμενες ειδοποιήσεις"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Νέος τύπος μηνύματος"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Χρονική περίοδος ανανέωσης"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Πάροχος υπηρεσίας"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Επιλέξτε την χώρα/περιοχή και το παροχέα της υπηρεσίας από την παρακάτω λίστα"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Όνομα"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "Πατήστε 'Τέλος' για να αποθηκεύσετε ή να απορρίψετε τις ρυθμίσεις πατώντας έξω από τον οδηγό.\nΠατήστε 'Προχωρημένες Ρυθμίσεις', για να τροποποιήσετε τις προχωρημένες ρυθμίσεις του λογαριασμού."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "Πατήστε 'Τέλος' για να αποθηκεύσετε ή να απορρίψετε τις ρυθμίσεις πατώντας έξω από τον οδηγό. Μπορείτε να επεξεργαστείτε τις ρυθμίσεις μέσω του 'Επεξεργασία Λογαριασμών' στο μενού."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Επισύναψη> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Αρχικό μήνυμα -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Υπογραφή για τον λογαριασμό  %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Σημείωση: Δεν είναι δυνατή η επεξεργασία του τύπου του λογαριασμού αφού ολοκληρωθεί η εγκατάσταση"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Λογαριασμός"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "Ο οδηγός δημιουργίας λογαριασμού σας επιτρέπει να ορίσετε λογαριασμούς e-mail για χρήση στη συσκευής σας.\nΠατήστε 'Επόμενο' για να συνεχίσετε."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Η ρύθμιση του λογαριασμού ολοκληρώθηκε."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(δεν υπάρχουν λογαριασμοί)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(δεν υπάρχουν μηνύματα)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(μη αναγνωσμένα μηνύματα)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(δεν υπάρχουν συνδέσεις)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Δεν ορίστηκε"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Επιλέξτε σύνδεση και τροποποιήστε το διακομιστή SMTP να χρησιμοποιείται όταν η σύνδεση είναι ενεργή."
+
+msgid "mcen_ia_privacy_notice"
+msgstr "Πληροφορίες για τον Λειτουργό του δικτύου σας και τον κωδικό της χώρας αποστέλλονται στη Nokia για να ελεγχθεί η διαθεσιμότητα της υπηρεσίας. Η Nokia δεν επεξεργάζεται ή αποθηκεύει αναγνωρίσιμες προσωπικές πληροφορίες χωρίς την συγκατάθεσή σας. Βλέπε Privacy Policy Nokia στη διεύθυνση www.nokia.com"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Επιλέξτε εικόνα"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Πατήστε για να δείτε τα μηνύματα)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Οι αλλαγές απορρίφθηκαν"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Λάθος διεύθυνση e-mail"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Λάθος όνομα διακομιστή ή διεύθυνσης IP"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Το μήνυμα εστάλη"
+msgstr[1] "Τα μηνύματα εστάλησαν"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Το μήνυμα μετακινήθηκε στα Εξερχόμενα αναμένοντας αποστολή"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Αδυναμία εύρεσης υποστηριζόμενων μεθόδων ασφαλής ταυτοποίησης"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Μη υποστηριζόμενος τύπος συνδέσμου"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Λάθος όνομα χρήστη ή κωδικός"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Διεύθυνση e-mail"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Όνομα"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Ασφαλής ταυτοποίηση"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Ασφαλής σύνδεση"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Διακομιστής εισερχόμενων"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Διακομιστής εξερχόμενων"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Τύπος λογαριασμού"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Απέτυχε"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Αποστολή"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Ανεστάλη"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Αναμονή"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Επισύναψη"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Ημερομηνία (το πιο πρόσφατο πρώτο)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Ημερομηνία (το παλαιότερο πρώτο)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Προτεραιότητα"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Από/Μέχρι (Α-Ω)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Από/Μέχρι (Ω-Α)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Μέγεθος (το μεγαλύτερο πρώτο)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Μέγεθος (το μικρότερο πρώτο)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Θέμα (Α-Ω)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Θέμα (Ω-Α)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Διαγραφή φακέλου"
+
+msgid "mcen_me_delete_messages"
+msgstr "Διαγραφή μηνυμάτων"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Επεξεργασία λογαριασμού"
+msgstr[1] "Επεξεργασία λογαριασμών"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Προσθήκη επισύναψης"
+
+msgid "mcen_me_editor_align"
+msgstr "Ευθυγράμμιση"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Κεντραρισμένο"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Αριστερά"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Δεξιά"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Εισαγωγή εικόνας"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Έλεγχος ονομάτων"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Μορφοποιημένο κείμενο"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Απόκρυψη BCC"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Απόκρυψη CC"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Προτεραιότητα"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Απλό κείμενο"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Υψηλή"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Χαμηλή"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Κανονική"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Προβολή BCC"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Προβολή CC"
+
+msgid "mcen_me_email_home_applet"
+msgstr "e-mail"
+
+msgid "mcen_me_folder_archive"
+msgstr "Αρχειοθέτηση"
+
+msgid "mcen_me_folder_details"
+msgstr "Λεπτομέρειες φακέλου"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Προσχέδια"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Εισερχόμενα"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Εξερχόμενα"
+
+msgid "mcen_me_folder_sent"
+msgstr "Απεσταλμένα"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Προώθηση"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP διακομιστές"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Σημ. ως αναγνωσμένο"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Σημ. ως μη αναγνωσμένο"
+
+msgid "mcen_me_inbox_options"
+msgstr "Ρυθμίσεις"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Αφαίρεση επισυνάψεων"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Απάντηση σε όλους"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Αποστολή & Λήψη"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Αναίρεση"
+
+msgid "mcen_me_message_settings"
+msgstr "Ρυθμίσεις μηνύματος"
+
+msgid "mcen_me_move_folder"
+msgstr "Μετακίνηση φακέλου"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Μετακίνηση μηνύματος"
+msgstr[1] "Μετακίνηση μηνυμάτων"
+
+msgid "mcen_me_new_account"
+msgstr "Νέος λογαριασμός"
+
+msgid "mcen_me_new_folder"
+msgstr "Νέος φάκελος"
+
+msgid "mcen_me_new_message"
+msgstr "Νέο μήνυμα"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Διακοπή αποστολής"
+
+msgid "mcen_me_rename_folder"
+msgstr "Μετονομασία φακέλου"
+
+msgid "mcen_me_sort"
+msgstr "Ταξινόμηση"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Προσθήκη στις Επαφές"
+
+msgid "mcen_me_viewer_find"
+msgstr "Εύρεση στο μήνυμα"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Αποθήκευση επισυνάψεων"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "Διαγραφή φακέλου και των περιεχομένων του;\n%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "Δεν υπάρχει ηλεκτρονική διεύθυνση που έχει οριστεί για την επαφή %s.\nΟρισμός τώρα;"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Το περιεχόμενο του μηνύματος πρέπει πρώτα να ανακτηθεί. Ανάκτηση τώρα;"
+msgstr[1] "Τα περιεχόμενα των μηνυμάτων πρέπει πρώτα να ανακτηθούν. Ανάκτηση τώρα;"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Δεν βρέθηκαν επαφές που να ταιριάζουν"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Αυτό θα αφαιρέσει από το μήνυμα το συνημμένο %s. Θέλετε να συνεχίσετε;"
+msgstr[1] "Αυτό θα αφαιρέσει %d συνημμένα από το μήνυμα. Θέλετε να συνεχίσετε;"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "Προσπάθεια δημιουργίας ασφαλούς σύνδεσης με το διακομιστή %s με άγνωστο πιστοποιητικό.\nΝα επιτραπεί η σύνδεση;"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Η υπηρεσία Intellisync δεν είναι διαθέσιμη. Δοκιμάστε να επανεκκινήσετε τη συσκευή."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Ο τύπος αρχείου δεν αντιστοιχεί σε κάποιο πρόγραμμα."
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "Αδυναμία σύνδεσης σε %s. Το όνομα του διακομιστή ή ο αριθμός της θύρας είναι λάθος"
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "Άγνωστο πιστοποιητικό:\n%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s ρυθμίσεις λογαριασμού για %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Λεπτομέρειες λογαριασμού"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Πρόσθεση διεύθυνσης e-mail στην επαφή"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Σύνδεση ειδικού διακομιστή SMTP: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Προεπιλεγμένος λογαριασμός"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Επιλέξτε αντικείμενα για διαγραφή"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Επιλέξτε φάκελο για διαγραφή"
+
+msgid "mcen_ti_edit_move"
+msgstr "Επιλέξτε μηνύματα για μετακίνηση"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Επιλέξτε φάκελο για μετακίνηση"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Επιλέξτε φάκελο για μετονομασία"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Υπογραφή e-mail"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Ρύθμιση λογαριασμού"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Λογαριασμοί e-mail"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Ολοκλήρωση"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Λεπτομέρειες εισερχομένων"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Λεπτομέρειες εξερχομένων"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Λεπτομέρειες χρήστη"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Καλώς ήρθατε"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Λεπτομέρειες φακέλου"
+
+msgid "mcen_ti_font_face"
+msgstr "Επέλεξε γραμματοσειρά"
+
+msgid "mcen_ti_font_size"
+msgstr "Επιλέξτε μέγεθος γραμματοσειράς"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Ρυθμίσεις λογαριασμού για την υπηρεσία Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Τελευταία ενημέρωση"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d μήνυμα "
+msgstr[1] "%d μηνύματα "
+
+msgid "mcen_ti_message_properties"
+msgstr "Λεπτομέρειες μηνύματος"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Μετακίνηση σε φάκελο"
+
+msgid "mcen_ti_new_message"
+msgstr "Νέο μήνυμα "
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Σύνδεση ειδικών διακομιστών SMTP"
+
+msgid "mcen_ti_options"
+msgstr "Ρυθμίσεις "
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Επιλογή επισύναψης "
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Επιλογή επισυνάψεων "
+
+msgid "mcen_ti_select_email_title"
+msgstr "Επιλέξτε διεύθυνση e-mail"
+
+msgid "mcen_ti_updating"
+msgstr "Ανανέωση λογαριασμών IMAP και POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Η αποστολή έγινε μέσω του Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "first.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Προβολή περισσοτέρων"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Ποτέ"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d νέο μήνυμα"
+msgstr[1] "%d νέα μηνύματα"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Οποιαδήποτε σύνδεση"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Wi-Fi"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "Wi-Fi και WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Επεξεργασμένο κείμενο (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Απλό κείμενο "
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 λεπτά"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 λεπτά"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 ώρα"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 ώρες"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 ώρες"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 λεπτά"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 ώρες"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 λεπτά"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 ώρες"
+
+msgid "mcen_va_refreshing"
+msgstr "Γίνεται ανανέωση"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Άλλα"
