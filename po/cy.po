@@ -1,0 +1,938 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-02-08 07:11+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Ni gynhelir y weithred gan y gweinydd IMAP"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Methu nôl corff y neges"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "Methu ailenwi. Enw annilys."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "Methu cyrchu'r cyfrif e-bost. Gall fod rhaglen arall yn ei ddefnyddio."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "Methodd y weithred anfon SMTP. Ceisiwch eto yn ddiweddarach."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "Methu cysylltu a'r gweinydd SMTP %s. Gwiriwch fod gan eich rhwydwaith fynediad at y gweinydd."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] "Tynnu'r ymlyniad o'r neges?"
+msgstr[1] "Tynnu'r ymlyniadau a ddewiswyd o'r neges?"
+msgstr[2] "Tynnu'r ymlyniadau a ddewiswyd o'r neges?"
+msgstr[3] "Tynnu'r ymlyniadau a ddewiswyd o'r neges?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "Bydd dileu'r cyfrif e-bost yma'n gwaredu ar pob copi lleol o negeseuon a lawrlwythwyd at mewnflwch y cyfrif. Dileu fodd bynnag?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "Bydd dileu'r cyfrif e-bost yma'n gwaredu ar pob copi lleol o negeseuon a lawrlwythwyd at mewnflwch a ffolderi IMAP y cyfrif. Dileu fodd bynnag?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] "Dileu neges?"
+msgstr[1] "Dileu negeseuon?"
+msgstr[2] "Dileu negeseuon?"
+msgstr[3] "Dileu negeseuon?"
+
+msgid "emev_nc_disconnect_account"
+msgstr "Bydd golygu ar-lein o gyfrif e-bost yn peri iddo ddatgysylltu a bydd yn gwaredu ag unrhyw weithredoedd ar y gweill. Parhau fodd bynnag?"
+
+msgid "emev_nc_formatting_lost"
+msgstr "Gwaredir ag unrhyw fformadu. Parhau fodd bynnag?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Mae'r cyfrif e-bost mewn defnydd"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Nid yw'r cyfrif e-bost ar gael"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Methu symud eitem"
+msgstr[1] "Methu symud %d eitem"
+msgstr[2] "Methu symud %d eitem"
+msgstr[3] "Methu symud %d eitem"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Yn chwilio am ddulliau awdurdodi a gynhelir"
+
+msgid "emev_ni_internal_error"
+msgstr "Bu gwall"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Methu cysylltu â %s. Gall fod enw'r gweinydd neu'r rhif porth yn anghywir."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Nid yw'r neges %s ar gael ar y gweinydd."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "Methu cysylltu â %s. Gall fod enw'r gweinydd neu'r rhif porth yn anghywir."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "Terfynwyd y cysylltiad gan y gweinydd e-bost. Ataliwyd nôl negeseuon. Ceisiwch gysylltu eto."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "Bu gwall tra'n prosesu neges. Efallai nid yw'r neges yn bodoli."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "Methodd yr awdurdodi SMTP. Gwiriwch eich enw defnyddiwr a chyfrinair neu fod gennych fynediad at %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "Ni ddiffiniwyd cyfrinair SMTP. Golygwch gosodiadau cyfrif e-bost ar gyfer cyfrif %s a rhowch gyfrinair ar gyfer y gweinydd %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "Ni ddiffiniwyd cyfrinair SMTP. Golygwch gosodiadau cyfrif e-bost ar gyfer cyfrif %1$s a rhowch enw defnyddiwr ar gyfer y gweinydd %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "Methu dewin Mewnflwch y gweinydd. Ailddechreuwch y rhaglen a ceisiwch eto."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Gwall mewn gweithred soced. Os yn defnyddio e-bost amgryptiedig SSL, analluogwch SSL, a ceisiwch eto."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "Gwaredir pob newid i'r gosodiadau. Parhau fodd bynnag?"
+
+msgid "mail_bd_external_images"
+msgstr "Llawrlwytho lluniau allanol"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Gwahoddiad"
+
+msgid "mail_fi_password"
+msgstr "Cyfrinair"
+
+msgid "mail_fi_username"
+msgstr "Enw defnyddiwr"
+
+msgid "mail_ia_password_info"
+msgstr "Rhowch gyfrinair ar gyfer y gweinydd %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Teitl cyfrif e-bost eisoes mewn defnydd"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "Methu cysylltu a'r gweinydd %s neu nid yw'n bodoli. Efallai nid yw'r gweinydd ar gael ar hyn o bryd. Gwiriwch fod gan eich rhwydwaith mynediad at y gweinydd."
+
+msgid "mail_ib_checking_names"
+msgstr "Yn gwirio enwau"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Methu nôl gwybodaeth cysylltiadau"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Mae'r ffeil yn rhy fawr i'w ymlynu."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Gwall ffeil"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "Bu gwall cydamseru IMAP tra'n prosesu negeseuon. Yn perfformio gweithred Gyrru-Derbyn ar gyfer cyfeiriad e-bost %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Dim i'w ganfod"
+
+msgid "mail_ib_setting_failed"
+msgstr "Methu cadw'r gosodiadau"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Methu gwaredu a'r ymlyniadau"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Methu creu ffolder"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Methu creu ffolder. Cerdyn cof allanol yn llawn."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Methu dileu'r ffolder"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Methu symud at y lleoliad presennol"
+
+msgid "mail_in_ui_save_error"
+msgstr "Methu cadw at Drafftiau. Cof yn llawn. Tynnwch negeseuon e-bost lleol i ryddhau cof."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "%d neges newydd ar y gweinydd ond y diben nôl yw %d. Nôl pob neges neu'r rhai diweddaraf hyd at y diben?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Methodd y cysylltiad diogel"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Gwall ffeil"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Methu nôl pennyn neges"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Methu nôl neges"
+
+msgid "mail_ti_password_protected"
+msgstr "Amddiffynnir â chyfrinair"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Ni ganfuwyd y derbyniwr ar y gweinydd"
+
+msgid "mail_va_attachment"
+msgstr "Ymlyniad"
+
+msgid "mail_va_attachments"
+msgstr "Ymlyniadau"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "Gan"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Neges newydd"
+
+msgid "mail_va_no_subject"
+msgstr "(dim testun)"
+
+msgid "mail_va_no_to"
+msgstr "(dim derbyniwr)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Yn cadw at %s"
+
+msgid "mail_va_subject"
+msgstr "Testun"
+
+msgid "mail_va_to"
+msgstr "I"
+
+msgid "mcen_ap_name"
+msgstr "E-bost"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "E-bost"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Golygu gweinyddwyr SMTP"
+
+msgid "mcen_bd_email_signature"
+msgstr "Llofnod"
+
+msgid "mcen_bd_get_all"
+msgstr "Pob dim"
+
+msgid "mcen_bd_newest_only"
+msgstr "Diweddaraf yn unig"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Dangos bar offer"
+
+msgid "mcen_cn_availability_check"
+msgstr "Yn cysylltu at weinyddion Nokia i gadarnhau argaeledd gwasanaeth"
+
+msgid "mcen_fi_account_title"
+msgstr "Teitl cyfrif"
+
+msgid "mcen_fi_add_email_name"
+msgstr "E-bost"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Gosodiadau uwch"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Defnyddio gweinyddion SMTP cysylltiad-benodol"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Gadael negeseuon ar y gweinydd"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Diben nôl"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Dim"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Arferol (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Y 100 neges diweddaraf"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Y 20 neges diweddaraf"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Y 200 neges diweddaraf"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Y 50 neges diweddaraf"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Dim diben"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Nôl"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Penynnau'n unig"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Negeseuon"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Negeseuon ac ymlyniadau"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Diben maint neges (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Mewngofnodi"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Dim"
+
+msgid "mcen_fi_country"
+msgstr "Ardal"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Defnyddio llofnod"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Pob"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Ffolderi e-bost"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "Gan"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Porth"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Enw gweinydd"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "I"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Enw ffolder"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Nifer negeseuon"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Maint"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc:"
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc:"
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Crëwyd:"
+
+msgid "mcen_fi_message_properties_from"
+msgstr "Gan:"
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Derbyniwyd:"
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Gyrrwyd:"
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Maint:"
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Testun:"
+
+msgid "mcen_fi_message_properties_to"
+msgstr "I:"
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Ychwanegu'n ddiofyn at Cysylltiadau"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Diweddaru'n ddiofyn"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Diweddaru drwy"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Hysbyson yn cyrraedd"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Fformad neges newydd"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Ysbaid diweddaru"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Cyflenwr gwasanaeth"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Dewiswch eich gwlad/ardal a chyflenwr gwasanaeth o'r rhestr isod"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Enw"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "Tarwch 'Gorffen' i gadw, neu gwaredwch a'r gosodiadau drwy daro y tu allan i'r dewin. Tarwch 'Gosodiadau uwch' i addasu gosodiadau uwch y cyfrif."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "Tarwch 'Gorffen' i gadw, neu gwaredwch a'r gosodiadau drwy daro y tu allan i'r dewin. Gallwch olygu'r gosodiadau yma drwy 'Golygu cyfrifon' yn y ddewislen."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Ymlyniad>"
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Neges wreiddiol -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Llofnod ar gyfer cyfrif %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Noder: Ni ellir newid math y cyfrif wedi gorffen sefydlu'r cyfrif"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Cyfrif"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "Mae'r dewin sefydlu cyfrif yn eich galluogi i ddiffinio cyfrifon e-byst i ddefnyddio ar eich dyfais. Tarwch 'Nesaf' i barhau."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Cwblhawyd sefydlu cyfrif."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(dim cyfrifon)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(dim negeseuon)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(dim negeseuon heb eu darllen)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(dim cysylltiadau)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Heb ei ddiffinio"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Dewiswch gysylltiad a golygwch y gweinydd SMTP i'w ddefnyddio tra fo'r cysylltiad yn weithredol"
+
+msgid "mcen_ia_privacy_notice"
+msgstr "Fe yrrir eich cyflenwr gwasanaeth a chod gwlad i Nokia i wirio argaeledd gwasanaeth. Ni fydd Nokia'n prosesu na storio unrhyw wybodaeth bersonol heb eich caniatâd. Gweler Polisi Preifatrwydd Nokia wrth www.nokia.com"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Dewis llun mewnlin"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Tarwch i weld negeseuon)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Cadwyd gosodiadau"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Gwaredwyd a'r newidiadau"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Cyfeiriad e-bost annilys"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Enw gweinydd neu gyfeiriad IP annilys"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Neges wedi'i yrru"
+msgstr[1] "Negeseuon wedi'u gyrru"
+msgstr[2] "Negeseuon wedi'u gyrru"
+msgstr[3] "Negeseuon wedi'u gyrru"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Neges wedi ei symud at yr Allflwch yn barod i'w anfon"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Methu canfod y dulliau awdurdodi diogel a gynhelir"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Math linc di-gynnal"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Enw defnyddiwr neu cyfrinair annilys"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Cyfeiriad e-bost"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Enw"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Awdurdodi diogel"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Cysylltiad diogel"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Gweinydd derbyn"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Gweinydd danfon"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Math cyfrif"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Methwyd"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Yn gyrru"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Gohiriwyd"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Yn aros"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Ymlyniad"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Dyddiad (diweddaraf yn gyntaf)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Dyddiad (hynaf yn gyntaf)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Pwysigrwydd"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "Gan/I (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "Gan/I (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Maint"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Maint (lleiaf yn gyntaf)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Testun (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Testun (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Dileu ffolder"
+
+msgid "mcen_me_delete_messages"
+msgstr "Dileu negeseuon"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Golygu cyfrif"
+msgstr[1] "Golygu cyfrifon"
+msgstr[2] "Golygu cyfrifon"
+msgstr[3] "Golygu cyfrifon"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Ychwanegu ymlyniad"
+
+msgid "mcen_me_editor_align"
+msgstr "Aliniad"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Canol"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Chwith"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Dde"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Mewnosod llun"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Gwirio enwau"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Testun wedi'i fformadu"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Cuddio Bcc"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Cuddio Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Pwysigrwydd"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Testun plaen"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Uchel"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Isel"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Cyffredin"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Dangos Bcc"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Dangos Cc"
+
+msgid "mcen_me_email_home_applet"
+msgstr "E-bost"
+
+msgid "mcen_me_folder_archive"
+msgstr "Archif"
+
+msgid "mcen_me_folder_details"
+msgstr "Manylion ffolder"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Drafftiau"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Mewnflwch"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Allflwch"
+
+msgid "mcen_me_folder_sent"
+msgstr "Gyrrwyd"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Blaenyrru"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "Gweinyddion SMTP"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Marcio fel wedi'i ddarllen"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Marcio fel heb ei ddarllen"
+
+msgid "mcen_me_inbox_options"
+msgstr "Gosodiadau"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Tynnu ymlyniadau"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Ateb at bawb"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Gyrru a derbyn"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Dadwneud"
+
+msgid "mcen_me_message_settings"
+msgstr "Gosodiadau neges"
+
+msgid "mcen_me_move_folder"
+msgstr "Symud ffolder"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Gyrrwyd y neges"
+msgstr[1] "Gyrrwyd negeseuon"
+msgstr[2] "Gyrrwyd negeseuon"
+msgstr[3] "Gyrrwyd negeseuon"
+
+msgid "mcen_me_new_account"
+msgstr "Cyfrif newydd"
+
+msgid "mcen_me_new_folder"
+msgstr "Ffolder newydd"
+
+msgid "mcen_me_new_message"
+msgstr "Neges newydd"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Atal anfon"
+
+msgid "mcen_me_rename_folder"
+msgstr "Ailenwi ffolder"
+
+msgid "mcen_me_sort"
+msgstr "Hidlo"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Ychwanegu at Cysylltiadau"
+
+msgid "mcen_me_viewer_find"
+msgstr "Canfod yn y neges"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Cadw ymlyniadau"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "Dileu'r ffolder a'i gynnwys? %s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "Dim cyfeiriad e-bost wedi ei ddiffinio ar gyfer cyswllt %s. Diffinio un yn awr?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Rhaid nôl cynnwys y neges yn gyntaf. Nôl yn awr?"
+msgstr[1] "Rhaid nôl cynnwys y negeseuon yn gyntaf. Nôl yn awr?"
+msgstr[2] "Rhaid nôl cynnwys y negeseuon yn gyntaf. Nôl yn awr?"
+msgstr[3] "Rhaid nôl cynnwys y negeseuon yn gyntaf. Nôl yn awr?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Ni ganfuwyd cysylltiadau'n cydweddu"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Bydd hyn yn tynnu'r ymlyniad %s o'r neges. Parhau fodd bynnag?"
+msgstr[1] "Bydd hyn yn tynnu %d ymlyniad o'r neges. Parhau fodd bynnag?"
+msgstr[2] "Bydd hyn yn tynnu %d ymlyniad o'r neges. Parhau fodd bynnag?"
+msgstr[3] "Bydd hyn yn tynnu %d ymlyniad o'r neges. Parhau fodd bynnag?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "Yn ceisio creu cysylltiad diogel at weinydd %s gyda thystysgrif anhysbys. Caniatáu cysylltiadau?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Gwasanaeth Intellisync ddim ar gael. Ceisiwch ailddechrau'r dyfais."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Ni ganfuwyd gweledydd ar gyfer y math yma o ffeil"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "Methu cysylltu â %s. Gall fod yr enw gweinydd neu rif porth yn anghywir."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "Tystysgrif anhysbys: %s"
+
+msgid "mcen_ti_account_settings"
+msgstr "Gosodiadau %s ar gyfer cyfrif %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Manylion cyfrif"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Ychwanegu cyfeiriad e-bost at gyswllt"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Gweinydd SMTP cysylltiad-benodol: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Cyfrif rhagosodedig"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Dewiswch eitemau i'w dileu"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Dewiswch ffolder i'w ddileu"
+
+msgid "mcen_ti_edit_move"
+msgstr "Dewiswch negeseuon i'w symud"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Dewiswch ffolder i'w symud"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Dewiswch ffolder i'w ailenwi"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Llofnod e-bost"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Sefydlu cyfrif"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Cyfrifon e-bost"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Cwblhawyd"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Manylion derbyn"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Manylion danfon"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Manylion defnyddiwr"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Croeso"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Manylion ffolder"
+
+msgid "mcen_ti_font_face"
+msgstr "Dewis wynebfath"
+
+msgid "mcen_ti_font_size"
+msgstr "Dewis maint ffont"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Gosodiadau cyfrif ar gyfer Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Diweddarwyd diwethaf"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d neges"
+msgstr[1] "%d neges"
+msgstr[2] "%d neges"
+msgstr[3] "%d neges"
+
+msgid "mcen_ti_message_properties"
+msgstr "Manylion neges"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Symud at ffolder"
+
+msgid "mcen_ti_new_message"
+msgstr "Neges newydd"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Gweinyddwyr SMTP cysylltiad-benodol"
+
+msgid "mcen_ti_options"
+msgstr "Gosodiadau"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Dewis ymlyniad"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Dewis ymlyniadau"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Dewis cyfeiriad e-bost"
+
+msgid "mcen_ti_updating"
+msgstr "Diweddaru cyfrifon IMAP a POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Gyrrwyd o fy Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "blaen.cyfenw@esiampl.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "-"
+
+msgid "mcen_va_more"
+msgstr "Dangos mwy"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Byth"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d neges newydd"
+msgstr[1] "%d neges newydd"
+msgstr[2] "%d neges newydd"
+msgstr[3] "%d neges newydd"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Unrhyw gysylltiad"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Wi-Fi"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "Wi-Fi a WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Testun wedi'i fformadu (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Testun plaen"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 munud"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 munud"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 awr"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 awr"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 awr"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 munud"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 awr"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 munud"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 awr"
+
+msgid "mcen_va_refreshing"
+msgstr "Yn diweddaru"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Arall"
