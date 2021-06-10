@@ -1,0 +1,917 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Операцията не се поддържа от IMAP сървъра"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "Неуспешно получаване на тялото на съобщението"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "Неуспешно преименуване.\nНекоректно име."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "Неуспешен достъп до пощенската кутия. Може би друго приложение я ползва."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP изпращането неуспешно. Опитайте отново по-късно."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "Неуспешно свързване към SMTP сървър %s. Проверете дали имате мрежов достъп до сървъра."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] "Премахване на прикачения файл от съобщението?\n%s"
+msgstr[1] "Премахване на избраните прикачени файлове от съобщението?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "Изтриването на тази пощенска регистрация ще премахне всички локалния копия на съобщения получени във нейната Входяща кутия. Продължаване с изтриването?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "Изтриването на тази пощенска регистрация ще премахне всички локалния копия на съобщения получени във нейната Входяща кутия и IMAP папки. Продължаване с изтриването?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] "Изтриване на съобщението?\n%s"
+msgstr[1] "Изтриване на съобщенията?"
+
+msgid "emev_nc_disconnect_account"
+msgstr "Редактирането на тази пощенска регистрация, докато сте включени, ще предизвика нейното разкачане и ще прекъсне всички текущи операции. Продължаване въпреки това?"
+
+msgid "emev_nc_formatting_lost"
+msgstr "Цялото текущо оформление ще бъде загубено.\nПродължаване въпреки това?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Пощенската регистрация се използва"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Пощенската регистрация е недостъпна"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "Неуспешно преместване на елемент"
+msgstr[1] "Неуспешно преместване на %s елемента"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Проверка на поддържаните методи за удостоверение"
+
+msgid "emev_ni_internal_error"
+msgstr "Възникна грешка"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "Неуспешно свързване с %s. Може би са сгрешени името на сървъра или номера на порта."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Съобщението %s не е налично на сървъра."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "Неуспешно свързване с %s. Може би са сгрешени името на сървъра или номера на порта."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "Връзката е прекратена от пощенския сървър.\nПолучаването на съобщението прекъснато. Опитайте да се свържете отново."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "Възникна грешка при обработката на съобщението.\nСъобщението може би не съществува на сървъра."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "Неyспешно SMTP удостоверяване. Проверете потребителското име и парола които сте въвели за достъп до %s."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "Не е зададена SMTP парола. Редактирайте настройките за %s пощенската регистрация и въведете парола за сървър %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "Не е зададенo SMTP потребителско име. Редактирайте настройките за %1$s пощенската регистрация и въведете парола за сървър %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "Неуспешно избиране на Входяща кутия на сървъра. Рестартирайте приложението и опитайте отново."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Грешка в сокет връзката. Ако се използва SSL криптирана връзка, изключете SSL и опитайте отново."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "Всички промени направени до момента ще бъдат загубени?\nПродължаване въпреки това?"
+
+msgid "mail_bd_external_images"
+msgstr "Сваляне на външни изображения"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Покана"
+
+msgid "mail_fi_password"
+msgstr "Парола"
+
+msgid "mail_fi_username"
+msgstr "Потребителско име"
+
+msgid "mail_ia_password_info"
+msgstr "Въведете парола за сървър %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "Името на пощенската регистрация вече съществува"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "Неуспешно свързване със сървър %s или той не съществува. Сървъра може да не е достъпен в момента. Проверете мрежовия си достъп до сървъра."
+
+msgid "mail_ib_checking_names"
+msgstr "Проверяване на имената"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "Неуспешен достъп до информацията за контакта"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "Файлът е твърде голям за да бъде прикачен."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Файлова грешка"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "Изникна IMAP синхронизационна грешка при побработка на съобщенията.\nИзвършване на операция \"Получаване-Изпращане\" за пощенска регистрация %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "Няма за търсене"
+
+msgid "mail_ib_setting_failed"
+msgstr "Неуспешно съхранение на настройките"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "Неуспешно изчистване на прикачените файлове"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "Неуспешно създаване на папка"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "Неуспешно създаване на папка. Външната карта е пълна."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "Неуспешно изтриване на папка"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "Неуспешно преместване към текущото място"
+
+msgid "mail_in_ui_save_error"
+msgstr "Неуспешно запазване в Чернови. Няма достатъчно място.\nИзтрийте локални пощенски съобщения за да се освободи място."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "Има %d нови съобщения на сървъра, но ограничението за изтегляне е %d.\nИзтегляне на всички съобщения или само на най-новите до ограничението?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Неуспешно установяване на защитена връзка"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Файлова грешка"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "Неуспешно изтегляне на заглавната част на съобщението"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "Неуспешно изтегляне на съобщението"
+
+msgid "mail_ti_password_protected"
+msgstr "Защитено с парола"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Получателят не е открит на сървъра"
+
+msgid "mail_va_attachment"
+msgstr "Прикачен файл"
+
+msgid "mail_va_attachments"
+msgstr "Прикачени файлове"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "От"
+
+msgid "mail_va_fw"
+msgstr "Fw"
+
+msgid "mail_va_hotfix1"
+msgstr "Bcc"
+
+msgid "mail_va_new_email"
+msgstr "Ново съобщение"
+
+msgid "mail_va_no_subject"
+msgstr "(без тема)"
+
+msgid "mail_va_no_to"
+msgstr "(без получател)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Запазване в %s"
+
+msgid "mail_va_subject"
+msgstr "Тема"
+
+msgid "mail_va_to"
+msgstr "До"
+
+msgid "mcen_ap_name"
+msgstr "Е-поща"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "Е-поща"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Редактиране на SMTP сървърите"
+
+msgid "mcen_bd_email_signature"
+msgstr "Подпис"
+
+msgid "mcen_bd_get_all"
+msgstr "Всички"
+
+msgid "mcen_bd_newest_only"
+msgstr "Само най-новите"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Показване на лентата с инструменти"
+
+msgid "mcen_cn_availability_check"
+msgstr "Свързване със сървърите на Nokia за проверка на наличност на услугата"
+
+msgid "mcen_fi_account_title"
+msgstr "Име на регистрация"
+
+msgid "mcen_fi_add_email_name"
+msgstr "е-поща"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Допълнителни настройки"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Специфични за връзката SMTP сървъри"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Запазване на съобщенията на сървъра"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Ограничение при изтегляне"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Без"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Стандартно (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Последните 100 съобщения"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Последните 20 съобщения"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Последните 200 съобщения"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Последните 50 съобщения"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Без ограничение"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Изтегляне"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Само заглавни части"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Съобщенията"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Съобщенията и прикачените файлове"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Ограничение на размера на съобщението (кБ)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Потребителско име"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Без"
+
+msgid "mcen_fi_country"
+msgstr "Регион"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Използване на подпис"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Всеки"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Пощенски папки"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "От"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Порт"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Име на сървър"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "До"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Име на папка"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Брой на съобщенията"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Размер"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Bcc "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Създадено: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "От "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Получено "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Изпратено "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Размер "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Тема "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "До "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Автоматично добавяне към Контакти"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Автоматично обновление"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Обновление когато има връзка през"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Уведомления за новопристигнали"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Формат на ново съобщение"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Интервал на обновление"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Доставчик на услугата"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Избор на страна/регион и доставчик на услугата от списъка долу"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Име"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "Натиснете 'Край' за да запазите настройките или ги откажете като натиснете извън помощника.\nНатиснете 'Допълнителни настройки' за да промените допълнителните настройки на регистрацията."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "Натиснете 'Край' за да запазите или откажете настройките като натиснете извън помощника. Можете да промените тези настройки през 'Редактиране на регистрациите' в менюто."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Прикачен файл> "
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Първоначално съобщение -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Подпис за регистация %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Внимание: Типа на регистрацията не може да бъде променян след приключване на конфигурирането"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "е-поща"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "Помощника за конфигуриране на регистрации Ви помага да създадете регистрации на е-поща за използване на вашето устройство.\nНатиснете 'Следващ' за да продължите."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Конфигурирането на регистрацията е приключено."
+
+msgid "mcen_ia_noaccounts"
+msgstr "(няма регистрации)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(няма съобщения)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(няма непрочетени съобщения)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(няма връзки)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "Не е дефиниран"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Избор на връзка и редактиране на SMTP сървър който да бъде използван докато връзката е активна"
+
+msgid "mcen_ia_privacy_notice"
+msgstr "Информацията за вашия оператор и код на страната  се изпращат към Nokia за да бъде проверена достъпността на услугата. Nokia няма да обработва или съхранява никаква персонална информация без ваше знание. Разгледайте Правилата за поверителност на Nokia на www.nokia.co.uk"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Избор на вградено изображение"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Натиснете за да видите съобщенията)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Настройките са запазени"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Промените са отказани"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Невалиден пощенски адрес"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Невалидно име на сървър или IP адрес"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Съобщението е изпратено"
+msgstr[1] "Съобщенията са изпратени"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Съобщението е преместено в Изходящи в готовност да бъде изпратено"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "Неуспешно намиране на поддържаните защитени методи за удостоверяване"
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Неподдържан тип връзка"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Грешно потребителско име или парола"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Пощенски адрес"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Име"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Защитено удостоверяване"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Защитена връзка"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Входящ сървър"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Изходящ сървър"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Тип на регистрацията"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Неуспех"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Изпращане"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Прекратено"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Изчакване"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Прикачен файл"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Дата (най-новите отгоре)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Дата (най-старите отгоре)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Приоритет"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "От/До (А-Я)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "До/От (Я-А)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Размер (най-големите отгоре)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Размер (най-малките отгоре)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Тема (А-Я)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Тема (Я-А)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Изтриване на папка"
+
+msgid "mcen_me_delete_messages"
+msgstr "Изтриване на съобщения"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Регистрация"
+msgstr[1] "Регистрации"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Прикачане на файл"
+
+msgid "mcen_me_editor_align"
+msgstr "Подравняване"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Центрирано"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Ляво"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Дясно"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Вмъкване на изображение"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Проверка на имената"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Оформен текст"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Скриване на Bcc"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Скриване на Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Приоритет"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Само текст"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Висок"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Нисък"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Нормален"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Показване на Bcc"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Показване на Cc"
+
+msgid "mcen_me_email_home_applet"
+msgstr "Е-поща"
+
+msgid "mcen_me_folder_archive"
+msgstr "Архивиране"
+
+msgid "mcen_me_folder_details"
+msgstr "Информация за папка"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Чернови"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Входяща"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Изходяща"
+
+msgid "mcen_me_folder_sent"
+msgstr "Изпратени"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Препращане"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "SMTP сървъри"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Маркиране - прочетено"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Маркиране - непрочетено"
+
+msgid "mcen_me_inbox_options"
+msgstr "Настройки"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Премахване на прикачените файлове"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Отговор до всички"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Получаване и изпращане"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Отмяна"
+
+msgid "mcen_me_message_settings"
+msgstr "Настройки на съобщение"
+
+msgid "mcen_me_move_folder"
+msgstr "Преместване на папка"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Преместване"
+msgstr[1] "Преместване на съобщения"
+
+msgid "mcen_me_new_account"
+msgstr "Нова регистрация"
+
+msgid "mcen_me_new_folder"
+msgstr "Нова папка"
+
+msgid "mcen_me_new_message"
+msgstr "Ново съобщение"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Спиране на изпращането"
+
+msgid "mcen_me_rename_folder"
+msgstr "Преименуване на папка"
+
+msgid "mcen_me_sort"
+msgstr "Подреждане"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Добавяне към Контакти"
+
+msgid "mcen_me_viewer_find"
+msgstr "Търсене в съобщението"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Запазване на прикачените файлове"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "Изтриване на папката и цялото и съдържание?\n%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "Контактът %s няма пощенски адрес.\nДобавяне сега?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Съдържанието на съобщението трябва да бъде получено първо. Получаване сега?"
+msgstr[1] "Съдържанието на съобщенията трябва да бъде получено първо. Получаване сега?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "Не са открити подобни контакти"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Това ще премахне прикачения файл %s от съобщението. Продължение въпреки това?"
+msgstr[1] "Това ще премахне %d прикачени файлове от съобщението. Продължение въпреки това?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "Установяване на защитена връзка към сървър %s с неизвестно удостоверение.\nРазрешаване на връзките?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Intellisync услугата е недостъпна. Опитайте да рестартирате устройството."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "Не е открита програма за преглед на този вид файл"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "Неуспешно свързване с %s. Може би името на сървъра или порт номера са грешни."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "Неизвестно удостоверение:\n%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s настройки на регистрация за %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Информация за регистрация"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Добавяне на пощенския адрес към контакт"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Специфичен за връзката SMTP сървър: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Регистрация по подразбиране"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Избор на елементи за изтриване"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Избор на папка за изтриване"
+
+msgid "mcen_ti_edit_move"
+msgstr "Избор на съобщения за преместване"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Избор на папка за преместване"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Избор на папка за преименуване"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Подпис на е-поща"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Настройка на регистрация"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Регистрации на е-поща"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Приключен"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Информация за входящи"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Информация за изходящи"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Информация за потребител"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Добре дошли"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Информация за папка"
+
+msgid "mcen_ti_font_face"
+msgstr "Избор на шрифт"
+
+msgid "mcen_ti_font_size"
+msgstr "Размер на шрифта"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Настройки на регистрация към Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Последно обновление"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d съобщение"
+msgstr[1] "%d съобщения"
+
+msgid "mcen_ti_message_properties"
+msgstr "Инфо за съобщението"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Преместване в папка"
+
+msgid "mcen_ti_new_message"
+msgstr "Ново съобщение"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Специфични за връзката SMTP сървъри"
+
+msgid "mcen_ti_options"
+msgstr "Настройки"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Избор на прикачен файл"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Избор на прикачени файлове"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Избор на пощенски адрес"
+
+msgid "mcen_ti_updating"
+msgstr "Обновление на IMAP и POP регистрациите"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Изпратено от Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "first.last@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Покажи повече"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Никога"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d ново съобщение"
+msgstr[1] "%d нови съобщения"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Всяка връзка"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "WLAN"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "WLAN и WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Оформен текст (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Само текст"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 минути"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 минути"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 час"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 часа"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 часа"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 минути"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 часа"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 минути"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 часа"
+
+msgid "mcen_va_refreshing"
+msgstr "Обновяване"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Друг"
