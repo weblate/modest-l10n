@@ -1,0 +1,918 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "Operació no permesa pel servidor IMAP"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "No s'ha pogut recuperar el cos del missatge"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr "No s'ha pogut renanomenar.\nNom invàlid"
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr "No es pot accedir al compte de correu. Pot estar en ús per una altra aplicació."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "L'enviament SMTP ha fallat. Proveu-ho més tard."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr "No s'ha pogut connectar al servidor SMTP %s. Comproveu que teniu accés al servidor."
+
+msgid "emev_nc_delete_attachment"
+msgid_plural "emev_nc_delete_attachments"
+msgstr[0] "Es treu l'adjunció del missatge?\r\n%s"
+msgstr[1] "Es treuen les adjuncions seleccionads del missatge?"
+
+msgid "emev_nc_delete_mailbox"
+msgstr "En esborrar aquest compte de correu-e eliminarà les còpies locals dels missatges rebuts a aquest compte. Esteu segur de voler-lo esborrar?"
+
+msgid "emev_nc_delete_mailboximap"
+msgstr "En esborrar aquest compte de correu-e eliminarà les còpies locals dels missatges rebuts a aquest compte. Esteu segur de voler-lo esborrar?"
+
+msgid "emev_nc_delete_message"
+msgid_plural "emev_nc_delete_messages"
+msgstr[0] "Voleu esborrar el missatge?\r\n%s"
+msgstr[1] "Voleu esborrar els missatges?"
+
+msgid "emev_nc_disconnect_account"
+msgstr "L'edició en línia d'un compte de correu-e causarà la seva desconnexió i cancel·larà les operacions actuals. Voleu continuar?"
+
+msgid "emev_nc_formatting_lost"
+msgstr "S'eliminarà la formatació actual.\nVoleu continuar?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "Compte de correu-e en ús"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "Compte de correu-e no disponible"
+
+msgid "emev_nc_unabletomove_item"
+msgid_plural "emev_nc_unabletomove_items"
+msgstr[0] "No es pot moure l'element"
+msgstr[1] "No es poden moure %d elements"
+
+msgid "emev_ni_checking_supported_auth_methods"
+msgstr "Comprovant mètodes d'autenticació permesos"
+
+msgid "emev_ni_internal_error"
+msgstr "S'ha produït un error"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr "No s'ha pogut connectar a %s. El nom del servidor o el port poden ser incorrectes."
+
+msgid "emev_ni_ui_imap_message_not_available_in_server"
+msgstr "Missatge %s no disponible al servidor"
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr "No s'ha pogut connectar a %s. El nom del servidor o el port poden ser incorrectes."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr "El servidor ha finalitzat la connexió.\nS'ha cancel·lat la recuperació de missatges. Proveu de connectar de nou."
+
+msgid "emev_ni_ui_pop3_msg_recv_error"
+msgstr "S'ha produït un error mentre es processava el missatge.\nPot ser que el missatge no existeixi al servidor."
+
+msgid "emev_ni_ui_smtp_authentication_fail_error"
+msgstr "Ha fallat l'autenticació SMTP. Comproveu l'accés a %s amb l'usuari i contrasenya proporcionats."
+
+msgid "emev_ni_ui_smtp_passwd_invalid"
+msgstr "No s'ha definit contrasenya SMTP. Editeu les preferències del compte de correu-e pel compte %s i introduïu una contrasenya per al servidor %s."
+
+msgid "emev_ni_ui_smtp_userid_invalid"
+msgstr "No s'ha definit nom d'usuari SMTP. Editeu les preferències del compte de correu-e pel compte %1$s i introduïu una contrasenya per al servidor %2$s."
+
+msgid "emev_ui_imap_inbox_select_error"
+msgstr "No s'ha pogut seleccionar la safata d'entrada al servidor. Reinicieu l'aplicació i reintenteu-ho."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr "Error en l'operació de sòcol. Si s'està utilitzant l'SSL, inhabiliteu l'SSL i reintenteu-ho."
+
+msgid "imum_nc_wizard_confirm_lose_changes"
+msgstr "Es perdran tots els canvis.\nVoleu continuar?"
+
+msgid "mail_bd_external_images"
+msgstr "Baixant imatges externes"
+
+msgid "mail_fi_emailtype_imap"
+msgstr "IMAP4"
+
+msgid "mail_fi_emailtype_pop3"
+msgstr "POP3"
+
+msgid "mail_fi_invitation"
+msgstr "Invitació"
+
+msgid "mail_fi_password"
+msgstr "Contrasenya"
+
+msgid "mail_fi_username"
+msgstr "Nom d'usuari"
+
+msgid "mail_ia_password_info"
+msgstr "Introduïu la contrasenya del servidor %s"
+
+msgid "mail_ib_account_name_already_existing"
+msgstr "El títol del compte de correu ja és en ús"
+
+msgid "mail_ib_backend_server_invalid"
+msgstr "No s'ha pogut connectar al servidor %s. Pot ser que el servidor no estigui disponible. Comproveu que la vostra xarxa té accés al servidor."
+
+msgid "mail_ib_checking_names"
+msgstr "Comprovant noms"
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "No es pot accedir a la informació del contacte"
+
+msgid "mail_ib_error_attachment_size"
+msgstr "El fitxer és massa gran per ser adjuntat."
+
+msgid "mail_ib_file_operation_failed"
+msgstr "Error de fitxer"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr "Error en la sincronització IMAP.\nEs realitza l'operació d'enviar / rebre del compte %s."
+
+msgid "mail_ib_nothing_to_find"
+msgstr "No es troba"
+
+msgid "mail_ib_setting_failed"
+msgstr "No s'han pogut desar les preferéncies"
+
+msgid "mail_ib_unable_to_purge_attachments"
+msgstr "No s'han pogut esborrar adjunts"
+
+msgid "mail_in_ui_folder_create_error"
+msgstr "No s'ha pogut crear el directori"
+
+msgid "mail_in_ui_folder_create_error_memory"
+msgstr "No s'ha pogut crear el directori. Targeta de memòria externa plena."
+
+msgid "mail_in_ui_folder_delete_error"
+msgstr "No s'ha pogut esborrar el directori"
+
+msgid "mail_in_ui_folder_move_target_error"
+msgstr "No s'ha pogut moure a l'ubicació actual"
+
+msgid "mail_in_ui_save_error"
+msgstr "No es pot desar a esborranys. Memòria plena.\nElimineu els missatges locals per alliberar memòria."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr "Hi ha %d missatges nous al servidor però el límit de descàrrega es de %d.\nEs recuperen totes els missatges o únicament els mes nous?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "Ha fallat la connexió segura"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "Error de fitxer"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "No s'ha pogut obtenir la capçalera del missatge"
+
+msgid "mail_ni_ui_folder_get_msg_folder_error"
+msgstr "No s'ha pogut obtenir el missatge"
+
+msgid "mail_ti_password_protected"
+msgstr "Protegit per contrasenya"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "Destinatari no trobat al servidor"
+
+msgid "mail_va_attachment"
+msgstr "Adjunció"
+
+msgid "mail_va_attachments"
+msgstr "Adjuncions"
+
+msgid "mail_va_cc"
+msgstr "Cc"
+
+msgid "mail_va_from"
+msgstr "De"
+
+msgid "mail_va_fw"
+msgstr "Rv"
+
+msgid "mail_va_hotfix1"
+msgstr "Cco"
+
+msgid "mail_va_new_email"
+msgstr "Nou missatge"
+
+msgid "mail_va_no_subject"
+msgstr "(sense assumpte)"
+
+msgid "mail_va_no_to"
+msgstr "(sense destinatari)"
+
+msgid "mail_va_re"
+msgstr "Re"
+
+msgid "mail_va_saved_to_drafts"
+msgstr "Desant a %s"
+
+msgid "mail_va_subject"
+msgstr "Assumpte"
+
+msgid "mail_va_to"
+msgstr "A"
+
+msgid "mcen_ap_name"
+msgstr "Correu-e"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "Correu-e"
+
+msgid "mcen_bd_advsetup_optional_smtp"
+msgstr "Edita els servidors SMTP"
+
+msgid "mcen_bd_email_signature"
+msgstr "Signatura"
+
+msgid "mcen_bd_get_all"
+msgstr "Tot"
+
+msgid "mcen_bd_newest_only"
+msgstr "Només els més nous"
+
+msgid "mcen_bd_show_toolbar"
+msgstr "Mostra la barra d'eines"
+
+msgid "mcen_cn_availability_check"
+msgstr "Es connecta als servidors de Nokia per comprovar la disponibilitat del servei"
+
+msgid "mcen_fi_account_title"
+msgstr "Títol del compte"
+
+msgid "mcen_fi_add_email_name"
+msgstr "Correu-e"
+
+msgid "mcen_fi_advanced_settings"
+msgstr "Preferències avançades"
+
+msgid "mcen_fi_advsetup_connection_smtp"
+msgstr "Utiltiza servidors SMTP específics per a cada connexió"
+
+msgid "mcen_fi_advsetup_leave_on_server"
+msgstr "Deixa missatges al servidor"
+
+msgid "mcen_fi_advsetup_limit_retrieve"
+msgstr "Límit de descàrrega"
+
+msgid "mcen_fi_advsetup_other_security_none"
+msgstr "Cap"
+
+msgid "mcen_fi_advsetup_other_security_normal"
+msgstr "Normal (TLS)"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "SSL (POP3S)"
+
+msgid "mcen_fi_advsetup_other_security_ssl"
+msgstr "SSL"
+
+msgid "mcen_fi_advsetup_retrieve_100"
+msgstr "Últims 100 missatges"
+
+msgid "mcen_fi_advsetup_retrieve_20"
+msgstr "Últims 20 missatges"
+
+msgid "mcen_fi_advsetup_retrieve_200"
+msgstr "Últims 200 missatges"
+
+msgid "mcen_fi_advsetup_retrieve_50"
+msgstr "Últims 50 missatges"
+
+msgid "mcen_fi_advsetup_retrieve_nolimit"
+msgstr "Sense límit"
+
+msgid "mcen_fi_advsetup_retrievetype"
+msgstr "Recuperar"
+
+msgid "mcen_fi_advsetup_retrievetype_headers"
+msgstr "Només capçaleres"
+
+msgid "mcen_fi_advsetup_retrievetype_messages"
+msgstr "Missatges"
+
+msgid "mcen_fi_advsetup_retrievetype_messages_attachments"
+msgstr "Missatges i adjunts"
+
+msgid "mcen_fi_advsetup_sizelimit"
+msgstr "Límit de missatge (kB)"
+
+msgid "mcen_fi_advsetup_smtp_cram_md5"
+msgstr "CRAM-MD5"
+
+msgid "mcen_fi_advsetup_smtp_login"
+msgstr "Inici de sessió"
+
+msgid "mcen_fi_advsetup_smtp_none"
+msgstr "Cap"
+
+msgid "mcen_fi_country"
+msgstr "Regió"
+
+msgid "mcen_fi_email_signatures_use_signature"
+msgstr "Utilitza signatura"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "Cada"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "Directoris de correu-e"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "De"
+
+msgid "mcen_fi_emailsetup_port"
+msgstr "Port"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "Nom del servidor"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "A"
+
+msgid "mcen_fi_folder_properties_foldername"
+msgstr "Nom del directori"
+
+msgid "mcen_fi_folder_properties_messages"
+msgstr "Nombre de missatges"
+
+msgid "mcen_fi_folder_properties_size"
+msgstr "Mida"
+
+msgid "mcen_fi_message_properties_bcc"
+msgstr "Cco: "
+
+msgid "mcen_fi_message_properties_cc"
+msgstr "Cc: "
+
+msgid "mcen_fi_message_properties_created"
+msgstr "Creat: "
+
+msgid "mcen_fi_message_properties_from"
+msgstr "De: "
+
+msgid "mcen_fi_message_properties_received"
+msgstr "Rebut: "
+
+msgid "mcen_fi_message_properties_sent"
+msgstr "Enviat: "
+
+msgid "mcen_fi_message_properties_size"
+msgstr "Mida: "
+
+msgid "mcen_fi_message_properties_subject"
+msgstr "Assumpte: "
+
+msgid "mcen_fi_message_properties_to"
+msgstr "A: "
+
+msgid "mcen_fi_options_automatic_add"
+msgstr "Afegeix automàticament als contactes"
+
+msgid "mcen_fi_options_autoupdate"
+msgstr "Actualitza automàticament"
+
+msgid "mcen_fi_options_connectiontype"
+msgstr "Actualitza quan estigui connectat via"
+
+msgid "mcen_fi_options_incoming_notifications"
+msgstr "Notificacions entrants"
+
+msgid "mcen_fi_options_messageformat"
+msgstr "Format dels nous missatges"
+
+msgid "mcen_fi_options_updateinterval"
+msgstr "Interval d'actualització"
+
+msgid "mcen_fi_serviceprovider"
+msgstr "Proveïdor de servei"
+
+msgid "mcen_ia_accountdetails"
+msgstr "Trieu país/regió i proveïdor de servei de la llista següent"
+
+msgid "mcen_ia_add_email_name"
+msgstr "Nom"
+
+msgid "mcen_ia_customsetup_complete"
+msgstr "Toqueu 'Finalitza' per desar o descarta clicant fora de la finestra de l'auxiliar.\nToqueu 'Preferències avançades' per modificar la configuració del compte."
+
+msgid "mcen_ia_easysetup_complete"
+msgstr "Toca 'Finalitzar' per a desar o descarta clicant fora de la finestra de l'assistent. Pots editar aquestes preferències via 'Editar comptes' al menú."
+
+msgid "mcen_ia_editor_attach_filename"
+msgstr "<Adjunció>"
+
+msgid "mcen_ia_editor_original_message"
+msgstr "----- Missatge original -----"
+
+msgid "mcen_ia_email_signatures_edit_dlg_label"
+msgstr "Signatura pel compte %s"
+
+msgid "mcen_ia_emailsetup_account_type"
+msgstr "Nota: No es pot editar el tipus de compte un cop s'ha completat la configuració"
+
+msgid "mcen_ia_emailsetup_defaultname"
+msgstr "Compte"
+
+msgid "mcen_ia_emailsetup_intro"
+msgstr "L'auxiliar de configuració del compte us permet definir comptes de correu-e per utilitzar en el vostre dispositiu.\nToqueu 'Següent' per continuar."
+
+msgid "mcen_ia_emailsetup_setup_complete"
+msgstr "Configuració finalitzada"
+
+msgid "mcen_ia_noaccounts"
+msgstr "(sense comptes)"
+
+msgid "mcen_ia_nomessages"
+msgstr "(sense missatges)"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(no hi ha missatges per llegir)"
+
+msgid "mcen_ia_optionalsmtp_noconnection"
+msgstr "(sense connexions)"
+
+msgid "mcen_ia_optionalsmtp_notdefined"
+msgstr "No definit"
+
+msgid "mcen_ia_optionalsmtp_note"
+msgstr "Trieu la connexió i editeu el servidor SMTP a utilitzar quan la connexió sigui activa"
+
+msgid "mcen_ia_privacy_notice"
+msgstr "El vostre operador i país s'enviaran a Nokia per comprovar la disponibilitat del servei. Nokia no processa ni emmagatzema cap informació personal sense el vostre consentiment. Vegeu la política de privadesa de Nokia a www.nokia.com"
+
+msgid "mcen_ia_select_inline_image_title"
+msgstr "Trieu la imatge en línia"
+
+msgid "mcen_ia_taptoread"
+msgstr "(Toqueu per veure missatges)"
+
+msgid "mcen_ib_advsetup_settings_saved"
+msgstr "Preferències desades"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "Canvis descartats"
+
+msgid "mcen_ib_invalid_email"
+msgstr "Adreça de correu-e invàlida"
+
+msgid "mcen_ib_invalid_servername"
+msgstr "Adreça de servidor invàlida"
+
+msgid "mcen_ib_message_sent"
+msgid_plural "mcen_ib_messages_sent"
+msgstr[0] "Missatge enviat"
+msgstr[1] "Missatges enviats"
+
+msgid "mcen_ib_outbox_waiting_to_be_sent"
+msgstr "Missatge mogut a la safata de sortida, en espera per a ser enviat"
+
+msgid "mcen_ib_unableto_discover_auth_methods"
+msgstr "No s'han trobat métodes d'autenticació segur suportats."
+
+msgid "mcen_ib_unsupported_link"
+msgstr "Tipus d'enllaç no suportat"
+
+msgid "mcen_ib_username_pw_incorrect"
+msgstr "Nom d'usuari o contrasenya incorrecte"
+
+msgid "mcen_li_emailsetup_email_address"
+msgstr "Adreça de correu-e"
+
+msgid "mcen_li_emailsetup_name"
+msgstr "Nom"
+
+msgid "mcen_li_emailsetup_secure_authentication"
+msgstr "Autenticació segura"
+
+msgid "mcen_li_emailsetup_secure_connection"
+msgstr "Connexió segura"
+
+msgid "mcen_li_emailsetup_servertype"
+msgstr "Servidor d'entrada"
+
+msgid "mcen_li_emailsetup_smtp"
+msgstr "Servidor de sortida"
+
+msgid "mcen_li_emailsetup_type"
+msgstr "Tipus de compte"
+
+msgid "mcen_li_outbox_failed"
+msgstr "Fallada"
+
+msgid "mcen_li_outbox_sending"
+msgstr "Enviant"
+
+msgid "mcen_li_outbox_suspended"
+msgstr "Suspès"
+
+msgid "mcen_li_outbox_waiting"
+msgstr "Esperant"
+
+msgid "mcen_li_sort_attachment"
+msgstr "Adjunció"
+
+msgid "mcen_li_sort_date_newest"
+msgstr "Data (més recent primer)"
+
+msgid "mcen_li_sort_date_oldest"
+msgstr "Data (més antic primer)"
+
+msgid "mcen_li_sort_priority"
+msgstr "Prioritat"
+
+msgid "mcen_li_sort_sender_recipient_az"
+msgstr "De/A (A-Z)"
+
+msgid "mcen_li_sort_sender_recipient_za"
+msgstr "De/A (Z-A)"
+
+msgid "mcen_li_sort_size_largest"
+msgstr "Mida (més grans primer)"
+
+msgid "mcen_li_sort_size_smallest"
+msgstr "Mida (més petits primer)"
+
+msgid "mcen_li_sort_subject_az"
+msgstr "Assumpte (A-Z)"
+
+msgid "mcen_li_sort_subject_za"
+msgstr "Assumpte (Z-A)"
+
+msgid "mcen_me_delete_folder"
+msgstr "Esborra el directori"
+
+msgid "mcen_me_delete_messages"
+msgstr "Esborra els missatges"
+
+msgid "mcen_me_edit_account"
+msgid_plural "mcen_me_edit_accounts"
+msgstr[0] "Edita el compte"
+msgstr[1] "Edita els comptes"
+
+msgid "mcen_me_editor_add_attachment"
+msgstr "Afegeix una adjunció"
+
+msgid "mcen_me_editor_align"
+msgstr "Alineació"
+
+msgid "mcen_me_editor_align_centred"
+msgstr "Centrat"
+
+msgid "mcen_me_editor_align_left"
+msgstr "Esquerra"
+
+msgid "mcen_me_editor_align_right"
+msgstr "Dreta"
+
+msgid "mcen_me_editor_attach_inlineimage"
+msgstr "Insertar imatge"
+
+msgid "mcen_me_editor_checknames"
+msgstr "Comprova els noms"
+
+msgid "mcen_me_editor_formatted_text"
+msgstr "Text amb format"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "Amaga Cco"
+
+msgid "mcen_me_editor_hidecc"
+msgstr "Amaga Cc"
+
+msgid "mcen_me_editor_message_priority"
+msgstr "Prioritat"
+
+msgid "mcen_me_editor_plain_text"
+msgstr "Text net"
+
+msgid "mcen_me_editor_priority_high"
+msgstr "Alta"
+
+msgid "mcen_me_editor_priority_low"
+msgstr "Baixa"
+
+msgid "mcen_me_editor_priority_normal"
+msgstr "Normal"
+
+msgid "mcen_me_editor_showbcc"
+msgstr "Mostra Cco"
+
+msgid "mcen_me_editor_showcc"
+msgstr "Mostra Cc"
+
+msgid "mcen_me_email_home_applet"
+msgstr "Correu-e"
+
+msgid "mcen_me_folder_archive"
+msgstr "Arxiu"
+
+msgid "mcen_me_folder_details"
+msgstr "Detalls del directori"
+
+msgid "mcen_me_folder_drafts"
+msgstr "Esborranys"
+
+msgid "mcen_me_folder_inbox"
+msgstr "Safata d'entrada"
+
+msgid "mcen_me_folder_outbox"
+msgstr "Safata de sortida"
+
+msgid "mcen_me_folder_sent"
+msgstr "Enviat"
+
+msgid "mcen_me_inbox_forward"
+msgstr "Reenvia"
+
+msgid "mcen_me_inbox_globalsmtpservers"
+msgstr "Servidors SMTP"
+
+msgid "mcen_me_inbox_mark_as_read"
+msgstr "Marca com a llegit"
+
+msgid "mcen_me_inbox_mark_as_unread"
+msgstr "Marca com a no llegit"
+
+msgid "mcen_me_inbox_options"
+msgstr "Preferències"
+
+msgid "mcen_me_inbox_remove_attachments"
+msgstr "Treu adjuncions"
+
+msgid "mcen_me_inbox_replytoall"
+msgstr "Respon a tots"
+
+msgid "mcen_me_inbox_sendandreceive"
+msgstr "Enviament i rebuda"
+
+msgid "mcen_me_inbox_undo"
+msgstr "Desfés"
+
+msgid "mcen_me_message_settings"
+msgstr "Preferències de missatge"
+
+msgid "mcen_me_move_folder"
+msgstr "Mou el directori"
+
+msgid "mcen_me_move_message"
+msgid_plural "mcen_me_move_messages"
+msgstr[0] "Mou el missatge"
+msgstr[1] "Mou els missatges"
+
+msgid "mcen_me_new_account"
+msgstr "Nou compte"
+
+msgid "mcen_me_new_folder"
+msgstr "Nou directori"
+
+msgid "mcen_me_new_message"
+msgstr "Nou missatge"
+
+msgid "mcen_me_outbox_cancelsend"
+msgstr "Atura l'enviament"
+
+msgid "mcen_me_rename_folder"
+msgstr "Reanomena el directori"
+
+msgid "mcen_me_sort"
+msgstr "Ordena"
+
+msgid "mcen_me_viewer_addtocontacts"
+msgstr "Afegeix als contactes"
+
+msgid "mcen_me_viewer_find"
+msgstr "Cerca dins del missatge"
+
+msgid "mcen_me_viewer_save_attachments"
+msgstr "Desa els adjunts"
+
+msgid "mcen_nc_delete_folder_text"
+msgstr "S'esborra el directori i els seus continguts?\n%s"
+
+msgid "mcen_nc_email_address_not_defined"
+msgstr "No hi ha adreça de correu-e definida per a %s.\nSe'n defineix una ara?"
+
+msgid "mcen_nc_get_msg"
+msgid_plural "mcen_nc_get_msgs"
+msgstr[0] "Cal obtenir el contingut del missatge. S'obté ara?"
+msgstr[1] "Cal obtenir el contingut dels missatges. S'obtenen ara?"
+
+msgid "mcen_nc_no_matching_contacts"
+msgstr "No s'han trobat contactes"
+
+msgid "mcen_nc_purge_file_text"
+msgid_plural "mcen_nc_purge_files_text"
+msgstr[0] "Això eliminarà l'adjunció %s del missatge. Es continua?"
+msgstr[1] "Això eliminarà %d adjuncions del missatge. Es continua?"
+
+msgid "mcen_nc_unknown_certificate"
+msgstr "S'intenta establir una connexió segura a %s amb un certificat desconegut.\nEs permet connexions?"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr "Servei Intellisync no disponible. Proveu de reiniciar el dispositiu."
+
+msgid "mcen_ni_noregistered_viewer"
+msgstr "No s'ha trobat un programa per obrir aquest tipus de fitxer"
+
+msgid "mcen_ni_smtp_config_error"
+msgstr "No s'ha pogut connectar a %s. Pot ser que el nom de servidor o el port siguin incorrectes."
+
+msgid "mcen_ni_view_unknown_certificate"
+msgstr "Certificat desconegut:\n%s"
+
+msgid "mcen_ti_account_settings"
+msgstr "%s preferències del compte per %s"
+
+msgid "mcen_ti_accountdetails"
+msgstr "Detalls del compte"
+
+msgid "mcen_ti_add_email_title"
+msgstr "Afegeix adreça de correu-e al contacte"
+
+msgid "mcen_ti_connection_connection_name"
+msgstr "Servidor SMTP específic de connexió: %s"
+
+msgid "mcen_ti_default_account"
+msgstr "Compte per defecte"
+
+msgid "mcen_ti_edit_delete"
+msgstr "Trieu objectes per esborrar"
+
+msgid "mcen_ti_edit_folder_delete"
+msgstr "Trieu directori per esborrar"
+
+msgid "mcen_ti_edit_move"
+msgstr "Trieu missatges per moure"
+
+msgid "mcen_ti_edit_move_folder"
+msgstr "Trieu directori per moure"
+
+msgid "mcen_ti_edit_rename_folder"
+msgstr "Trieu directori per reanomenar"
+
+msgid "mcen_ti_email_signatures_edit_title"
+msgstr "Signatura de correu-e"
+
+msgid "mcen_ti_emailsetup"
+msgstr "Configuració del compte"
+
+msgid "mcen_ti_emailsetup_accounts"
+msgstr "Comptes de correu-e"
+
+msgid "mcen_ti_emailsetup_complete"
+msgstr "Finalitzat"
+
+msgid "mcen_ti_emailsetup_incomingdetails"
+msgstr "Detalls d'entrada de correu"
+
+msgid "mcen_ti_emailsetup_outgoingdetails"
+msgstr "Detalls de sortida de correu"
+
+msgid "mcen_ti_emailsetup_userdetails"
+msgstr "Detalls d'usuari"
+
+msgid "mcen_ti_emailsetup_welcome"
+msgstr "Benvingut/uda"
+
+msgid "mcen_ti_folder_properties"
+msgstr "Detalls de directori"
+
+msgid "mcen_ti_font_face"
+msgstr "Trieu el tipus de lletra"
+
+msgid "mcen_ti_font_size"
+msgstr "Trieu la mida de la lletra"
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "Preferències del compte per Intellisync"
+
+msgid "mcen_ti_lastupdated"
+msgstr "Darrera actualització"
+
+msgid "mcen_ti_message"
+msgid_plural "mcen_ti_messages"
+msgstr[0] "%d missatge"
+msgstr[1] "%d missatges"
+
+msgid "mcen_ti_message_properties"
+msgstr "Detalls del missatge"
+
+msgid "mcen_ti_moveto_folders_title"
+msgstr "Mou al directori"
+
+msgid "mcen_ti_new_message"
+msgstr "Nou missatge"
+
+msgid "mcen_ti_optionalsmtp_servers"
+msgstr "Servidors SMTP específics de connexió"
+
+msgid "mcen_ti_options"
+msgstr "Preferències"
+
+msgid "mcen_ti_select_attachment_title"
+msgstr "Selecciona l'adjunció"
+
+msgid "mcen_ti_select_attachments_title"
+msgstr "Selecciona adjuncions"
+
+msgid "mcen_ti_select_email_title"
+msgstr "Selecciona l'adreça de correu-e"
+
+msgid "mcen_ti_updating"
+msgstr "Actualització dels comptes IMAP i POP"
+
+msgid "mcen_va_default_signature_tablet"
+msgstr "Enviat des del meu Nokia N900"
+
+msgid "mcen_va_example_email_address"
+msgstr "nom.cognom@example.com"
+
+msgid "mcen_va_intellisync"
+msgstr "Intellisync"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "–"
+
+msgid "mcen_va_more"
+msgstr "Vegeu-ne més"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_never"
+msgstr "Mai"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d missatge nou"
+msgstr[1] "%d missatges nous"
+
+msgid "mcen_va_options_connectiontype_all"
+msgstr "Qualsevol connexió"
+
+msgid "mcen_va_options_connectiontype_wlan"
+msgstr "Wi-Fi"
+
+msgid "mcen_va_options_connectiontype_wlan_wimax"
+msgstr "Wi-Fi i WiMAX"
+
+msgid "mcen_va_options_messageformat_html"
+msgstr "Text amb format (HTML)"
+
+msgid "mcen_va_options_messageformat_plain"
+msgstr "Text net"
+
+msgid "mcen_va_options_updateinterval_10min"
+msgstr "10 minuts"
+
+msgid "mcen_va_options_updateinterval_15min"
+msgstr "15 minuts"
+
+msgid "mcen_va_options_updateinterval_1h"
+msgstr "1 hora"
+
+msgid "mcen_va_options_updateinterval_24h"
+msgstr "24 hores"
+
+msgid "mcen_va_options_updateinterval_2h"
+msgstr "2 hores"
+
+msgid "mcen_va_options_updateinterval_30min"
+msgstr "30 minuts"
+
+msgid "mcen_va_options_updateinterval_4h"
+msgstr "4 hores"
+
+msgid "mcen_va_options_updateinterval_5min"
+msgstr "5 minuts"
+
+msgid "mcen_va_options_updateinterval_8h"
+msgstr "8 hores"
+
+msgid "mcen_va_refreshing"
+msgstr "S'està actualitzant"
+
+msgid "mcen_va_serviceprovider_other"
+msgstr "Altres"
