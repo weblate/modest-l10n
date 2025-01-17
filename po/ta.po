@@ -6,14 +6,16 @@ msgstr ""
 "Project-Id-Version: modest-l10n 20110228152111\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-02-28 11:44-0800\n"
-"PO-Revision-Date: 2011-02-28 11:44-0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-18 04:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"modest-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: ../src/modest-protocol.c:119
 msgid "Protocol name"
@@ -49,7 +51,7 @@ msgstr ""
 #: ../src/widgets/modest-details-dialog.c:253
 #: ../src/widgets/modest-msg-view-window.c:4007
 msgid "mcen_ti_message_properties"
-msgstr ""
+msgstr "செய்தி விவரங்கள்"
 
 #: ../src/widgets/modest-details-dialog.c:287
 #: ../src/widgets/modest-msg-view-window.c:3696
@@ -64,51 +66,51 @@ msgstr ""
 #: ../src/modest-ui-actions.c:415 ../src/modest-ui-actions.c:863
 #: ../src/modest-formatter.c:409 ../src/modest-text-utils.c:321
 msgid "mail_va_no_subject"
-msgstr ""
+msgstr "(பொருள் இல்லை)"
 
 #. Add from and subject for all folders
 #: ../src/widgets/modest-details-dialog.c:291
 msgid "mcen_fi_message_properties_from"
-msgstr ""
+msgstr "இருந்து "
 
 #: ../src/widgets/modest-details-dialog.c:292
 msgid "mcen_fi_message_properties_subject"
-msgstr ""
+msgstr "பொருள் "
 
 #: ../src/widgets/modest-details-dialog.c:302
 msgid "mcen_fi_message_properties_received"
-msgstr ""
+msgstr "பெறப்பட்டது "
 
 #: ../src/widgets/modest-details-dialog.c:310
 msgid "mcen_fi_message_properties_created"
-msgstr ""
+msgstr "உருவாக்கப்பட்டது: "
 
 #: ../src/widgets/modest-details-dialog.c:320 ../src/modest-text-utils.c:55
 msgid "mcen_fi_message_properties_sent"
-msgstr ""
+msgstr "அனுப்பப்பட்டது "
 
 #. Set To and CC
 #: ../src/widgets/modest-details-dialog.c:325
 msgid "mcen_fi_message_properties_to"
-msgstr ""
+msgstr "பெறுநர் "
 
 #: ../src/widgets/modest-details-dialog.c:329
 msgid "mcen_fi_message_properties_cc"
-msgstr ""
+msgstr "சி.சி. "
 
 #: ../src/widgets/modest-details-dialog.c:334
 msgid "mcen_fi_message_properties_bcc"
-msgstr ""
+msgstr "பி.சி.சி. "
 
 #: ../src/widgets/modest-details-dialog.c:340
 #: ../src/widgets/modest-details-dialog.c:359
 msgid "mcen_fi_message_properties_size"
-msgstr ""
+msgstr "அளவு "
 
 #. Set window title
 #: ../src/widgets/modest-details-dialog.c:376
 msgid "mcen_ti_folder_properties"
-msgstr ""
+msgstr "கோப்புறை விவரங்கள்"
 
 #: ../src/widgets/modest-details-dialog.c:396
 #: ../src/widgets/modest-header-window.c:968
@@ -118,96 +120,96 @@ msgstr ""
 #: ../src/gtk/modest-platform.c:1942 ../src/hildon2/modest-platform.c:783
 #: ../src/hildon2/modest-platform.c:2737 ../src/modest-tny-folder.c:526
 msgid "mcen_me_folder_inbox"
-msgstr ""
+msgstr "இன்பாக்ச்"
 
 #: ../src/widgets/modest-details-dialog.c:402
 #: ../src/widgets/modest-details-dialog.c:404
 msgid "mcen_fi_folder_properties_foldername"
-msgstr ""
+msgstr "கோப்புறை பெயர்"
 
 #: ../src/widgets/modest-details-dialog.c:410
 #: ../src/widgets/modest-details-dialog.c:412
 msgid "mcen_fi_folder_properties_messages"
-msgstr ""
+msgstr "செய்திகளின் எண்ணிக்கை"
 
 #: ../src/widgets/modest-details-dialog.c:418
 #: ../src/widgets/modest-details-dialog.c:420
 msgid "mcen_fi_folder_properties_size"
-msgstr ""
+msgstr "அளவு"
 
 #. Set title
 #: ../src/widgets/modest-global-settings-dialog.c:136
 msgid "mcen_ti_options"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:179
 msgid "mcen_va_options_connectiontype_wlan_wimax"
-msgstr ""
+msgstr "WLAN மற்றும் வைமாக்ச்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:181
 #: ../src/widgets/modest-global-settings-dialog.c:183
 msgid "mcen_va_options_connectiontype_wlan"
-msgstr ""
+msgstr "Wlan"
 
 #: ../src/widgets/modest-global-settings-dialog.c:187
 msgid "mcen_va_options_connectiontype_all"
-msgstr ""
+msgstr "எந்த இணைப்பு"
 
 #: ../src/widgets/modest-global-settings-dialog.c:202
 msgid "mcen_va_options_updateinterval_5min"
-msgstr ""
+msgstr "5 நிமிடங்கள்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:205
 msgid "mcen_va_options_updateinterval_10min"
-msgstr ""
+msgstr "10 நிமிடங்கள்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:208
 msgid "mcen_va_options_updateinterval_15min"
-msgstr ""
+msgstr "15 நிமிடங்கள்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:211
 msgid "mcen_va_options_updateinterval_30min"
-msgstr ""
+msgstr "30 நிமிடங்கள்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:214
 msgid "mcen_va_options_updateinterval_1h"
-msgstr ""
+msgstr "1 மணி நேரம்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:217
 msgid "mcen_va_options_updateinterval_2h"
-msgstr ""
+msgstr "2 மணி நேரம்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:220
 msgid "mcen_va_options_updateinterval_4h"
-msgstr ""
+msgstr "4 மணி நேரம்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:223
 msgid "mcen_va_options_updateinterval_8h"
-msgstr ""
+msgstr "8 மணி நேரம்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:226
 msgid "mcen_va_options_updateinterval_24h"
-msgstr ""
+msgstr "24 மணி நேரம்"
 
 #: ../src/widgets/modest-global-settings-dialog.c:242
 msgid "mcen_va_options_messageformat_html"
-msgstr ""
+msgstr "வடிவமைக்கப்பட்ட உரை (HTML)"
 
 #: ../src/widgets/modest-global-settings-dialog.c:245
 msgid "mcen_va_options_messageformat_plain"
-msgstr ""
+msgstr "சாதாரண எழுத்து"
 
 #: ../src/widgets/modest-global-settings-dialog.c:414
 #: ../src/widgets/modest-default-account-settings-dialog.c:1022
 msgid "mcen_ib_advsetup_settings_saved"
-msgstr ""
+msgstr "அமைப்புகள் சேமிக்கப்பட்டன"
 
 #: ../src/widgets/modest-global-settings-dialog.c:417
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:2130
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:2582
 #: ../src/widgets/modest-default-account-settings-dialog.c:1025
 msgid "mail_ib_setting_failed"
-msgstr ""
+msgstr "அமைப்புகளைச் சேமிக்க முடியவில்லை"
 
 #: ../src/widgets/modest-global-settings-dialog.c:424
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1374
@@ -215,6 +217,8 @@ msgstr ""
 #: ../src/widgets/modest-default-account-settings-dialog.c:971
 msgid "imum_nc_wizard_confirm_lose_changes"
 msgstr ""
+"அமைப்புகளில் செய்யப்பட்ட அனைத்து மாற்றங்களும் இழக்கப்படும்.\n"
+" எப்படியும் தொடரவா?"
 
 #. Toolbar items
 #: ../src/widgets/modest-msg-view-window.c:269
@@ -223,11 +227,11 @@ msgstr ""
 
 #: ../src/widgets/modest-msg-view-window.c:270
 msgid "mcen_me_inbox_replytoall"
-msgstr ""
+msgstr "அனைவருக்கும் பதில்"
 
 #: ../src/widgets/modest-msg-view-window.c:271
 msgid "mcen_me_inbox_forward"
-msgstr ""
+msgstr "முன்னோக்கி"
 
 #: ../src/widgets/modest-msg-view-window.c:272
 msgid "qgn_toolb_gene_deletebutton"
@@ -243,7 +247,7 @@ msgstr ""
 
 #: ../src/widgets/modest-msg-view-window.c:275
 msgid "mail_bd_external_images"
-msgstr ""
+msgstr "வெளிப்புற படங்களை பதிவிறக்கவும்"
 
 #: ../src/widgets/modest-msg-view-window.c:279
 msgid "qgn_toolb_gene_find"
@@ -252,7 +256,7 @@ msgstr ""
 #: ../src/widgets/modest-msg-view-window.c:1648
 #: ../src/widgets/modest-msg-edit-window.c:4101
 msgid "mail_ib_nothing_to_find"
-msgstr ""
+msgstr "கண்டுபிடிக்க எதுவும் இல்லை"
 
 #: ../src/widgets/modest-msg-view-window.c:2040
 #: ../src/modest-ui-actions.c:1435 ../src/modest-ui-actions.c:1748
@@ -261,7 +265,9 @@ msgstr ""
 msgid "mcen_nc_get_msg"
 msgid_plural "mcen_nc_get_msgs"
 msgstr[0] ""
+"செய்தியின் உள்ளடக்கம் முதலில் மீட்டெடுக்கப்பட வேண்டும். இப்போது மீட்டெடுக்கவா?"
 msgstr[1] ""
+"செய்திகளின் உள்ளடக்கம் முதலில் மீட்டெடுக்கப்பட வேண்டும். இப்போது மீட்டெடுக்கவா?"
 
 #: ../src/widgets/modest-msg-view-window.c:2739
 #: ../src/widgets/modest-msg-view-window.c:2798
@@ -269,7 +275,7 @@ msgstr[1] ""
 #: ../src/widgets/modest-msg-view-window.c:3135
 #: ../src/widgets/modest-msg-edit-window.c:2650
 msgid "mail_ib_file_operation_failed"
-msgstr ""
+msgstr "கோப்பு பிழை"
 
 #: ../src/widgets/modest-msg-view-window.c:2865
 #: ../src/modest-ui-dimming-rules.c:1491
@@ -292,64 +298,64 @@ msgstr[1] ""
 #: ../src/widgets/modest-msg-edit-window-ui.h:77
 #: ../src/widgets/modest-msg-edit-window.c:4766
 msgid "mcen_me_inbox_remove_attachments"
-msgstr ""
+msgstr "இணைப்புகளை அகற்று"
 
 #: ../src/widgets/modest-msg-view-window.c:3700
 #: ../src/widgets/modest-msg-view-window.c:3704
 #, c-format
 msgid "mcen_nc_purge_file_text"
 msgid_plural "mcen_nc_purge_files_text"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "இது செய்திகளிலிருந்து இணைப்புகளை அகற்றும். எப்படியும் தொடரவா?"
+msgstr[1] "இது செய்தியிலிருந்து %d இணைப்புகளை அகற்றும். எப்படியும் தொடரவா?"
 
 #. Settings menu buttons
 #: ../src/widgets/modest-msg-view-window.c:3976
 #: ../src/widgets/modest-header-window.c:1003
 #: ../src/widgets/modest-msg-edit-window-ui.h:58
 msgid "mcen_me_new_message"
-msgstr ""
+msgstr "புதிய செய்தி"
 
 #: ../src/widgets/modest-msg-view-window.c:3982
 #: ../src/widgets/modest-header-window.c:1012
 #: ../src/widgets/modest-header-window.c:1024
 msgid "mcen_me_move_message"
 msgid_plural "mcen_me_move_messages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "செய்தியை நகர்த்தவும்"
+msgstr[1] "செய்திகளை நகர்த்தவும்"
 
 #: ../src/widgets/modest-msg-view-window.c:3989
 #: ../src/widgets/modest-header-window.c:711
 msgid "mcen_me_inbox_mark_as_read"
-msgstr ""
+msgstr "படித்தபடி குறி"
 
 #: ../src/widgets/modest-msg-view-window.c:3992
 #: ../src/widgets/modest-header-window.c:712
 msgid "mcen_me_inbox_mark_as_unread"
-msgstr ""
+msgstr "படிக்காத எனக் குறிக்கவும்"
 
 #: ../src/widgets/modest-msg-view-window.c:3996
 msgid "mcen_me_viewer_save_attachments"
-msgstr ""
+msgstr "இணைப்புகளைச் சேமிக்கவும்"
 
 #: ../src/widgets/modest-msg-view-window.c:4003
 #: ../src/widgets/modest-msg-edit-window.c:4769
 #: ../src/hildon2/modest-address-book.c:1484
 msgid "mcen_me_viewer_addtocontacts"
-msgstr ""
+msgstr "தொடர்புகளில் சேர்க்கவும்"
 
 #. Find in page
 #: ../src/widgets/modest-msg-view-window.c:4011
 #: ../src/widgets/modest-msg-edit-window-ui.h:141
 #: ../src/widgets/modest-msg-edit-window.c:4773
 msgid "mcen_me_viewer_find"
-msgstr ""
+msgstr "செய்தியில் காண்க"
 
 #: ../src/widgets/modest-webkit-msg-view.c:419
 #: ../src/widgets/modest-msg-edit-window-ui.h:49
 #: ../src/widgets/modest-msg-edit-window.c:4583
 #: ../src/widgets/modest-gtkhtml-msg-view.c:1240
 msgid "mcen_me_editor_message_priority"
-msgstr ""
+msgstr "முன்னுரிமை"
 
 #: ../src/widgets/modest-webkit-msg-view.c:426
 #: ../src/widgets/modest-webkit-msg-view.c:815
@@ -358,12 +364,12 @@ msgstr ""
 #: ../src/widgets/modest-gtkhtml-msg-view.c:1913
 #: ../src/widgets/modest-gtkhtml-msg-view.c:1916
 msgid "mail_va_attachment"
-msgstr ""
+msgstr "இணைப்பு"
 
 #: ../src/widgets/modest-webkit-msg-view.c:813
 #: ../src/widgets/modest-gtkhtml-msg-view.c:1911
 msgid "mail_va_attachments"
-msgstr ""
+msgstr "இணைப்புகள்"
 
 #. Set a default account title, choosing one that does not already exist:
 #. Note that this is irrelevant to the non-user visible name, which we will create later.
@@ -371,40 +377,48 @@ msgstr ""
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:613
 #: ../src/modest-account-mgr.c:302
 msgid "mcen_ia_emailsetup_defaultname"
-msgstr ""
+msgstr "கணக்கு"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:424
 msgid "mcen_ia_emailsetup_intro"
 msgstr ""
+"உங்கள் சாதனத்தில் பயன்படுத்த மின்னஞ்சல் கணக்குகளை வரையறுக்க கணக்கு அமைவு வழிகாட்டி உங்களை "
+"அனுமதிக்கிறது.\n"
+" தொடர 'அடுத்து' தட்டவும்."
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:425
 msgid "mcen_ia_privacy_notice"
 msgstr ""
+"பணி கிடைப்பதை சரிபார்க்க உங்கள் ஆபரேட்டர் மற்றும் நாட்டின் குறியீடு தகவல்கள் நோக்கியாவுக்கு "
+"அனுப்பப்படுகின்றன. உங்கள் அனுமதியின்றி தனிப்பட்ட அடையாளம் காணக்கூடிய தகவல்களை நோக்கியா "
+"செயலாக்கவோ அல்லது சேமிக்கவோ மாட்டாது. நோக்கியா தனியுரிமைக் கொள்கையை www.nokia.co.uk "
+"இல் காண்க"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:541
 msgid "mcen_ia_accountdetails"
 msgstr ""
+"கீழே உள்ள பட்டியலிலிருந்து உங்கள் நாடு/பிராந்திய மற்றும் பணி வழங்குநரைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:564
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:571
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1034
 msgid "mcen_fi_country"
-msgstr ""
+msgstr "பகுதி"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:585
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:594
 msgid "mcen_fi_serviceprovider"
-msgstr ""
+msgstr "பணி வழங்குநர்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:627
 #: ../src/widgets/modest-default-account-settings-dialog.c:347
 msgid "mcen_fi_account_title"
-msgstr ""
+msgstr "கணக்கு தலைப்பு"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:750
 #: ../src/widgets/modest-default-account-settings-dialog.c:520
 msgid "mcen_li_emailsetup_name"
-msgstr ""
+msgstr "பெயர்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:781
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:426
@@ -413,7 +427,7 @@ msgstr ""
 #: ../src/modest-ui-actions.c:3905
 #: ../src/hildon2/modest-maemo-security-options-view.c:313
 msgid "mail_fi_username"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:813
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:452
@@ -422,98 +436,103 @@ msgstr ""
 #: ../src/modest-ui-actions.c:3924
 #: ../src/hildon2/modest-maemo-security-options-view.c:341
 msgid "mail_fi_password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:826
 #: ../src/widgets/modest-default-account-settings-dialog.c:586
 msgid "mcen_li_emailsetup_email_address"
-msgstr ""
+msgstr "மின்னஞ்சல் முகவரி"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:862
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1315
 msgid "mcen_ia_emailsetup_setup_complete"
-msgstr ""
+msgstr "கணக்கு அமைப்பு முடிந்தது."
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:871
 msgid "mcen_ia_easysetup_complete"
 msgstr ""
+"வழிகாட்டிக்கு வெளியே தட்டுவதன் மூலம் அமைப்புகளைச் சேமிக்க அல்லது நிராகரிக்க 'பூச்சு' "
+"என்பதைத் தட்டவும். இந்த அமைப்புகளை பட்டியலில் 'கணக்குகளைத் திருத்து' வழியாக திருத்தலாம்."
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:916
 #: ../src/widgets/modest-default-account-settings-dialog.c:636
 msgid "mcen_li_emailsetup_servertype"
-msgstr ""
+msgstr "உள்வரும் சேவையகம்"
 
 #. Show note that account type cannot be changed in future:
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1011
 msgid "mcen_ia_emailsetup_account_type"
-msgstr ""
+msgstr "குறிப்பு: அமைவு முடிந்ததும் கணக்கு வகையைத் திருத்த முடியவில்லை"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1041
 msgid "mcen_li_emailsetup_type"
-msgstr ""
+msgstr "கணக்கு வகை"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1196
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:388
 #: ../src/widgets/modest-default-account-settings-dialog.c:763
 msgid "mcen_li_emailsetup_smtp"
-msgstr ""
+msgstr "வெளிச்செல்லும் சேவையகம்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1223
 #: ../src/widgets/modest-default-account-settings-dialog.c:795
 msgid "mcen_fi_advsetup_connection_smtp"
-msgstr ""
+msgstr "இணைப்பு சார்ந்த SMTP சேவையகங்களைப் பயன்படுத்தவும்"
 
 #. Connection-specific SMTP-Severs Edit button:
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1232
 #: ../src/widgets/modest-default-account-settings-dialog.c:806
 msgid "mcen_bd_advsetup_optional_smtp"
-msgstr ""
+msgstr "SMTP சேவையகங்களைத் திருத்தவும்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1316
 msgid "mcen_ia_customsetup_complete"
 msgstr ""
+"வழிகாட்டிக்கு வெளியே தட்டுவதன் மூலம் அமைப்புகளைச் சேமிக்க அல்லது நிராகரிக்க 'பூச்சு' "
+"என்பதைத் தட்டவும்.\n"
+" மேம்பட்ட கணக்கு அமைப்புகளை மாற்ற 'மேம்பட்ட அமைப்புகள்' தட்டவும்."
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1327
 msgid "mcen_fi_advanced_settings"
-msgstr ""
+msgstr "மேம்பட்ட அமைப்புகள்"
 
 #. Set the wizard title:
 #. * The actual window title will be a combination of this and the page's tab label title.
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1563
 msgid "mcen_ti_emailsetup"
-msgstr ""
+msgstr "கணக்கு அமைப்பு"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1602
 msgid "mcen_ti_emailsetup_welcome"
-msgstr ""
+msgstr "வரவேற்கிறோம்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1604
 msgid "mcen_ti_accountdetails"
-msgstr ""
+msgstr "கணக்கு விவரங்கள்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1685
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1901
 msgid "mcen_ti_emailsetup_userdetails"
-msgstr ""
+msgstr "பயனர் விவரங்கள்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1689
 msgid "mcen_ti_emailsetup_incomingdetails"
-msgstr ""
+msgstr "உள்வரும் விவரங்கள்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1693
 msgid "mcen_ti_emailsetup_outgoingdetails"
-msgstr ""
+msgstr "வெளிச்செல்லும் விவரங்கள்"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1697
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:1719
 msgid "mcen_ti_emailsetup_complete"
-msgstr ""
+msgstr "முழுமையானது"
 
 #. Warn the user via a dialog:
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:2061
 #: ../src/widgets/modest-default-account-settings-dialog.c:851
 msgid "mail_ib_account_name_already_existing"
-msgstr ""
+msgstr "ஏற்கனவே பயன்பாட்டில் உள்ள மின்னஞ்சல் கணக்கு தலைப்பு"
 
 #. Warn the user via a dialog:
 #. this address is not valid, select it and return control to user showing banner
@@ -522,7 +541,7 @@ msgstr ""
 #: ../src/hildon2/modest-address-book.c:450
 #: ../src/hildon2/modest-address-book.c:854
 msgid "mcen_ib_invalid_email"
-msgstr ""
+msgstr "தவறான மின்னஞ்சல் முகவரி"
 
 #. Show error
 #. Warn the user via a dialog:
@@ -531,42 +550,44 @@ msgstr ""
 #: ../src/widgets/modest-default-account-settings-dialog.c:885
 #: ../src/widgets/modest-default-account-settings-dialog.c:901
 msgid "mcen_ib_invalid_servername"
-msgstr ""
+msgstr "தவறான சேவையக பெயர் அல்லது ஐபி முகவரி"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:2645
 msgid "mcen_ib_unableto_discover_auth_methods"
-msgstr ""
+msgstr "உதவி பாதுகாப்பான அங்கீகார முறைகளைக் கண்டறிய முடியவில்லை"
 
 #: ../src/widgets/modest-easysetup-wizard-dialog.c:2838
 msgid "mcen_cn_availability_check"
-msgstr ""
+msgstr "பணி கிடைப்பதை சரிபார்க்க நோக்கியா சேவையகங்களுடன் இணைத்தல்"
 
 #. TODO: This logical ID is not in the .po file:
 #: ../src/widgets/modest-serversecurity-combo-box.c:166
 #: ../src/hildon2/modest-serversecurity-picker.c:169
 msgid "mcen_fi_advsetup_other_security_none"
-msgstr ""
+msgstr "எதுவுமில்லை"
 
 #: ../src/widgets/modest-serversecurity-combo-box.c:169
 #: ../src/hildon2/modest-serversecurity-picker.c:176
 msgid "mcen_fi_advsetup_other_security_normal"
-msgstr ""
+msgstr "இயல்பானது (டி.எல்.எச்)"
 
 #: ../src/widgets/modest-serversecurity-combo-box.c:181
 #: ../src/hildon2/modest-serversecurity-picker.c:188
 msgid "mcen_fi_advsetup_other_security_ssl"
-msgstr ""
+msgstr "எச்.எச்.எல்"
 
 #: ../src/widgets/modest-header-window.c:472 ../src/modest-ui-actions.c:423
 #, c-format
 msgid "emev_nc_delete_message"
 msgid_plural "emev_nc_delete_messages"
 msgstr[0] ""
-msgstr[1] ""
+"செய்தியை நீக்கவா?\n"
+" %s"
+msgstr[1] "செய்திகளை நீக்கவா?"
 
 #: ../src/widgets/modest-header-window.c:757
 msgid "mcen_ia_nomessages"
-msgstr ""
+msgstr "(செய்திகள் இல்லை)"
 
 #: ../src/widgets/modest-header-window.c:774
 #: ../src/widgets/modest-header-window.c:869
@@ -575,70 +596,70 @@ msgstr ""
 #: ../src/widgets/modest-accounts-window.c:328
 #: ../src/widgets/modest-folder-window.c:398
 msgid "mcen_ti_new_message"
-msgstr ""
+msgstr "புதிய செய்தி"
 
 #: ../src/widgets/modest-header-window.c:924
 msgid "mcen_ti_edit_delete"
-msgstr ""
+msgstr "நீக்க உருப்படிகளைத் தேர்வுசெய்க"
 
 #: ../src/widgets/modest-header-window.c:929
 msgid "mcen_ti_edit_move"
-msgstr ""
+msgstr "நகர்த்த செய்திகளைத் தேர்வுசெய்க"
 
 #: ../src/widgets/modest-header-window.c:1006
 #: ../src/widgets/modest-accounts-window.c:455
 #: ../src/widgets/modest-folder-window.c:641
 msgid "mcen_me_inbox_sendandreceive"
-msgstr ""
+msgstr "அனுப்பு மற்றும் பெறுங்கள்"
 
 #: ../src/widgets/modest-header-window.c:1018
 #: ../src/widgets/modest-header-window.c:1030
 #: ../src/widgets/modest-msg-edit-window-ui.h:64
 msgid "mcen_me_delete_messages"
-msgstr ""
+msgstr "செய்திகளை நீக்கு"
 
 #: ../src/widgets/modest-header-window.c:1034
 msgid "mcen_me_folder_details"
-msgstr ""
+msgstr "கோப்புறை விவரங்கள்"
 
 #: ../src/widgets/modest-header-window.c:1040
 msgid "mcen_va_more"
-msgstr ""
+msgstr "மேலும் காட்டு"
 
 #: ../src/widgets/modest-header-window.c:1049
 #: ../src/widgets/modest-accounts-window.c:469
 #: ../src/widgets/modest-folder-window.c:668
 msgid "mcen_me_outbox_cancelsend"
-msgstr ""
+msgstr "அனுப்புவதை நிறுத்துங்கள்"
 
 #: ../src/widgets/modest-compact-mail-header-view.c:753
 #: ../src/widgets/modest-msg-edit-window.c:984 ../src/modest-text-utils.c:56
 msgid "mail_va_to"
-msgstr ""
+msgstr "பெறுநர்"
 
 #: ../src/widgets/modest-compact-mail-header-view.c:756
 #: ../src/widgets/modest-msg-edit-window.c:944
 #: ../src/widgets/modest-msg-edit-window.c:950
 #: ../src/widgets/modest-msg-edit-window.c:1882 ../src/modest-text-utils.c:54
 msgid "mail_va_from"
-msgstr ""
+msgstr "இருந்து"
 
 #. string is changed in-place
 #: ../src/widgets/modest-compact-mail-header-view.c:769
 #: ../src/widgets/modest-header-view-render.c:285
 #: ../src/widgets/modest-header-view-render.c:379
 msgid "mail_va_no_to"
-msgstr ""
+msgstr "(பெறுநர் இல்லை)"
 
 #: ../src/widgets/modest-folder-view.c:863
 #: ../src/widgets/modest-account-view.c:236
 msgid "mcen_va_never"
-msgstr ""
+msgstr "ஒருபோதும்"
 
 #: ../src/widgets/modest-folder-view.c:866
 #: ../src/widgets/modest-account-view.c:239
 msgid "mcen_va_refreshing"
-msgstr ""
+msgstr "புத்துணர்ச்சி"
 
 #: ../src/widgets/modest-folder-view.c:910
 #: ../src/widgets/modest-account-view.c:307
@@ -646,14 +667,14 @@ msgstr ""
 #: ../src/widgets/modest-account-view.c:395
 #: ../src/widgets/modest-account-view.c:662
 msgid "mcen_ti_lastupdated"
-msgstr ""
+msgstr "கடைசியாக புதுப்பிக்கப்பட்டது"
 
 #: ../src/widgets/modest-folder-view.c:951
 #, c-format
 msgid "mcen_ti_message"
 msgid_plural "mcen_ti_messages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d செய்தி"
+msgstr[1] "%d செய்திகள்"
 
 #: ../src/widgets/modest-limit-retrieve-combo-box.c:157
 msgid "mcen_fi_advsetup_retrieve_nolimit"
@@ -695,11 +716,11 @@ msgstr ""
 
 #: ../src/widgets/modest-toolkit-utils.c:405
 msgid "mcen_ti_select_attachments_title"
-msgstr ""
+msgstr "இணைப்புகளைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-toolkit-utils.c:405
 msgid "mcen_ti_select_attachment_title"
-msgstr ""
+msgstr "இணைப்பைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-mailboxes-window.c:231
 #: ../src/widgets/modest-mailboxes-window.c:236
@@ -709,7 +730,7 @@ msgstr ""
 #: ../src/widgets/modest-folder-window.c:1058 ../src/gtk/modest-platform.c:296
 #: ../src/hildon2/modest-platform.c:544
 msgid "mcen_ap_name"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:208
 #, c-format
@@ -729,7 +750,7 @@ msgstr ""
 #: ../src/hildon2/modest-maemo-security-options-view.c:290
 #: ../src/hildon2/modest-maemo-security-options-view.c:296
 msgid "mcen_li_emailsetup_secure_authentication"
-msgstr ""
+msgstr "பாதுகாப்பான ஏற்பு"
 
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:468
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:474
@@ -740,7 +761,7 @@ msgstr ""
 #: ../src/hildon2/modest-maemo-security-options-view.c:275
 #: ../src/hildon2/modest-maemo-security-options-view.c:281
 msgid "mcen_li_emailsetup_secure_connection"
-msgstr ""
+msgstr "பாதுகாப்பான இணைப்பு"
 
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:485
 #: ../src/widgets/modest-gtk-security-options-view.c:148
@@ -748,13 +769,13 @@ msgstr ""
 #: ../src/hildon2/modest-maemo-security-options-view.c:176
 #: ../src/hildon2/modest-maemo-security-options-view.c:351
 msgid "mcen_fi_emailsetup_port"
-msgstr ""
+msgstr "துறைமுகம்"
 
 #. This causes a warning because of the %s in the translation, but not in the original string:
 #: ../src/widgets/modest-connection-specific-smtp-edit-window.c:574
 #, c-format
 msgid "mcen_ti_connection_connection_name"
-msgstr ""
+msgstr "இணைப்பு-குறிப்பிட்ட SMTP சேவையகம்: %s"
 
 #. Toplevel menus
 #: ../src/widgets/modest-msg-edit-window-ui.h:43
@@ -775,7 +796,7 @@ msgstr ""
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:47
 msgid "mcen_me_editor_align"
-msgstr ""
+msgstr "இருப்புவழி"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:48
 #: ../src/widgets/modest-gtkhtml-msg-view.c:1263
@@ -834,7 +855,7 @@ msgstr ""
 #: ../src/widgets/modest-msg-edit-window-ui.h:73
 #: ../src/widgets/modest-msg-edit-window.c:4760
 msgid "mcen_me_editor_attach_inlineimage"
-msgstr ""
+msgstr "படத்தைச் செருகவும்"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:75
 #: ../src/widgets/modest-msg-edit-window-ui.h:111
@@ -843,7 +864,7 @@ msgstr ""
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:78
 msgid "mcen_me_inbox_undo"
-msgstr ""
+msgstr "செயல்தவிர்"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:80
 msgid "mcen_me_inbox_redo"
@@ -876,7 +897,7 @@ msgstr ""
 #: ../src/widgets/modest-msg-edit-window-ui.h:90
 #: ../src/widgets/modest-msg-edit-window.c:4757
 msgid "mcen_me_editor_checknames"
-msgstr ""
+msgstr "பெயர்களை சரிபார்க்கவும்"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:91
 msgid "mcen_me_inbox_close_window"
@@ -916,13 +937,13 @@ msgstr ""
 #: ../src/widgets/modest-msg-edit-window-ui.h:123
 #: ../src/widgets/modest-msg-edit-window.c:4726
 msgid "mcen_me_editor_showcc"
-msgstr ""
+msgstr "சி.சி."
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:121
 #: ../src/widgets/modest-msg-edit-window-ui.h:124
 #: ../src/widgets/modest-msg-edit-window.c:4735
 msgid "mcen_me_editor_showbcc"
-msgstr ""
+msgstr "பி.சி.சி."
 
 #. Fullscreen toggle
 #: ../src/widgets/modest-msg-edit-window-ui.h:128
@@ -942,85 +963,85 @@ msgstr ""
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:145
 msgid "mcen_me_editor_align_left"
-msgstr ""
+msgstr "இடது"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:146
 msgid "mcen_me_editor_align_centred"
-msgstr ""
+msgstr "மையப்படுத்தப்பட்ட"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:147
 msgid "mcen_me_editor_align_right"
-msgstr ""
+msgstr "வலது"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:151
 #: ../src/widgets/modest-msg-edit-window.c:4559
 msgid "mcen_me_editor_priority_high"
-msgstr ""
+msgstr "உயர்ந்த"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:152
 #: ../src/widgets/modest-msg-edit-window.c:4567
 msgid "mcen_me_editor_priority_normal"
-msgstr ""
+msgstr "சாதாரண"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:153
 #: ../src/widgets/modest-msg-edit-window.c:4575
 msgid "mcen_me_editor_priority_low"
-msgstr ""
+msgstr "குறைந்த"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:157
 #: ../src/widgets/modest-msg-edit-window.c:4603
 msgid "mcen_me_editor_plain_text"
-msgstr ""
+msgstr "சாதாரண எழுத்து"
 
 #: ../src/widgets/modest-msg-edit-window-ui.h:158
 #: ../src/widgets/modest-msg-edit-window.c:4594
 msgid "mcen_me_editor_formatted_text"
-msgstr ""
+msgstr "வடிவமைக்கப்பட்ட உரை"
 
 #: ../src/widgets/modest-account-view-window.c:276
 msgid "mcen_ti_emailsetup_accounts"
-msgstr ""
+msgstr "மின்னஞ்சல் கணக்குகள்"
 
 #: ../src/widgets/modest-default-account-settings-dialog.c:389
 msgid "mcen_fi_advsetup_leave_on_server"
-msgstr ""
+msgstr "சேவையகத்தில் செய்திகளை விடுங்கள்"
 
 #: ../src/widgets/modest-default-account-settings-dialog.c:611
 msgid "mcen_bd_email_signature"
-msgstr ""
+msgstr "கையொப்பம்"
 
 #: ../src/widgets/modest-default-account-settings-dialog.c:1247
 #, c-format
 msgid "mcen_ti_account_settings"
-msgstr ""
+msgstr "%s க்கான %s கணக்கு அமைப்புகள்"
 
 #: ../src/widgets/modest-accounts-window.c:288
 msgid "mcen_ia_noaccounts"
-msgstr ""
+msgstr "(கணக்குகள் இல்லை)"
 
 #. Settings menu buttons
 #: ../src/widgets/modest-accounts-window.c:452
 #: ../src/widgets/modest-folder-window.c:679
 msgid "mcen_me_new_account"
-msgstr ""
+msgstr "புதிய கணக்கு"
 
 #: ../src/widgets/modest-accounts-window.c:460
 #: ../src/widgets/modest-folder-window.c:685
 #: ../src/widgets/modest-folder-window.c:695
 msgid "mcen_me_edit_account"
 msgid_plural "mcen_me_edit_accounts"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "கணக்கைத் திருத்து"
+msgstr[1] "கணக்குகளைத் திருத்தவும்"
 
 #: ../src/widgets/modest-accounts-window.c:466
 msgid "mcen_me_inbox_globalsmtpservers"
-msgstr ""
+msgstr "SMTP சேவையகங்கள்"
 
 #. In tree view mode, this window gets more menu options
 #: ../src/widgets/modest-accounts-window.c:472
 #: ../src/widgets/modest-folder-window.c:676
 msgid "mcen_me_inbox_options"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 #: ../src/widgets/modest-scrolled-window-scrollable.c:125
 #: ../src/hildon2/modest-hildon-pannable-area-scrollable.c:125
@@ -1052,130 +1073,130 @@ msgstr ""
 
 #: ../src/widgets/modest-folder-window.c:475
 msgid "mcen_ti_edit_folder_delete"
-msgstr ""
+msgstr "நீக்க கோப்புறையைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-folder-window.c:482
 msgid "mcen_ti_edit_move_folder"
-msgstr ""
+msgstr "நகர்த்த கோப்புறையைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-folder-window.c:489
 msgid "mcen_ti_edit_rename_folder"
-msgstr ""
+msgstr "மறுபெயரிட கோப்புறையைத் தேர்ந்தெடுக்கவும்"
 
 #. folders actions
 #: ../src/widgets/modest-folder-window.c:638
 msgid "mcen_me_new_folder"
-msgstr ""
+msgstr "புதிய கோப்புறை"
 
 #: ../src/widgets/modest-folder-window.c:647
 #: ../src/widgets/modest-folder-window.c:657
 msgid "mcen_me_rename_folder"
-msgstr ""
+msgstr "கோப்புறை மறுபெயரிடுங்கள்"
 
 #: ../src/widgets/modest-folder-window.c:650
 #: ../src/widgets/modest-folder-window.c:660
 msgid "mcen_me_move_folder"
-msgstr ""
+msgstr "கோப்புறையை நகர்த்தவும்"
 
 #: ../src/widgets/modest-folder-window.c:653
 #: ../src/widgets/modest-folder-window.c:663
 msgid "mcen_me_delete_folder"
-msgstr ""
+msgstr "கோப்புறையை நீக்கு"
 
 #: ../src/widgets/modest-signature-editor-dialog.c:148
 msgid "mcen_ti_email_signatures_edit_title"
-msgstr ""
+msgstr "மின்னஞ்சல் கையொப்பம்"
 
 #: ../src/widgets/modest-signature-editor-dialog.c:154
 msgid "mcen_fi_email_signatures_use_signature"
-msgstr ""
+msgstr "கையொப்பத்தைப் பயன்படுத்தவும்"
 
 #: ../src/widgets/modest-signature-editor-dialog.c:170
 #: ../src/widgets/modest-signature-editor-dialog.c:241
 msgid "mcen_va_default_signature_tablet"
-msgstr ""
+msgstr "எனது நோக்கியா N900 இலிருந்து அனுப்பப்பட்டது"
 
 #. This causes a warning because of the %s in the translation, but not in the original string:
 #: ../src/widgets/modest-signature-editor-dialog.c:229
 #, c-format
 msgid "mcen_ia_email_signatures_edit_dlg_label"
-msgstr ""
+msgstr "கணக்குகளுக்கான கையொப்பம்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:234
 #: ../src/widgets/modest-default-global-settings-dialog.c:241
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:233
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:240
 msgid "mcen_ti_default_account"
-msgstr ""
+msgstr "இயல்புநிலை கணக்கு"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:257
 #: ../src/widgets/modest-default-global-settings-dialog.c:263
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:257
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:263
 msgid "mcen_fi_options_messageformat"
-msgstr ""
+msgstr "புதிய செய்தி வடிவம்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:271
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:271
 msgid "mcen_fi_options_incoming_notifications"
-msgstr ""
+msgstr "உள்வரும் அறிவிப்புகள்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:276
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:277
 msgid "mcen_fi_options_automatic_add"
-msgstr ""
+msgstr "தானாகவே தொடர்புகளில் சேர்க்கவும்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:281
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:283
 msgid "mcen_fi_options_tree_view"
-msgstr ""
+msgstr "மரக் காட்சி முறை"
 
 #. Separator label
 #: ../src/widgets/modest-default-global-settings-dialog.c:285
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:288
 msgid "mcen_ti_updating"
-msgstr ""
+msgstr "IMAP மற்றும் POP கணக்குகளைப் புதுப்பித்தல்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:295
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:294
 msgid "mcen_fi_options_autoupdate"
-msgstr ""
+msgstr "தானாக புதுப்பிக்கவும்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:310
 #: ../src/widgets/modest-default-global-settings-dialog.c:316
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:310
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:316
 msgid "mcen_fi_options_connectiontype"
-msgstr ""
+msgstr "இணைக்கும்போது புதுப்பிக்கவும்"
 
 #: ../src/widgets/modest-default-global-settings-dialog.c:332
 #: ../src/widgets/modest-default-global-settings-dialog.c:338
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:332
 #: ../src/hildon2/modest-hildon2-global-settings-dialog.c:338
 msgid "mcen_fi_options_updateinterval"
-msgstr ""
+msgstr "இடைவெளி புதுப்பிக்கவும்"
 
 #: ../src/widgets/modest-msg-edit-window.c:249
 #: ../src/widgets/modest-msg-edit-window.c:4541
 #: ../src/widgets/modest-msg-edit-window.c:4754
 msgid "mcen_me_message_settings"
-msgstr ""
+msgstr "செய்தி அமைப்புகள்"
 
 #: ../src/widgets/modest-msg-edit-window.c:987
 msgid "mail_va_cc"
-msgstr ""
+msgstr "சி.சி."
 
 #: ../src/widgets/modest-msg-edit-window.c:990
 msgid "mail_va_hotfix1"
-msgstr ""
+msgstr "பி.சி.சி."
 
 #: ../src/widgets/modest-msg-edit-window.c:992 ../src/modest-text-utils.c:57
 msgid "mail_va_subject"
-msgstr ""
+msgstr "பொருள்"
 
 #: ../src/widgets/modest-msg-edit-window.c:2535
 msgid "mcen_ia_select_inline_image_title"
-msgstr ""
+msgstr "இன்லைன் படத்தைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-msg-edit-window.c:2742
 msgid "mcen_ia_select_attachment_title"
@@ -1184,7 +1205,7 @@ msgstr ""
 #: ../src/widgets/modest-msg-edit-window.c:2828 ../src/modest-ui-actions.c:710
 #: ../src/modest-ui-actions.c:2758
 msgid "mail_ib_error_attachment_size"
-msgstr ""
+msgstr "இணைக்க முடியாத அளவுக்கு பெரிய கோப்பு."
 
 #: ../src/widgets/modest-msg-edit-window.c:2895
 msgid "TODO: no attachments selected to remove"
@@ -1195,36 +1216,40 @@ msgstr ""
 msgid "emev_nc_delete_attachment"
 msgid_plural "emev_nc_delete_attachments"
 msgstr[0] ""
-msgstr[1] ""
+"செய்தியிலிருந்து இணைப்பை அகற்றவா?\n"
+" %s"
+msgstr[1] "செய்தியிலிருந்து தேர்ந்தெடுக்கப்பட்ட இணைப்புகளை அகற்றவா?"
 
 #: ../src/widgets/modest-msg-edit-window.c:3029
 msgid "mcen_ti_font_size"
-msgstr ""
+msgstr "எழுத்துரு அளவைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-msg-edit-window.c:3087
 msgid "mcen_ti_font_face"
-msgstr ""
+msgstr "எழுத்துரு முகத்தைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/widgets/modest-msg-edit-window.c:3327
 msgid "emev_nc_formatting_lost"
 msgstr ""
+"தற்போதைய அனைத்து வடிவமைப்புகளும் அகற்றப்படும்.\n"
+" எப்படியும் தொடரவா?"
 
 #: ../src/widgets/modest-msg-edit-window.c:3878
 msgid "mail_va_new_email"
-msgstr ""
+msgstr "புதிய செய்தி"
 
 #. defines
 #: ../src/widgets/modest-msg-edit-window.c:4335 ../src/modest-text-utils.c:53
 msgid "mcen_ia_editor_original_message"
-msgstr ""
+msgstr "----- அசல் செய்தி -----"
 
 #: ../src/widgets/modest-msg-edit-window.c:4745
 msgid "mcen_bd_show_toolbar"
-msgstr ""
+msgstr "கருவிப்பட்டியைக் காட்டு"
 
 #: ../src/widgets/modest-msg-edit-window.c:4763
 msgid "mcen_me_editor_add_attachment"
-msgstr ""
+msgstr "இணைப்பைச் சேர்க்கவும்"
 
 #: ../src/widgets/modest-retrieve-combo-box.c:163
 msgid "mcen_fi_advsetup_retrievetype_headers"
@@ -1241,7 +1266,7 @@ msgstr ""
 #: ../src/hildon2/modest-provider-picker.c:133
 #: ../src/hildon2/modest-provider-picker.c:329
 msgid "mcen_va_serviceprovider_other"
-msgstr ""
+msgstr "மற்றொன்று"
 
 #: ../src/widgets/modest-gtkhtml-msg-view.c:454
 msgid "Horizontal adjustment"
@@ -1269,27 +1294,29 @@ msgstr ""
 
 #: ../src/widgets/modest-gtkhtml-msg-view.c:1254
 msgid "mail_fi_invitation"
-msgstr ""
+msgstr "அழைப்பு"
 
 #. No connections label
 #: ../src/widgets/modest-connection-specific-smtp-window.c:372
 msgid "mcen_ia_optionalsmtp_noconnection"
-msgstr ""
+msgstr "(இணைப்புகள் இல்லை)"
 
 #. Introductory note:
 #: ../src/widgets/modest-connection-specific-smtp-window.c:400
 msgid "mcen_ia_optionalsmtp_note"
 msgstr ""
+"இணைப்பு செயலில் இருக்கும்போது பயன்படுத்த வேண்டிய இணைப்பைத் தேர்ந்தெடுத்து SMTP சேவையகத்தைத்"
+" திருத்தவும்"
 
 #. Set window title
 #: ../src/widgets/modest-connection-specific-smtp-window.c:427
 msgid "mcen_ti_optionalsmtp_servers"
-msgstr ""
+msgstr "இணைப்பு சார்ந்த SMTP சேவையகங்கள்"
 
 #: ../src/widgets/modest-connection-specific-smtp-window.c:505
 #: ../src/widgets/modest-connection-specific-smtp-window.c:560
 msgid "mcen_ia_optionalsmtp_notdefined"
-msgstr ""
+msgstr "வரையறுக்கப்படவில்லை"
 
 #: ../src/widgets/modest-header-view.c:507
 msgid "A"
@@ -1339,20 +1366,20 @@ msgstr ""
 #: ../src/widgets/modest-header-view-render.c:58
 #: ../src/widgets/modest-header-view-render.c:451
 msgid "mcen_li_outbox_waiting"
-msgstr ""
+msgstr "காத்திருக்கிறது"
 
 #: ../src/widgets/modest-header-view-render.c:61
 msgid "mcen_li_outbox_sending"
-msgstr ""
+msgstr "அனுப்புகிறது"
 
 #: ../src/widgets/modest-header-view-render.c:64
 #: ../src/widgets/modest-header-view-render.c:449
 msgid "mcen_li_outbox_suspended"
-msgstr ""
+msgstr "இடைநீக்கம்"
 
 #: ../src/widgets/modest-header-view-render.c:67
 msgid "mcen_li_outbox_failed"
-msgstr ""
+msgstr "தோல்வியுற்றது"
 
 #.
 #. * in the maemo case, we try to replace this
@@ -1364,7 +1391,7 @@ msgstr ""
 
 #: ../src/modest-defs.h:261
 msgid "mcen_va_example_email_address"
-msgstr ""
+msgstr "first.last@example.com"
 
 #: ../src/modest-ui-actions.c:276
 msgid ""
@@ -1385,18 +1412,24 @@ msgstr ""
 #, c-format
 msgid "mail_ib_backend_server_invalid"
 msgstr ""
+"%s சேவையகத்துடன் இணைக்க முடியவில்லை அல்லது அது இல்லை. சேவையகம் தற்போது கிடைக்காமல் "
+"இருக்கலாம். உங்கள் பிணையத்தை சேவையகத்திற்கான அணுகல் இருப்பதை சரிபார்க்கவும்."
 
 #: ../src/modest-ui-actions.c:891
 msgid "emev_ni_ui_imap_message_not_available_in_server"
-msgstr ""
+msgstr "செய்தி %s சேவையகத்தில் கிடைக்கவில்லை."
 
 #: ../src/modest-ui-actions.c:893
 msgid "emev_ni_ui_pop3_msg_recv_error"
 msgstr ""
+"செய்தியை செயலாக்கும்போது பிழை ஏற்பட்டது.\n"
+" சேவையகத்தில் செய்தி இருக்காது."
 
 #: ../src/modest-ui-actions.c:1143 ../src/modest-tny-account-store.c:2392
 msgid "emev_ui_imap_inbox_select_error"
 msgstr ""
+"சேவையக இன்பாக்சைத் தேர்ந்தெடுக்க முடியவில்லை. விண்ணப்பத்தை மறுதொடக்கம் செய்து மீண்டும் "
+"முயற்சிக்கவும்."
 
 #: ../src/modest-ui-actions.c:1300 ../src/modest-ui-actions.c:6010
 #: ../src/dbus_api/modest-dbus-callbacks.c:462
@@ -1404,7 +1437,7 @@ msgstr ""
 #: ../src/dbus_api/modest-dbus-callbacks.c:590
 #, c-format
 msgid "mail_ni_ui_folder_get_msg_folder_error"
-msgstr ""
+msgstr "செய்தியை மீட்டெடுக்க முடியவில்லை"
 
 #. Don't allow activation if there are more than one message selected
 #: ../src/modest-ui-actions.c:1496 ../src/modest-ui-actions.c:1971
@@ -1417,7 +1450,7 @@ msgstr ""
 #: ../src/modest-ui-actions.c:2388 ../src/modest-ui-actions.c:2400
 #: ../src/modest-ui-actions.c:3473
 msgid "emev_ni_internal_error"
-msgstr ""
+msgstr "பிழை ஏற்பட்டது"
 
 #: ../src/modest-ui-actions.c:2623
 #, c-format
@@ -1451,52 +1484,54 @@ msgstr ""
 #: ../src/modest-ui-actions.c:2840
 #, c-format
 msgid "mail_va_saved_to_drafts"
-msgstr ""
+msgstr "%s க்கு சேமித்தல்"
 
 #: ../src/modest-ui-actions.c:2840 ../src/modest-local-folder-info.c:51
 msgid "mcen_me_folder_drafts"
-msgstr ""
+msgstr "வரைவுகள்"
 
 #: ../src/modest-ui-actions.c:3039 ../src/modest-ui-actions.c:3090
 msgid "mcen_ib_outbox_waiting_to_be_sent"
-msgstr ""
+msgstr "செய்தி அனுப்ப காத்திருக்கும் அவுட்பாக்சுக்கு நகர்த்தப்பட்டது"
 
 #: ../src/modest-ui-actions.c:3287 ../src/modest-ui-actions.c:3339
 msgid "mail_in_ui_folder_create_error_memory"
-msgstr ""
+msgstr "கோப்புறையை உருவாக்க முடியவில்லை. வெளிப்புற நினைவக அட்டை நிரம்பியுள்ளது."
 
 #: ../src/modest-ui-actions.c:3294 ../src/modest-ui-actions.c:3348
 #: ../src/modest-mail-operation.c:2319 ../src/modest-mail-operation.c:2327
 #, c-format
 msgid "mail_in_ui_folder_create_error"
-msgstr ""
+msgstr "கோப்புறையை உருவாக்க முடியவில்லை"
 
 #: ../src/modest-ui-actions.c:3624 ../src/modest-ui-actions.c:3723
 #: ../src/modest-mail-operation.c:2372
 #, c-format
 msgid "mail_in_ui_folder_delete_error"
-msgstr ""
+msgstr "கோப்புறையை நீக்க முடியவில்லை"
 
 #. Ask the user
 #: ../src/modest-ui-actions.c:3730
 #, c-format
 msgid "mcen_nc_delete_folder_text"
 msgstr ""
+"கோப்புறை மற்றும் அதன் உள்ளடக்கங்களை நீக்கவா?\n"
+" %s"
 
 #: ../src/modest-ui-actions.c:3822 ../src/modest-ui-actions.c:3832
 #: ../src/modest-ui-actions.c:3843
 msgid "mail_ti_password_protected"
-msgstr ""
+msgstr "கடவுச்சொல் பாதுகாக்கப்பட்டது"
 
 #: ../src/modest-ui-actions.c:3865
 #, c-format
 msgid "mail_ia_password_info"
-msgstr ""
+msgstr "சேவையக %s க்கு கடவுச்சொல்லை உள்ளிடவும்"
 
 #: ../src/modest-ui-actions.c:3976 ../src/modest-tny-account-store.c:517
 #: ../src/modest-tny-account-store.c:665
 msgid "mcen_ib_username_pw_incorrect"
-msgstr ""
+msgstr "பயனர் பெயர் அல்லது கடவுச்சொல் தவறானது"
 
 #. Set the error msg
 #: ../src/modest-ui-actions.c:4946 ../src/modest-ui-actions.c:5057
@@ -1504,17 +1539,21 @@ msgstr ""
 #: ../src/modest-mail-operation.c:2575
 msgid "mail_in_ui_folder_move_target_error"
 msgid_plural "mail_in_ui_folder_move_targets_error"
-msgstr[0] ""
+msgstr[0] "தற்போதைய இடத்திற்கு செல்ல முடியவில்லை"
 msgstr[1] ""
 
 #: ../src/modest-ui-actions.c:6049
 #, c-format
 msgid "emev_nc_delete_mailbox"
 msgstr ""
+"இந்த மின்னஞ்சல் கணக்கை நீக்குவது இந்த கணக்கின் இன்பாக்சில் மீட்டெடுக்கப்பட்ட செய்திகளின் அனைத்து "
+"உள்ளக நகல்களையும் அகற்றும். எப்படியும் நீக்கவா?"
 
 #: ../src/modest-ui-actions.c:6183
 msgid "emev_nc_disconnect_account"
 msgstr ""
+"மின்னஞ்சல் கணக்கின் நிகழ்நிலை திருத்துதல் அது துண்டிக்க காரணமாகிறது மற்றும் தற்போதைய "
+"செயல்பாடுகளை ரத்து செய்யும். எப்படியும் தொடரவா?"
 
 #: ../src/modest-protocol-registry.c:429
 msgid "Sendmail"
@@ -1526,11 +1565,11 @@ msgstr ""
 
 #: ../src/modest-protocol-registry.c:452
 msgid "mail_fi_emailtype_pop3"
-msgstr ""
+msgstr "பாப்"
 
 #: ../src/modest-protocol-registry.c:471
 msgid "mail_fi_emailtype_imap"
-msgstr ""
+msgstr "IMAP4"
 
 #: ../src/modest-protocol-registry.c:499
 msgid "Maildir"
@@ -1558,15 +1597,15 @@ msgstr ""
 
 #: ../src/modest-protocol-registry.c:563
 msgid "mcen_fi_advsetup_smtp_none"
-msgstr ""
+msgstr "எதுவுமில்லை"
 
 #: ../src/modest-protocol-registry.c:571
 msgid "mcen_fi_advsetup_smtp_login"
-msgstr ""
+msgstr "புகுபதிவு"
 
 #: ../src/modest-protocol-registry.c:580
 msgid "mcen_fi_advsetup_smtp_cram_md5"
-msgstr ""
+msgstr "CRAM-MD5"
 
 #: ../src/modest-text-utils.h:112 ../src/modest-text-utils.h:158
 msgid "Save"
@@ -1789,22 +1828,30 @@ msgstr ""
 
 #: ../src/modest-tny-send-queue.c:700
 msgid "mcen_ib_message_sent"
-msgstr ""
+msgid_plural ""
+msgstr[0] "செய்தி அனுப்பப்பட்டது"
+msgstr[1] "செய்திகள் அனுப்பப்பட்டன"
 
 #: ../src/modest-tny-account-store.c:630
 #, c-format
 msgid "emev_ni_ui_smtp_userid_invalid"
 msgstr ""
+"SMTP பயனர் பெயர் வரையறுக்கப்படவில்லை. கணக்கு %1$s க்கான மின்னஞ்சல் கணக்கு விருப்பங்களைத் "
+"திருத்தி, சேவையக %2$s க்கான கடவுச்சொல்லை உள்ளிடவும்."
 
 #: ../src/modest-tny-account-store.c:639
 #, c-format
 msgid "emev_ni_ui_smtp_passwd_invalid"
 msgstr ""
+"SMTP கடவுச்சொல் வரையறுக்கப்படவில்லை. கணக்கு %s க்கான மின்னஞ்சல் கணக்கு விருப்பங்களைத் "
+"திருத்தி, சேவையக %s க்கான கடவுச்சொல்லை உள்ளிடவும்."
 
 #: ../src/modest-tny-account-store.c:643
 #, c-format
 msgid "emev_ni_ui_smtp_authentication_fail_error"
 msgstr ""
+"SMTP ஏற்பு தோல்வியடைந்தது. பயனர் பெயர் மற்றும் கடவுச்சொல்லை சரிபார்க்கவும் அல்லது %s அணுகல்"
+" உள்ளன."
 
 #: ../src/gtk/modest-shell.c:189
 msgid "mcen_va_new_email"
@@ -1814,22 +1861,28 @@ msgstr ""
 #: ../src/hildon2/modest-hildon2-window-mgr.c:739
 msgid "mail_in_ui_save_error"
 msgstr ""
+"வரைவுகளுக்கு சேமிக்க முடியவில்லை. நினைவகம் நிரம்பியுள்ளது.\n"
+" இலவச நினைவகத்திற்கு உள்ளக மின்னஞ்சல் செய்திகளை அகற்றவும்."
 
 #: ../src/gtk/modest-platform.c:1470 ../src/hildon2/modest-platform.c:2036
 #, c-format
 msgid "mcen_ni_view_unknown_certificate"
 msgstr ""
+"அறியப்படாத சான்றிதழ்:\n"
+" %s"
 
 #: ../src/gtk/modest-platform.c:1484 ../src/hildon2/modest-platform.c:2062
 #, c-format
 msgid "mcen_nc_unknown_certificate"
 msgstr ""
+"அறியப்படாத சான்றிதழுடன் சேவையக %s உடன் பாதுகாப்பான இணைப்பை நிறுவ முயற்சிக்கிறது.\n"
+" இணைப்புகளை அனுமதிக்கவா?"
 
 #. Create dialog. We cannot use a touch selector because we
 #. need to use here the folder view widget directly
 #: ../src/gtk/modest-platform.c:2243 ../src/hildon2/modest-platform.c:3047
 msgid "mcen_ti_moveto_folders_title"
-msgstr ""
+msgstr "கோப்புறைக்கு செல்லுங்கள்"
 
 #: ../src/modest-ui-dimming-rules.c:216 ../src/modest-ui-dimming-rules.c:320
 #: ../src/modest-ui-dimming-rules.c:382 ../src/modest-ui-dimming-rules.c:472
@@ -1847,7 +1900,9 @@ msgstr ""
 
 #: ../src/modest-ui-dimming-rules.c:659 ../src/modest-ui-dimming-rules.c:678
 msgid "emev_nc_unabletomove_item"
-msgstr ""
+msgid_plural ""
+msgstr[0] "உருப்படியை நகர்த்த முடியவில்லை"
+msgstr[1] "%d உருப்படிகளை நகர்த்த முடியவில்லை"
 
 #: ../src/modest-ui-dimming-rules.c:759
 msgid "mail_ib_attach_not_local"
@@ -1859,7 +1914,7 @@ msgstr ""
 
 #: ../src/modest-ui-dimming-rules.c:866 ../src/modest-ui-dimming-rules.c:874
 msgid "mail_ib_unable_to_purge_attachments"
-msgstr ""
+msgstr "இணைப்புகளை தூய்மைப்படுத்த முடியவில்லை"
 
 #: ../src/modest-ui-dimming-rules.c:969 ../src/modest-ui-dimming-rules.c:1001
 msgid "mcen_ib_item_unavailable_plaintext"
@@ -1912,82 +1967,84 @@ msgstr ""
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:329
 msgid "mcen_li_sort_sender_recipient_az"
-msgstr ""
+msgstr "முதல்/வரை (A-Z)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:332
 msgid "mcen_li_sort_sender_recipient_za"
-msgstr ""
+msgstr "முதல்/வரை (Z-A)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:335
 msgid "mcen_li_sort_date_newest"
-msgstr ""
+msgstr "தேதி (மிக அண்மைக் கால முதல்)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:338
 msgid "mcen_li_sort_date_oldest"
-msgstr ""
+msgstr "தேதி (முதல் முதல்)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:341
 msgid "mcen_li_sort_subject_az"
-msgstr ""
+msgstr "பொருள் (A-Z)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:344
 msgid "mcen_li_sort_subject_za"
-msgstr ""
+msgstr "பொருள் (Z-A)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:347 ../src/modest-utils.c:599
 msgid "mcen_li_sort_attachment"
-msgstr ""
+msgstr "இணைப்பு"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:350
 msgid "mcen_li_sort_size_largest"
-msgstr ""
+msgstr "அளவு (மிகப்பெரிய முதல்)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:353
 msgid "mcen_li_sort_size_smallest"
-msgstr ""
+msgstr "அளவு (முதல் முதல்)"
 
 #: ../src/hildon2/modest-hildon2-sort-dialog.c:356 ../src/modest-utils.c:610
 msgid "mcen_li_sort_priority"
-msgstr ""
+msgstr "முன்னுரிமை"
 
 #: ../src/hildon2/modest-platform.c:360 ../src/hildon2/modest-platform.c:442
 msgid "mcen_ib_unsupported_link"
-msgstr ""
+msgstr "ஆதரிக்கப்படாத இணைப்பு வகை"
 
 #: ../src/hildon2/modest-platform.c:382
 msgid "mcen_ni_noregistered_viewer"
-msgstr ""
+msgstr "இந்த கோப்பு வகைக்கு பார்வையாளர் எதுவும் கிடைக்கவில்லை"
 
 #: ../src/hildon2/modest-address-book.c:326
 #, c-format
 msgid "mcen_nc_email_address_not_defined"
 msgstr ""
+"தொடர்பு %s க்கு மின்னஞ்சல் முகவரி வரையறுக்கப்படவில்லை.\n"
+" இப்போது ஒன்றை வரையறுக்கவா?"
 
 #: ../src/hildon2/modest-address-book.c:399
 msgid "mcen_ti_add_email_title"
-msgstr ""
+msgstr "தொடர்பு கொள்ள மின்னஞ்சல் முகவரியைச் சேர்க்கவும்"
 
 #: ../src/hildon2/modest-address-book.c:414
 msgid "mcen_ia_add_email_name"
-msgstr ""
+msgstr "பெயர்"
 
 #: ../src/hildon2/modest-address-book.c:421
 msgid "mcen_fi_add_email_name"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 #: ../src/hildon2/modest-address-book.c:488
 msgid "mcen_ti_select_email_title"
-msgstr ""
+msgstr "மின்னஞ்சல் முகவரியைத் தேர்ந்தெடுக்கவும்"
 
 #: ../src/hildon2/modest-address-book.c:701
 msgid "mail_ib_checking_names"
-msgstr ""
+msgstr "பெயர்களைச் சரிபார்க்கிறது"
 
 #. no matching contacts for the search string
 #: ../src/hildon2/modest-address-book.c:766
 #: ../src/hildon2/modest-address-book.c:1155
 msgid "mcen_nc_no_matching_contacts"
-msgstr ""
+msgstr "பொருந்தக்கூடிய தொடர்புகள் எதுவும் கிடைக்கவில்லை"
 
 #. The name of memory card locations will be updated asynchronously.
 #. * This is just a default:
@@ -2006,7 +2063,7 @@ msgstr ""
 #: ../src/modest-local-folder-info.c:45
 #: ../src/modest-tny-local-folders-account.c:272
 msgid "mcen_me_folder_outbox"
-msgstr ""
+msgstr "அவுட்பாக்ச்"
 
 #: ../src/modest-local-folder-info.c:46
 msgid "Trash"
@@ -2018,7 +2075,7 @@ msgstr ""
 
 #: ../src/modest-local-folder-info.c:48
 msgid "mcen_me_folder_sent"
-msgstr ""
+msgstr "அனுப்பப்பட்டது"
 
 #: ../src/modest-local-folder-info.c:49
 msgid "<root>"
@@ -2030,23 +2087,23 @@ msgstr ""
 
 #: ../src/modest-local-folder-info.c:52
 msgid "mcen_me_folder_archive"
-msgstr ""
+msgstr "காப்பகம்"
 
 #: ../src/modest-text-utils.c:326
 msgid "mail_va_re"
-msgstr ""
+msgstr "மறு"
 
 #: ../src/modest-text-utils.c:326
 msgid "mail_va_fw"
-msgstr ""
+msgstr "Fw"
 
 #: ../src/modest-text-utils.c:1011
 msgid "mcen_ia_editor_attach_filename"
-msgstr ""
+msgstr "<இணைப்பு> "
 
 #: ../src/modest-utils.c:386
 msgid "emev_ni_checking_supported_auth_methods"
-msgstr ""
+msgstr "உதவி அங்கீகார முறைகளைச் சரிபார்க்கிறது"
 
 #: ../src/modest-utils.c:570
 msgid "mcen_li_sort_sender_recipient"
@@ -2092,3 +2149,162 @@ msgstr ""
 #, c-format
 msgid "TODO: couldn't retrieve attachment"
 msgstr ""
+
+msgid "emev_ib_ui_imap_server_not_support_error"
+msgstr "செயல்பாடு IMAP சேவையகத்தால் ஆதரிக்கப்படவில்லை"
+
+msgid "emev_nc_mailbox_notavailable"
+msgstr "மின்னஞ்சல் கணக்கு கிடைக்கவில்லை"
+
+msgid "mcen_me_email_home_applet"
+msgstr "மின்னஞ்சல்"
+
+msgid "mcen_va_more_toview"
+msgstr "%d/%d"
+
+msgid "mcen_va_new_message"
+msgid_plural "mcen_va_new_messages"
+msgstr[0] "%d புதிய செய்தி"
+msgstr[1] "%d புதிய செய்திகள்"
+
+msgid "emev_ib_ui_imap_uid_fetch_error"
+msgstr "செய்தி உடலை மீட்டெடுக்க முடியவில்லை"
+
+msgid "emev_ib_ui_imap_unable_to_rename"
+msgstr ""
+"மறுபெயரிட முடியவில்லை.\n"
+" தவறான பெயர்."
+
+msgid "emev_ib_ui_pop3_msg_lock_error"
+msgstr ""
+"மின்னஞ்சல் கணக்கை அணுக முடியவில்லை. மற்றொரு பயன்பாடு அதைப் பயன்படுத்தலாம்."
+
+msgid "emev_ib_ui_smtp_send_error"
+msgstr "SMTP அனுப்பு செயல்பாடு தோல்வியடைந்தது. பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+msgid "emev_ib_ui_smtp_server_invalid"
+msgstr ""
+"SMTP சேவையகத்துடன் இணைக்க முடியவில்லை. உங்கள் பிணையத்திற்கு சேவையகத்திற்கான அணுகல் உள்ளதா"
+" என சரிபார்க்கவும்."
+
+msgid "emev_nc_delete_mailboximap"
+msgstr ""
+"இந்த மின்னஞ்சல் கணக்கை நீக்குவது இந்த கணக்கின் இன்பாக்ச் மற்றும் IMAP கோப்புறைகளுக்கு "
+"மீட்டெடுக்கப்பட்ட செய்திகளின் அனைத்து உள்ளக நகல்களையும் அகற்றும். எப்படியும் நீக்கவா?"
+
+msgid "emev_nc_mailbox_inuse"
+msgstr "பயன்பாட்டில் உள்ள மின்னஞ்சல் கணக்கு"
+
+msgid "emev_ni_ui_imap_connect_server_error"
+msgstr ""
+"%s உடன் இணைக்க முடியவில்லை. சேவையக பெயர் அல்லது துறைமுகம் எண் தவறாக இருக்கலாம்."
+
+msgid "emev_ni_ui_pop3_msg_connect_error"
+msgstr ""
+"%s உடன் இணைக்க முடியவில்லை. சேவையக பெயர் அல்லது துறைமுகம் எண் தவறாக இருக்கலாம்."
+
+msgid "emev_ni_ui_pop3_msg_eof"
+msgstr ""
+"மின்னஞ்சல் சேவையகத்தால் இணைப்பு நிறுத்தப்பட்டது.\n"
+" செய்தி மீட்டெடுப்பு ரத்து செய்யப்பட்டது. மீண்டும் இணைக்க முயற்சிக்கவும்."
+
+msgid "emev_ui_pop3_msg_socket_error"
+msgstr ""
+"சாக்கெட் செயல்பாட்டில் பிழை. SSL மறைகுறியாக்கப்பட்ட மின்னஞ்சலைப் பயன்படுத்தினால், SSL ஐ "
+"முடக்கி மீண்டும் முயற்சிக்கவும்."
+
+msgid "mail_ib_contacts_file_access_permission"
+msgstr "தொடர்பு தகவல்களை அணுக முடியவில்லை"
+
+msgid "mail_ib_imap_server_sync_error"
+msgstr ""
+"செய்திகளை செயலாக்கும்போது IMAP ஒத்திசைவு பிழை ஏற்பட்டது.\n"
+" மின்னஞ்சல் கணக்கு %s க்கான அனுப்பு-மறுசீரமைப்பு செயல்பாட்டைச் செய்தல்."
+
+msgid "mail_nc_msg_count_limit_exceeded"
+msgstr ""
+"சேவையகத்தில் %d புதிய செய்திகள் ஆனால் மீட்டெடுக்கும் வரம்பு %d.\n"
+" எல்லா செய்திகளையும் அல்லது புதியவற்றையும் வரம்பிற்குள் மீட்டெடுக்கவா?"
+
+msgid "mail_ni_ssl_certificate_error"
+msgstr "பாதுகாப்பான இணைப்பு தோல்வியடைந்தது"
+
+msgid "mail_ni_ui_folder_file_error"
+msgstr "கோப்பு பிழை"
+
+msgid "mail_ni_ui_folder_get_header_error"
+msgstr "செய்தி தலைப்பை மீட்டெடுக்க முடியவில்லை"
+
+msgid "mail_usr_not_available_on_server_dev"
+msgstr "பெறுநர் சேவையகத்தில் காணப்படவில்லை"
+
+msgid "mcen_ap_name_app_menu"
+msgstr "மின்னஞ்சல்"
+
+msgid "mcen_bd_get_all"
+msgstr "அனைத்தும்"
+
+msgid "mcen_bd_newest_only"
+msgstr "புதியது மட்டுமே"
+
+msgid "mcen_fi_advsetup_other_security_secureimap4s"
+msgstr "SSL (IMAP4S)"
+
+msgid "mcen_fi_advsetup_other_security_securepop3s"
+msgstr "எச்.எச்.எல் (பாப் 3 கள்)"
+
+msgid "mcen_fi_emailsetup_every"
+msgstr "ஒவ்வொன்றும்"
+
+msgid "mcen_fi_emailsetup_folders"
+msgstr "மின்னஞ்சல் கோப்புறைகள்"
+
+msgid "mcen_fi_emailsetup_from"
+msgstr "இருந்து"
+
+msgid "mcen_fi_emailsetup_servername"
+msgstr "சேவையக பெயர்"
+
+msgid "mcen_fi_emailsetup_to"
+msgstr "பெறுநர்"
+
+msgid "mcen_ia_nounreadmessages"
+msgstr "(படிக்காத செய்திகள் இல்லை)"
+
+msgid "mcen_ia_taptoread"
+msgstr "(செய்திகளைக் காண தட்டவும்)"
+
+msgid "mcen_ib_changes_discarded"
+msgstr "மாற்றங்கள் நிராகரிக்கப்படுகின்றன"
+
+msgid "mcen_me_editor_hidebcc"
+msgstr "பி.சி.சி."
+
+msgid "mcen_me_editor_hidecc"
+msgstr "சி.சி."
+
+msgid "mcen_me_sort"
+msgstr "வரிசைப்படுத்து"
+
+msgid "mcen_ni_intellisyncd_failed"
+msgstr ""
+"இன்டெலிசின்க் பணி கிடைக்கவில்லை. சாதனத்தை மறுதொடக்கம் செய்ய முயற்சிக்கவும்."
+
+msgid "mcen_ni_smtp_config_error"
+msgstr ""
+"%s உடன் இணைக்க முடியவில்லை. சேவையக பெயர் அல்லது துறைமுகம் எண் தவறாக இருக்கலாம்."
+
+msgid "mcen_ti_intellisync_settings"
+msgstr "இன்டெலிசின்சிற்கான கணக்கு அமைப்புகள்"
+
+msgid "mcen_va_intellisync"
+msgstr "இன்டெலிசின்க்"
+
+msgid "mcen_va_message_properties_size_noinfo"
+msgstr "-"
+
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "இந்த கணக்கிற்கான இணைப்பில்லாத IMAP ஆதரவை இயக்கவும்"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "எல்லா கோப்புறைகளையும் தானாக புதுப்பிக்கவும்"
