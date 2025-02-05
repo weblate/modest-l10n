@@ -6,16 +6,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2022-08-15 07:19+0000\n"
-"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"maemo-leste/modest-l10n/zh_Hans/>\n"
+"PO-Revision-Date: 2025-02-06 22:01+0000\n"
+"Last-Translator: coio <ddllkl@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/maemo-leste/modest-l10n/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "emev_ib_ui_imap_server_not_support_error"
 msgstr "IMAP 服务器不支持操作"
@@ -37,13 +37,14 @@ msgstr "SMTP问到服务器."
 
 msgid "emev_nc_delete_attachment"
 msgid_plural "emev_nc_delete_attachments"
-msgstr[0] "从邮件中删除附件?\n%s"
+msgstr[0] "从邮件中删除选中的附件?"
 
 msgid "emev_nc_delete_mailbox"
 msgstr "删除这个电子邮件账户将会删除全部的收件箱本地拷贝.仍然删除?"
 
 msgid "emev_nc_delete_mailboximap"
-msgstr "删除这个电子邮件账户将会删除全部的收件箱本地拷贝和"
+msgstr "删除此电子邮件帐户将删除检索到此帐户收件箱和 IMAP "
+"文件夹的所有本地邮件副本。继续删除？"
 
 msgid "emev_nc_delete_message"
 msgid_plural "emev_nc_delete_messages"
@@ -81,7 +82,9 @@ msgid "emev_ni_ui_pop3_msg_connect_error"
 msgstr "%s 无法连接. 请检查服务器名称和端口."
 
 msgid "emev_ni_ui_pop3_msg_eof"
-msgstr "连接被电子邮件服务器终止.\n收取邮件被取消"
+msgstr ""
+"连接被电子邮件服务器终止.\n"
+"收取邮件被取消。再次尝试连接."
 
 msgid "emev_ni_ui_pop3_msg_recv_error"
 msgstr "处理邮件时发生错误.\n也许邮件已经不在服务器上."
@@ -129,7 +132,8 @@ msgid "mail_ib_account_name_already_existing"
 msgstr "电子邮件账户标题已经被使用"
 
 msgid "mail_ib_backend_server_invalid"
-msgstr "无法联系 %s 服务器或服务器不存在. 当前服务器或许不可用. 请检查您的网络是否能访问到服务器"
+msgstr "无法联系 %s 服务器或服务器不存在. 当前服务器或许不可用. "
+"请检查您的网络是否能访问到服务器."
 
 msgid "mail_ib_checking_names"
 msgstr "正在检查名称"
@@ -138,13 +142,15 @@ msgid "mail_ib_contacts_file_access_permission"
 msgstr "无法获得联系人信息"
 
 msgid "mail_ib_error_attachment_size"
-msgstr "文件过大，无法加载"
+msgstr "文件过大，无法作为附件."
 
 msgid "mail_ib_file_operation_failed"
 msgstr "文件错误"
 
 msgid "mail_ib_imap_server_sync_error"
-msgstr "账户 %s IMAP 同步发生错误."
+msgstr ""
+"处理邮件时发生 IMAP 同步错误。\n"
+"为电子邮件帐户 %s 执行发送-接收操作。"
 
 msgid "mail_ib_nothing_to_find"
 msgstr "没有找到"
@@ -159,7 +165,7 @@ msgid "mail_in_ui_folder_create_error"
 msgstr "无法创建邮件文件夹"
 
 msgid "mail_in_ui_folder_create_error_memory"
-msgstr "无法创建邮件文件夹. 外置存储卡已满"
+msgstr "无法创建邮件文件夹. 外置存储卡已满."
 
 msgid "mail_in_ui_folder_delete_error"
 msgstr "无法删除文件夹"
@@ -168,10 +174,14 @@ msgid "mail_in_ui_folder_move_target_error"
 msgstr "无法移动到当前位置"
 
 msgid "mail_in_ui_save_error"
-msgstr "无法保存至草稿，内存已满\n请删除本地邮件释放内存"
+msgstr ""
+"无法保存至草稿，内存已满\n"
+"请删除本地邮件释放内存。"
 
 msgid "mail_nc_msg_count_limit_exceeded"
-msgstr "服务器有 %d 封新邮件，但存取限制为  %d 封。\n要下载所有邮件或依限制数量下载最新的邮件?"
+msgstr ""
+"服务器有 %d 封新邮件，但存取限制为 %d 封。\n"
+"要下载所有邮件或依限制数量下载最新的邮件?"
 
 msgid "mail_ni_ssl_certificate_error"
 msgstr "安全连接失败"
@@ -192,22 +202,22 @@ msgid "mail_usr_not_available_on_server_dev"
 msgstr "服务器上未找到收件人"
 
 msgid "mail_va_attachment"
-msgstr "附件:"
+msgstr "附件"
 
 msgid "mail_va_attachments"
 msgstr "附件"
 
 msgid "mail_va_cc"
-msgstr "抄送:"
+msgstr "抄送"
 
 msgid "mail_va_from"
-msgstr "发件人:"
+msgstr "发件人"
 
 msgid "mail_va_fw"
 msgstr "转发"
 
 msgid "mail_va_hotfix1"
-msgstr "密件抄送:"
+msgstr "密件抄送"
 
 msgid "mail_va_new_email"
 msgstr "新建邮件"
@@ -225,10 +235,10 @@ msgid "mail_va_saved_to_drafts"
 msgstr "保存到 %s"
 
 msgid "mail_va_subject"
-msgstr "标题:"
+msgstr "标题"
 
 msgid "mail_va_to"
-msgstr "收件人:"
+msgstr "收件人"
 
 msgid "mcen_ap_name"
 msgstr "电子邮件"
@@ -264,7 +274,7 @@ msgid "mcen_fi_advanced_settings"
 msgstr "高级设置"
 
 msgid "mcen_fi_advsetup_connection_smtp"
-msgstr "使用指定的 SMTP 服务器:"
+msgstr "使用连接指定的 SMTP 服务器"
 
 msgid "mcen_fi_advsetup_leave_on_server"
 msgstr "不删除服务器上的邮件"
@@ -360,31 +370,31 @@ msgid "mcen_fi_folder_properties_size"
 msgstr "大小"
 
 msgid "mcen_fi_message_properties_bcc"
-msgstr "密件抄送:"
+msgstr "密件抄送 "
 
 msgid "mcen_fi_message_properties_cc"
-msgstr "抄送:"
+msgstr "抄送 "
 
 msgid "mcen_fi_message_properties_created"
-msgstr "创建时间:"
+msgstr "创建时间: "
 
 msgid "mcen_fi_message_properties_from"
-msgstr "发件人:"
+msgstr "发件人: "
 
 msgid "mcen_fi_message_properties_received"
-msgstr "接收:"
+msgstr "已接收 "
 
 msgid "mcen_fi_message_properties_sent"
-msgstr "发送:"
+msgstr "已发送 "
 
 msgid "mcen_fi_message_properties_size"
-msgstr "大小:"
+msgstr "大小 "
 
 msgid "mcen_fi_message_properties_subject"
-msgstr "标题:"
+msgstr "标题 "
 
 msgid "mcen_fi_message_properties_to"
-msgstr "收件人:"
+msgstr "收件人 "
 
 msgid "mcen_fi_options_automatic_add"
 msgstr "自动加入至通讯录"
@@ -414,14 +424,16 @@ msgid "mcen_ia_add_email_name"
 msgstr "名称"
 
 msgid "mcen_ia_customsetup_complete"
-msgstr "点击 '完成' 以保存或点击向导以外区域以取消设置. 点击 ‘高级设置’ 以更改账号的高级设置."
+msgstr ""
+"点击 '完成' 以保存或点击向导以外区域以取消设置.\n"
+"点击 ‘高级设置’ 以更改账号的高级设置."
 
 msgid "mcen_ia_easysetup_complete"
 msgstr "点击 '完成' 以保存或点击向导以外区域以取消设置. 您可以在选项 '编辑账户' "
 "中修改设置."
 
 msgid "mcen_ia_editor_attach_filename"
-msgstr "<附件:>"
+msgstr "<附件> "
 
 msgid "mcen_ia_editor_original_message"
 msgstr "----- 原件 -----"
@@ -438,7 +450,7 @@ msgstr "账户"
 msgid "mcen_ia_emailsetup_intro"
 msgstr ""
 "账户设置向导将帮助您设置电子邮件账户\n"
-"点击"
+"点击 '下一步' 继续"
 
 msgid "mcen_ia_emailsetup_setup_complete"
 msgstr "账户设置完成."
@@ -462,7 +474,10 @@ msgid "mcen_ia_optionalsmtp_note"
 msgstr "编辑连接时需要特殊指定的SMTP服务器"
 
 msgid "mcen_ia_privacy_notice"
-msgstr "您的运营商和国家代码信息将被发送到诺基亚以用来检查服务是否可用。诺基亚将不会处理和存储未经您同意的任何个人身份信息。请到诺基亚网站www.nokia.com查看诺基亚隐私权政策。"
+msgstr ""
+"您的运营商和国家代码信息将被发送到诺基亚以用来检查服务是否可用。诺基亚将不会"
+"处理和存储未经您同意的任何个人身份信息。请到诺基亚网站www.nokia.com查看诺基亚"
+"隐私权政策"
 
 msgid "mcen_ia_select_inline_image_title"
 msgstr "选择图片"
@@ -711,7 +726,9 @@ msgid "mcen_nc_delete_folder_text"
 msgstr "删除文件夹及其内容?\n%s"
 
 msgid "mcen_nc_email_address_not_defined"
-msgstr "联系人立刻输入电子邮件地址?"
+msgstr ""
+"联系人 %s 没有电子邮件地址\n"
+"立刻输入电子邮件地址?"
 
 msgid "mcen_nc_get_msg"
 msgid_plural "mcen_nc_get_msgs"
@@ -734,7 +751,7 @@ msgid "mcen_ni_noregistered_viewer"
 msgstr "无法预览,没有关联的程序"
 
 msgid "mcen_ni_smtp_config_error"
-msgstr "无法连接 %s. 服务器设置或端口设置错误"
+msgstr "无法连接 %s. 服务器设置或端口设置错误."
 
 msgid "mcen_ni_view_unknown_certificate"
 msgstr "未知的证书:\n%s"
@@ -746,7 +763,7 @@ msgid "mcen_ti_accountdetails"
 msgstr "账户详情"
 
 msgid "mcen_ti_add_email_title"
-msgstr "添加电子邮件地址."
+msgstr "添加电子邮件地址"
 
 msgid "mcen_ti_connection_connection_name"
 msgstr "连接指定的SMTP服务器: %s"
